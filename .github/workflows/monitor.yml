@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   check:
@@ -31,3 +33,8 @@ jobs:
           git add state.json
           git commit -m 'Update Google Apply availability state'
           git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4

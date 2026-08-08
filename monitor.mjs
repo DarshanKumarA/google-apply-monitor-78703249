@@ -5,6 +5,11 @@ const jobUrl = "https://www.google.com/about/careers/applications/jobs/results/7
 const title = "Software Engineer, Early Career, Campus";
 const stateFile = "state.json";
 
+function writePublicStatus(status) {
+  fs.mkdirSync("public", { recursive: true });
+  fs.writeFileSync("public/status.json", `${JSON.stringify(status, null, 2)}\n`);
+}
+
 function isApplyAvailable(page) {
   const elements = page.match(/<(?:a|button)\b[^>]*(?:\/>|>.*?<\/(?:a|button)\s*>)/gis) ?? [];
   return elements.some((element) => {
@@ -49,17 +54,25 @@ async function sendEmail() {
   });
 }
 
+const checkedAt = new Date().toISOString();
 const state = loadState();
-const available = isApplyAvailable(await fetchPage());
-if (available && !state.available) {
-  await sendEmail(); // State changes only after Gmail accepts the alert.
-  state.available = true;
-  state.alertedAt = new Date().toISOString();
-  fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`);
-  console.log("Apply is available; email sent.");
-} else if (!available && state.available) {
-  fs.writeFileSync(stateFile, `${JSON.stringify({ available: false }, null, 2)}\n`);
-  console.log("Apply is no longer available; alert state reset.");
-} else {
-  console.log(available ? "Apply remains available; already alerted." : "Apply is not yet available.");
+try {
+  const available = isApplyAvailable(await fetchPage());
+  let result = available ? "Apply button is available" : "Apply button is not yet available";
+  if (available && !state.available) {
+    await sendEmail(); // State changes only after Gmail accepts the alert.
+    state.available = true;
+    state.alertedAt = checkedAt;
+    fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`);
+    result = "Apply button is available — email alert sent";
+  } else if (!available && state.available) {
+    fs.writeFileSync(stateFile, `${JSON.stringify({ available: false }, null, 2)}\n`);
+  }
+  writePublicStatus({ checkedAt, result, available, jobUrl });
+  console.log(result);
+} catch (error) {
+  const result = `Check failed: ${error.message}`;
+  writePublicStatus({ checkedAt, result, available: null, jobUrl });
+  console.error(result);
+  throw error;
 }

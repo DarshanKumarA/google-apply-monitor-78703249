@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Apply Monitor status</title>
+  <style>body{margin:0;font:16px system-ui,sans-serif;background:#f7f9fc;color:#172033;display:grid;place-items:center;min-height:100vh}.card{background:#fff;max-width:560px;width:calc(100% - 48px);padding:32px;border-radius:16px;box-shadow:0 8px 28px #1a2d4d18}h1{margin:0 0 24px;font-size:24px}.label{color:#657189;margin:18px 0 5px}.value{font-weight:600;font-size:18px}a{color:#1558d6;word-break:break-all}.loading{color:#657189}</style>
+</head>
+<body><main class="card"><h1>Google Apply Monitor</h1><div id="content" class="loading">Loading latest check…</div></main>
+<script>
+fetch('status.json?t='+Date.now()).then(r=>r.json()).then(s=>{
+  const availability=s.available===true?'Apply available':s.available===false?'Not yet available':'Check needs attention';
+  document.getElementById('content').innerHTML=`<div class="label">Status</div><div class="value">${availability}</div><div class="label">Latest result</div><div class="value">${s.result}</div><div class="label">Last check (UTC)</div><div class="value">${new Date(s.checkedAt).toISOString()}</div><div class="label">Job posting</div><a href="${s.jobUrl}">Open Google Careers</a>`;
+}).catch(()=>document.getElementById('content').textContent='Status has not been published yet.');
+</script></body></html>
