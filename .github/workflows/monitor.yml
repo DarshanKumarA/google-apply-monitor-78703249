@@ -1,0 +1,33 @@
+name: Monitor Google Careers Apply button
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm install --omit=dev
+      - run: node monitor.mjs
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      - name: Save Apply status
+        run: |
+          if git diff --quiet -- state.json; then exit 0; fi
+          git config user.name 'Google Apply Monitor'
+          git config user.email 'actions@github.com'
+          git add state.json
+          git commit -m 'Update Google Apply availability state'
+          git push

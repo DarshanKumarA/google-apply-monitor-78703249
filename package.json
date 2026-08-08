@@ -1,0 +1,8 @@
+{
+  "name": "google-apply-monitor-cloud",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^9.0.5"
+  }
+}
