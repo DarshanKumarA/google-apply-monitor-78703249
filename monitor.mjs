@@ -41,7 +41,7 @@ function loadState() {
   catch { return { available: false }; }
 }
 
-async function sendEmail() {
+async function sendEmail(subject = "Apply now: Google Software Engineer", text = `The Apply button is available for ${title}.\n\nApply here:\n${jobUrl}`) {
   const user = process.env.GMAIL_USER;
   const password = process.env.GMAIL_APP_PASSWORD;
   if (!user || !password) throw new Error("GMAIL_USER and GMAIL_APP_PASSWORD secrets are required.");
@@ -49,8 +49,8 @@ async function sendEmail() {
   await transporter.sendMail({
     from: user,
     to: user,
-    subject: "Apply now: Google Software Engineer",
-    text: `The Apply button is available for ${title}.\n\nApply here:\n${jobUrl}`,
+    subject,
+    text,
   });
 }
 
@@ -69,6 +69,10 @@ try {
     fs.writeFileSync(stateFile, `${JSON.stringify({ available: false }, null, 2)}\n`);
   }
   writePublicStatus({ checkedAt, result, available, jobUrl });
+  if (process.env.TEST_EMAIL === "true") {
+    await sendEmail("Google Apply Monitor cloud email test", "This confirms that the always-online GitHub monitor can send Gmail alerts.");
+    console.log("Cloud email test sent.");
+  }
   console.log(result);
 } catch (error) {
   const result = `Check failed: ${error.message}`;

@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: Send a one-time cloud email test
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -25,6 +31,7 @@ jobs:
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TEST_EMAIL: ${{ inputs.test_email || 'false' }}
       - name: Save Apply status
         run: |
           if git diff --quiet -- state.json; then exit 0; fi
