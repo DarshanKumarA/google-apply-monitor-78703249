@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Google Apply Monitor status</title>
-  <style>body{margin:0;font:16px system-ui,sans-serif;background:#f7f9fc;color:#172033;display:grid;place-items:center;min-height:100vh}.card{background:#fff;max-width:560px;width:calc(100% - 48px);padding:32px;border-radius:16px;box-shadow:0 8px 28px #1a2d4d18}h1{margin:0 0 24px;font-size:24px}.label{color:#657189;margin:18px 0 8px}.value{font-weight:600;font-size:18px}a{color:#1558d6;word-break:break-all}.loading{color:#657189}.status-button{border:0;border-radius:10px;width:100%;padding:17px 18px;font:700 17px system-ui,sans-serif;letter-spacing:.2px;color:white;text-align:center;box-shadow:inset 0 -2px #0002}.unavailable{background:#c62828}.available{background:#16803d}.attention{background:#b46900}</style>
+  <style>body{margin:0;font:16px system-ui,sans-serif;background:#f7f9fc;color:#172033;display:grid;place-items:center;min-height:100vh}.card{background:#fff;max-width:560px;width:calc(100% - 48px);padding:32px;border-radius:16px;box-shadow:0 8px 28px #1a2d4d18}h1{margin:0 0 24px;font-size:24px}.label{color:#657189;margin:18px 0 8px}.value{font-weight:600;font-size:18px}a{color:#1558d6;word-break:break-all}.loading{color:#657189}.status-button{border:0;border-radius:10px;width:100%;padding:17px 18px;font:700 17px system-ui,sans-serif;letter-spacing:.2px;color:white;text-align:center;box-shadow:inset 0 -2px #0002}.unavailable{background:#c62828}.available{background:#16803d}.attention{background:#b46900}.log{list-style:none;margin:8px 0 0;padding:0;border:1px solid #e3e8f0;border-radius:10px;overflow:hidden;max-height:330px;overflow-y:auto}.log li{padding:10px 12px;border-bottom:1px solid #e9edf3;font-size:14px}.log li:last-child{border:0}.time{display:block;color:#657189;font-size:12px;margin-bottom:3px}</style>
 </head>
 <body><main class="card"><h1>Google Apply Monitor</h1><div id="content" class="loading">Loading latest check…</div></main>
 <script>
@@ -12,6 +12,7 @@ fetch('status.json?t='+Date.now()).then(r=>r.json()).then(s=>{
   const available=s.available===true, unavailable=s.available===false;
   const buttonClass=available?'available':unavailable?'unavailable':'attention';
   const buttonText=available?'✓ APPLY AVAILABLE':unavailable?'APPLY NOT AVAILABLE':'CHECK NEEDS ATTENTION';
-  document.getElementById('content').innerHTML=`<div class="label">Status</div><div class="status-button ${buttonClass}">${buttonText}</div><div class="label">Latest result</div><div class="value">${s.result}</div><div class="label">Last check (UTC)</div><div class="value">${new Date(s.checkedAt).toISOString()}</div><div class="label">Job posting</div><a href="${s.jobUrl}">Open Google Careers</a>`;
+  const logs=(s.history||[]).slice(-30).reverse().map(x=>`<li><span class="time">${new Date(x.checkedAt).toISOString()}</span>${x.result}</li>`).join('')||'<li>No checks recorded yet.</li>';
+  document.getElementById('content').innerHTML=`<div class="label">Status</div><div class="status-button ${buttonClass}">${buttonText}</div><div class="label">Latest result</div><div class="value">${s.result}</div><div class="label">Last check (UTC)</div><div class="value">${new Date(s.checkedAt).toISOString()}</div><div class="label">Recent five-minute checks</div><ul class="log">${logs}</ul><div class="label">Job posting</div><a href="${s.jobUrl}">Open Google Careers</a>`;
 }).catch(()=>document.getElementById('content').textContent='Status has not been published yet.');
 </script></body></html>

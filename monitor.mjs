@@ -38,7 +38,15 @@ async function fetchPage() {
 
 function loadState() {
   try { return JSON.parse(fs.readFileSync(stateFile, "utf8")); }
-  catch { return { available: false }; }
+  catch { return { available: false, failureCount: 0, history: [] }; }
+}
+
+function recordCheck(state, entry) {
+  state.history = [...(state.history ?? []), entry].slice(-100);
+}
+
+function saveState(state) {
+  fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`);
 }
 
 async function sendEmail(subject = "Apply now: Google Software Engineer", text = `The Apply button is available for ${title}.\n\nApply here:\n${jobUrl}`) {
@@ -59,16 +67,18 @@ const state = loadState();
 try {
   const available = isApplyAvailable(await fetchPage());
   let result = available ? "Apply button is available" : "Apply button is not yet available";
+  state.failureCount = 0;
   if (available && !state.available) {
     await sendEmail(); // State changes only after Gmail accepts the alert.
     state.available = true;
     state.alertedAt = checkedAt;
-    fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`);
     result = "Apply button is available — email alert sent";
   } else if (!available && state.available) {
-    fs.writeFileSync(stateFile, `${JSON.stringify({ available: false }, null, 2)}\n`);
+    state.available = false;
   }
-  writePublicStatus({ checkedAt, result, available, jobUrl });
+  recordCheck(state, { checkedAt, result, available });
+  saveState(state);
+  writePublicStatus({ checkedAt, result, available, jobUrl, history: state.history });
   if (process.env.TEST_EMAIL === "true") {
     await sendEmail("Google Apply Monitor cloud email test", "This confirms that the always-online GitHub monitor can send Gmail alerts.");
     console.log("Cloud email test sent.");
@@ -76,7 +86,13 @@ try {
   console.log(result);
 } catch (error) {
   const result = `Check failed: ${error.message}`;
-  writePublicStatus({ checkedAt, result, available: null, jobUrl });
+  state.failureCount = (state.failureCount ?? 0) + 1;
+  if (state.failureCount >= 3 && (!state.lastHealthAlertAt || Date.now() - Date.parse(state.lastHealthAlertAt) >= 86_400_000)) {
+    await sendEmail("Google Apply Monitor needs attention", `The cloud monitor has failed ${state.failureCount} checks in a row. Latest error: ${error.message}`);
+    state.lastHealthAlertAt = checkedAt;
+  }
+  recordCheck(state, { checkedAt, result, available: null });
+  saveState(state);
+  writePublicStatus({ checkedAt, result, available: null, jobUrl, history: state.history });
   console.error(result);
-  throw error;
 }
