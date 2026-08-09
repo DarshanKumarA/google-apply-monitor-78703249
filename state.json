@@ -1,3 +1,11 @@
 {
-  "available": false
+  "available": false,
+  "failureCount": 0,
+  "history": [
+    {
+      "checkedAt": "2026-08-09T04:37:31.783Z",
+      "result": "Apply button is not yet available",
+      "available": false
+    }
+  ]
 }
