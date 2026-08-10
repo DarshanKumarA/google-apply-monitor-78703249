@@ -32,13 +32,17 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           TEST_EMAIL: ${{ inputs.test_email || 'false' }}
+      - run: node job_monitor.mjs
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       - name: Save Apply status
         run: |
-          if git diff --quiet -- state.json; then exit 0; fi
+          if git diff --quiet -- state.json job-state.json; then exit 0; fi
           git config user.name 'Google Apply Monitor'
           git config user.email 'actions@github.com'
-          git add state.json
-          git commit -m 'Update Google Apply availability state'
+          git add state.json job-state.json
+          git commit -m 'Update Google Careers monitor state'
           git push
       - uses: actions/upload-pages-artifact@v3
         with:
