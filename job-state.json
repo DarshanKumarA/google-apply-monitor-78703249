@@ -110,7 +110,8 @@
     "17:82439303677780678": "2026-08-10T12:35:19.381Z",
     "18:107150827512046278": "2026-08-10T14:04:25.550Z",
     "18:138217803432764102": "2026-08-10T15:13:32.764Z",
-    "18:140690879961539270": "2026-08-10T15:13:32.764Z"
+    "18:140690879961539270": "2026-08-10T15:13:32.764Z",
+    "18:136478238598668998": "2026-08-10T16:11:25.927Z"
   },
   "baseline": [
     {
@@ -1156,6 +1157,16 @@
   ],
   "newOpenings": [
     {
+      "id": "18:136478238598668998",
+      "title": "Software Engineer, Consumer Payments",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:136478238598668998-software-engineer-consumer-payments",
+      "firstDetectedAt": "2026-08-10T16:11:25.927Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "18:138217803432764102",
       "title": "Software engineer III, Home and Health Infrastructure",
       "location": "London, UK",
@@ -1244,6 +1255,10 @@
     {
       "checkedAt": "2026-08-10T15:13:32.764Z",
       "result": "Found 104 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-10T16:11:25.927Z",
+      "result": "Found 104 matching roles; 1 new opening(s)"
     }
   ]
 }
