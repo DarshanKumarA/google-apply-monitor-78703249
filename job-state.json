@@ -105,7 +105,9 @@
     "17:78350205438567110": "2026-08-10T10:28:35.973Z",
     "18:133068619218068166": "2026-08-10T10:28:35.973Z",
     "18:130637761144070854": "2026-08-10T10:28:35.973Z",
-    "18:130664777025233606": "2026-08-10T10:53:49.561Z"
+    "18:130664777025233606": "2026-08-10T10:53:49.561Z",
+    "18:127602843300307654": "2026-08-10T12:35:19.381Z",
+    "17:82439303677780678": "2026-08-10T12:35:19.381Z"
   },
   "baseline": [
     {
@@ -1151,6 +1153,26 @@
   ],
   "newOpenings": [
     {
+      "id": "18:127602843300307654",
+      "title": "Software Engineer, AI/ML, PhD, Early Career, 2026",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:127602843300307654-software-engineer-ai-ml-phd-early-career-2026",
+      "firstDetectedAt": "2026-08-10T12:35:19.381Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "17:82439303677780678",
+      "title": "Associate Product Marketing Manager",
+      "location": "Mexico City, CDMX, Mexico",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/17:82439303677780678-associate-product-marketing-manager",
+      "firstDetectedAt": "2026-08-10T12:35:19.381Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "18:130664777025233606",
       "title": "Product Manager I, Search Discover AI",
       "location": "New York, NY, USA",
@@ -1177,6 +1199,10 @@
     {
       "checkedAt": "2026-08-10T11:46:22.662Z",
       "result": "Found 104 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-10T12:35:19.381Z",
+      "result": "Found 104 matching roles; 2 new opening(s)"
     }
   ]
 }
