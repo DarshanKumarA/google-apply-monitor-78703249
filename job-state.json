@@ -108,7 +108,9 @@
     "18:130664777025233606": "2026-08-10T10:53:49.561Z",
     "18:127602843300307654": "2026-08-10T12:35:19.381Z",
     "17:82439303677780678": "2026-08-10T12:35:19.381Z",
-    "18:107150827512046278": "2026-08-10T14:04:25.550Z"
+    "18:107150827512046278": "2026-08-10T14:04:25.550Z",
+    "18:138217803432764102": "2026-08-10T15:13:32.764Z",
+    "18:140690879961539270": "2026-08-10T15:13:32.764Z"
   },
   "baseline": [
     {
@@ -1154,6 +1156,26 @@
   ],
   "newOpenings": [
     {
+      "id": "18:138217803432764102",
+      "title": "Software engineer III, Home and Health Infrastructure",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:138217803432764102-software-engineer-iii-home-and-health-infrastructure",
+      "firstDetectedAt": "2026-08-10T15:13:32.764Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "18:140690879961539270",
+      "title": "Software Engineer II, Google Cloud Network",
+      "location": "Tel Aviv, Israel",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:140690879961539270-software-engineer-ii-google-cloud-network",
+      "firstDetectedAt": "2026-08-10T15:13:32.764Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "18:107150827512046278",
       "title": "Software Engineer II, Waze iOS",
       "location": "Tel Aviv, Israel",
@@ -1218,6 +1240,10 @@
     {
       "checkedAt": "2026-08-10T14:04:25.550Z",
       "result": "Found 104 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-10T15:13:32.764Z",
+      "result": "Found 104 matching roles; 2 new opening(s)"
     }
   ]
 }
