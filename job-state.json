@@ -107,7 +107,8 @@
     "18:130637761144070854": "2026-08-10T10:28:35.973Z",
     "18:130664777025233606": "2026-08-10T10:53:49.561Z",
     "18:127602843300307654": "2026-08-10T12:35:19.381Z",
-    "17:82439303677780678": "2026-08-10T12:35:19.381Z"
+    "17:82439303677780678": "2026-08-10T12:35:19.381Z",
+    "18:107150827512046278": "2026-08-10T14:04:25.550Z"
   },
   "baseline": [
     {
@@ -1153,6 +1154,16 @@
   ],
   "newOpenings": [
     {
+      "id": "18:107150827512046278",
+      "title": "Software Engineer II, Waze iOS",
+      "location": "Tel Aviv, Israel",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:107150827512046278-software-engineer-ii-waze-ios",
+      "firstDetectedAt": "2026-08-10T14:04:25.550Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "18:127602843300307654",
       "title": "Software Engineer, AI/ML, PhD, Early Career, 2026",
       "location": "Bengaluru, Karnataka, India",
@@ -1203,6 +1214,10 @@
     {
       "checkedAt": "2026-08-10T12:35:19.381Z",
       "result": "Found 104 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-10T14:04:25.550Z",
+      "result": "Found 104 matching roles; 1 new opening(s)"
     }
   ]
 }
