@@ -104,7 +104,8 @@
     "18:134485208953955014": "2026-08-10T10:28:35.973Z",
     "17:78350205438567110": "2026-08-10T10:28:35.973Z",
     "18:133068619218068166": "2026-08-10T10:28:35.973Z",
-    "18:130637761144070854": "2026-08-10T10:28:35.973Z"
+    "18:130637761144070854": "2026-08-10T10:28:35.973Z",
+    "18:130664777025233606": "2026-08-10T10:53:49.561Z"
   },
   "baseline": [
     {
@@ -1148,7 +1149,18 @@
       "expiryDate": "Not listed"
     }
   ],
-  "newOpenings": [],
+  "newOpenings": [
+    {
+      "id": "18:130664777025233606",
+      "title": "Product Manager I, Search Discover AI",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:130664777025233606-product-manager-i-search-discover-ai",
+      "firstDetectedAt": "2026-08-10T10:53:49.561Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    }
+  ],
   "checks": [
     {
       "checkedAt": "2026-08-10T10:28:35.973Z",
@@ -1157,6 +1169,10 @@
     {
       "checkedAt": "2026-08-10T10:31:09.571Z",
       "result": "Found 104 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-10T10:53:49.561Z",
+      "result": "Found 104 matching roles; 1 new opening(s)"
     }
   ]
 }
