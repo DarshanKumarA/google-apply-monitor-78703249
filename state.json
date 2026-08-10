@@ -1,5 +1,5 @@
 {
-  "available": false,
+  "available": true,
   "failureCount": 0,
   "history": [
     {
@@ -171,6 +171,12 @@
       "checkedAt": "2026-08-10T08:10:35.439Z",
       "result": "Apply button is not yet available",
       "available": false
+    },
+    {
+      "checkedAt": "2026-08-10T09:49:15.905Z",
+      "result": "Apply button is available — email alert sent",
+      "available": true
     }
-  ]
+  ],
+  "alertedAt": "2026-08-10T09:49:15.905Z"
 }
