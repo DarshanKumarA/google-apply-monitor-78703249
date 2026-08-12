@@ -117,7 +117,10 @@
     "18:106780507378721478": "2026-08-11T11:04:35.649Z",
     "18:107672743347921606": "2026-08-11T19:40:11.855Z",
     "18:124786092078441158": "2026-08-12T13:15:08.581Z",
-    "18:131730263922090694": "2026-08-12T13:15:08.581Z"
+    "18:131730263922090694": "2026-08-12T13:15:08.581Z",
+    "17:79935621212054214": "2026-08-12T15:33:05.424Z",
+    "18:117923747951715014": "2026-08-12T15:33:05.424Z",
+    "18:115718127626396358": "2026-08-12T15:33:05.424Z"
   },
   "baseline": [
     {
@@ -1163,6 +1166,36 @@
   ],
   "newOpenings": [
     {
+      "id": "17:79935621212054214",
+      "title": "Senior Software Engineer, Embedded Systems, Platforms and Devices",
+      "location": "San Jose, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/17:79935621212054214-senior-software-engineer-embedded-systems-platforms-and-devices",
+      "firstDetectedAt": "2026-08-12T15:33:05.424Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "18:117923747951715014",
+      "title": "Software Engineer III, Android Studio, Intelligent Eyewear Tooling",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:117923747951715014-software-engineer-iii-android-studio-intelligent-eyewear-tooling",
+      "firstDetectedAt": "2026-08-12T15:33:05.424Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "18:115718127626396358",
+      "title": "Software Engineer III, GenAI Data Operations Research, XR",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:115718127626396358-software-engineer-iii-genai-data-operations-research-xr",
+      "firstDetectedAt": "2026-08-12T15:33:05.424Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "18:124786092078441158",
       "title": "Software Engineer, Education Analytics",
       "location": "Mexico City, CDMX, Mexico",
@@ -1489,6 +1522,10 @@
     {
       "checkedAt": "2026-08-12T14:33:33.539Z",
       "result": "Found 100 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-12T15:33:05.424Z",
+      "result": "Found 100 matching roles; 3 new opening(s)"
     }
   ]
 }
