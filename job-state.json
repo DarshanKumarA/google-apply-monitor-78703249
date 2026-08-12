@@ -115,7 +115,9 @@
     "17:92162448210961094": "2026-08-10T18:05:01.691Z",
     "18:118534509481075398": "2026-08-10T18:05:01.691Z",
     "18:106780507378721478": "2026-08-11T11:04:35.649Z",
-    "18:107672743347921606": "2026-08-11T19:40:11.855Z"
+    "18:107672743347921606": "2026-08-11T19:40:11.855Z",
+    "18:124786092078441158": "2026-08-12T13:15:08.581Z",
+    "18:131730263922090694": "2026-08-12T13:15:08.581Z"
   },
   "baseline": [
     {
@@ -1161,6 +1163,26 @@
   ],
   "newOpenings": [
     {
+      "id": "18:124786092078441158",
+      "title": "Software Engineer, Education Analytics",
+      "location": "Mexico City, CDMX, Mexico",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:124786092078441158-software-engineer-education-analytics",
+      "firstDetectedAt": "2026-08-12T13:15:08.581Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "18:131730263922090694",
+      "title": "Senior Software Engineer, Dependency Tracing",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/18:131730263922090694-senior-software-engineer-dependency-tracing",
+      "firstDetectedAt": "2026-08-12T13:15:08.581Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "18:107672743347921606",
       "title": "Product Manager, Chrome Enterprise, Secure AI",
       "location": "Montreal, QC, Canada",
@@ -1459,6 +1481,10 @@
     {
       "checkedAt": "2026-08-12T11:55:06.044Z",
       "result": "Found 100 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-12T13:15:08.581Z",
+      "result": "Found 100 matching roles; 2 new opening(s)"
     }
   ]
 }
