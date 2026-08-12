@@ -406,6 +406,11 @@
       "checkedAt": "2026-08-12T09:54:14.991Z",
       "result": "Apply button is available",
       "available": true
+    },
+    {
+      "checkedAt": "2026-08-12T11:00:28.347Z",
+      "result": "Apply button is available",
+      "available": true
     }
   ],
   "alertedAt": "2026-08-10T09:49:15.905Z"
