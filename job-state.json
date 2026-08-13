@@ -205,16 +205,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "101341162689700550",
-      "title": "Software Engineer, Android, Google Wallet, Transit and eMoney",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/101341162689700550-software-engineer-android-google-wallet-transit-and-emoney",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136109780333667014",
       "title": "Software Engineer, Content Safety, AI Transformation Enablement",
       "location": "Singapore",
@@ -1002,6 +992,10 @@
     },
     {
       "checkedAt": "2026-08-13T11:35:50.035Z",
+      "result": "Found 55 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-13T12:30:58.277Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
     }
   ]
