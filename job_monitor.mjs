@@ -21,6 +21,9 @@ function saveState(state) { fs.writeFileSync(stateFile, `${JSON.stringify(state,
 function publish(data) {
   fs.mkdirSync("public", { recursive: true });
   fs.writeFileSync("public/jobs.json", `${JSON.stringify(data, null, 2)}\n`);
+  // A plain script works even in browsers that restrict JavaScript fetch(),
+  // while jobs.json remains available for diagnostics and integrations.
+  fs.writeFileSync("public/jobs-data.js", `window.GOOGLE_CAREERS_TRACKER_DATA=${JSON.stringify(data)};\n`);
 }
 
 function repairStoredLinks(state) {
