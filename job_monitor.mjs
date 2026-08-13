@@ -24,6 +24,14 @@ function publish(data) {
   // A plain script works even in browsers that restrict JavaScript fetch(),
   // while jobs.json remains available for diagnostics and integrations.
   fs.writeFileSync("public/jobs-data.js", `window.GOOGLE_CAREERS_TRACKER_DATA=${JSON.stringify(data)};\n`);
+  // Embed the same snapshot in the page itself. This avoids an extra network
+  // request entirely for restrictive mobile/in-app browsers.
+  const pagePath = "public/jobs.html";
+  const page = fs.readFileSync(pagePath, "utf8").replace(
+    "window.GOOGLE_CAREERS_TRACKER_DATA=null;",
+    `window.GOOGLE_CAREERS_TRACKER_DATA=${JSON.stringify(data)};`,
+  );
+  fs.writeFileSync(pagePath, page);
 }
 
 function repairStoredLinks(state) {
