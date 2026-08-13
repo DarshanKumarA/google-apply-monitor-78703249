@@ -9,6 +9,9 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const decode = (value = "") => value.replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, " ").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 const slug = (title) => title.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 const normalizeId = (value) => String(value).match(/(\d+)$/)?.[1] ?? String(value);
+// Junior/early-career focus: “Engineer I” remains eligible; II/III and roles
+// with senior or manager in their titles are explicitly excluded.
+const isEligible = (job) => !/\b(?:senior|manager|ii|iii)\b/i.test(job.title);
 
 function loadState() {
   try { return JSON.parse(fs.readFileSync(stateFile, "utf8")); }
@@ -97,11 +100,11 @@ repairStoredLinks(state);
 try {
   // Google can leave expired rows in search responses. Never show a dead Apply
   // link: revalidate saved cards before publishing them.
-  state.baseline = await keepLiveStoredJobs(state.baseline ?? []);
-  state.newOpenings = await keepLiveStoredJobs(state.newOpenings ?? []);
+  state.baseline = await keepLiveStoredJobs((state.baseline ?? []).filter(isEligible));
+  state.newOpenings = await keepLiveStoredJobs((state.newOpenings ?? []).filter(isEligible));
   const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?q=${encodeURIComponent(query)}`)));
   const candidates = new Map();
-  for (const page of pages) for (const job of parseResults(page)) candidates.set(job.id, job);
+  for (const page of pages) for (const job of parseResults(page)) if (isEligible(job)) candidates.set(job.id, job);
   const discovered = [];
   for (const job of candidates.values()) {
     if (!state.knownIds[job.id]) discovered.push(job);
