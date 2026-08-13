@@ -8,6 +8,7 @@ const stateFile = "job-state.json";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const decode = (value = "") => value.replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, " ").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 const slug = (title) => title.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+const normalizeId = (value) => String(value).match(/(\d+)$/)?.[1] ?? String(value);
 
 function loadState() {
   try { return JSON.parse(fs.readFileSync(stateFile, "utf8")); }
@@ -17,6 +18,16 @@ function saveState(state) { fs.writeFileSync(stateFile, `${JSON.stringify(state,
 function publish(data) {
   fs.mkdirSync("public", { recursive: true });
   fs.writeFileSync("public/jobs.json", `${JSON.stringify(data, null, 2)}\n`);
+}
+
+function repairStoredLinks(state) {
+  const repair = (job) => {
+    const id = normalizeId(job.id);
+    return { ...job, id, jobUrl: `${careersBase}${id}-${slug(job.title)}` };
+  };
+  state.baseline = (state.baseline ?? []).map(repair);
+  state.newOpenings = (state.newOpenings ?? []).map(repair);
+  state.knownIds = Object.fromEntries(Object.entries(state.knownIds ?? {}).map(([id, seen]) => [normalizeId(id), seen]));
 }
 
 async function fetchText(url) {
@@ -35,7 +46,9 @@ function parseResults(html) {
   const jobs = [];
   const pattern = /<li class="lLd3Je" ssk='([^']+)'>([\s\S]*?)(?=<li class="lLd3Je"|<\/ul>)/g;
   for (const match of html.matchAll(pattern)) {
-    const id = match[1]; const block = match[2];
+    // `ssk` is a UI key like "18:124786092078441158". Only its trailing
+    // numeric Google job ID belongs in a public job-results URL.
+    const id = normalizeId(match[1]); const block = match[2];
     const title = decode(block.match(/<h3 class="QJPWVe">([\s\S]*?)<\/h3>/)?.[1]);
     if (!title) continue;
     const location = decode(block.match(/class="r0wTof[^>]*">([\s\S]*?)<\/span>/)?.[1]) || "Location not listed";
@@ -67,6 +80,7 @@ async function sendNewJobsEmail(jobs) {
 
 const checkedAt = new Date().toISOString();
 const state = loadState();
+repairStoredLinks(state);
 try {
   const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?q=${encodeURIComponent(query)}`)));
   const candidates = new Map();
