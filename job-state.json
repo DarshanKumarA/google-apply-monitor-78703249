@@ -120,19 +120,10 @@
     "131730263922090694": "2026-08-12T13:15:08.581Z",
     "79935621212054214": "2026-08-12T15:33:05.424Z",
     "117923747951715014": "2026-08-12T15:33:05.424Z",
-    "115718127626396358": "2026-08-12T15:33:05.424Z"
+    "115718127626396358": "2026-08-12T15:33:05.424Z",
+    "112524389945090758": "2026-08-13T09:48:08.397Z"
   },
   "baseline": [
-    {
-      "id": "127611895480754886",
-      "title": "Staff Software Engineer, AI/ML GenAI, Google Ads",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127611895480754886-staff-software-engineer-ai-ml-genai-google-ads",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
     {
       "id": "123298905428239046",
       "title": "Staff Software Engineer, Network Health",
@@ -654,16 +645,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "110236336849330886",
-      "title": "Software Engineer, Android, Google Wallet, Device Experiences",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110236336849330886-software-engineer-android-google-wallet-device-experiences",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "134485208953955014",
       "title": "Software Engineer, Google Pay Shopping",
       "location": "Singapore",
@@ -675,6 +656,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "112524389945090758",
+      "title": "Software Engineer, Google Wallet, Physical Access",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112524389945090758-software-engineer-google-wallet-physical-access",
+      "firstDetectedAt": "2026-08-13T09:48:08.397Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "124786092078441158",
       "title": "Software Engineer, Education Analytics",
@@ -1000,6 +991,10 @@
     {
       "checkedAt": "2026-08-13T08:40:59.505Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-13T09:48:08.397Z",
+      "result": "Found 55 matching roles; 1 new opening(s)"
     }
   ]
 }
