@@ -62,12 +62,25 @@ async function enrich(job, firstDetectedAt) {
   const output = { ...job, firstDetectedAt, postingDate: "Not published by Google", expiryDate: "Not listed" };
   try {
     const text = decode(await fetchText(job.jobUrl));
+    if (/\bJob not found\b/i.test(text)) return null;
     const expiry = text.match(/application window will be open until at least\s+([^\.]+)/i)?.[1];
     if (expiry) output.expiryDate = expiry.trim();
     const early = text.match(/(?:0|one|1) years? of (?:relevant )?experience/i);
     if (early && output.experience === "See job details") output.experience = "0–1 year experience mentioned";
-  } catch (error) { output.metadataNote = "Details temporarily unavailable; will be refreshed on the next discovery."; }
+  } catch (error) { return null; }
   return output;
+}
+
+async function keepLiveStoredJobs(jobs) {
+  const live = [];
+  for (let index = 0; index < jobs.length; index += 8) {
+    const batch = await Promise.all(jobs.slice(index, index + 8).map(async (job) => {
+      try { return /\bJob not found\b/i.test(decode(await fetchText(job.jobUrl))) ? null : job; }
+      catch { return null; }
+    }));
+    live.push(...batch.filter(Boolean));
+  }
+  return live;
 }
 
 async function sendNewJobsEmail(jobs) {
@@ -82,6 +95,10 @@ const checkedAt = new Date().toISOString();
 const state = loadState();
 repairStoredLinks(state);
 try {
+  // Google can leave expired rows in search responses. Never show a dead Apply
+  // link: revalidate saved cards before publishing them.
+  state.baseline = await keepLiveStoredJobs(state.baseline ?? []);
+  state.newOpenings = await keepLiveStoredJobs(state.newOpenings ?? []);
   const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?q=${encodeURIComponent(query)}`)));
   const candidates = new Map();
   for (const page of pages) for (const job of parseResults(page)) candidates.set(job.id, job);
@@ -90,7 +107,7 @@ try {
     if (!state.knownIds[job.id]) discovered.push(job);
   }
   const enriched = [];
-  for (let index = 0; index < discovered.length; index += 8) enriched.push(...await Promise.all(discovered.slice(index, index + 8).map((job) => enrich(job, checkedAt))));
+  for (let index = 0; index < discovered.length; index += 8) enriched.push(...(await Promise.all(discovered.slice(index, index + 8).map((job) => enrich(job, checkedAt)))).filter(Boolean));
 
   if (!state.initializedAt) {
     state.initializedAt = checkedAt;
