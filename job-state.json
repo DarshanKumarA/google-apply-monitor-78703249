@@ -677,16 +677,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "136478238598668998",
-      "title": "Software Engineer, Consumer Payments",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136478238598668998-software-engineer-consumer-payments",
-      "firstDetectedAt": "2026-08-10T16:11:25.927Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "127602843300307654",
       "title": "Software Engineer, AI/ML, PhD, Early Career, 2026",
       "location": "Bengaluru, Karnataka, India",
@@ -1092,6 +1082,10 @@
     },
     {
       "checkedAt": "2026-08-14T16:28:24.962Z",
+      "result": "Found 55 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-14T17:32:00.611Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
     }
   ]
