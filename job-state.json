@@ -122,7 +122,8 @@
     "117923747951715014": "2026-08-12T15:33:05.424Z",
     "115718127626396358": "2026-08-12T15:33:05.424Z",
     "112524389945090758": "2026-08-13T09:48:08.397Z",
-    "123365080841495238": "2026-08-17T03:10:12.697Z"
+    "123365080841495238": "2026-08-17T03:10:12.697Z",
+    "73227881412469446": "2026-08-17T08:57:05.778Z"
   },
   "baseline": [
     {
@@ -648,6 +649,16 @@
   ],
   "newOpenings": [
     {
+      "id": "73227881412469446",
+      "title": "Staff Software Engineer, Consumer Payments (Growth)",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/73227881412469446-staff-software-engineer-consumer-payments-growth",
+      "firstDetectedAt": "2026-08-17T08:57:05.778Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "123365080841495238",
       "title": "Mobile Software Engineer, Multiplatform, Early Careers",
       "location": "Mexico City, CDMX, Mexico",
@@ -699,10 +710,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T04:26:50.039Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T04:58:19.878Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1098,6 +1105,10 @@
     {
       "checkedAt": "2026-08-17T08:03:26.952Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T08:57:05.778Z",
+      "result": "Found 56 matching roles; 1 new opening(s)"
     }
   ]
 }
