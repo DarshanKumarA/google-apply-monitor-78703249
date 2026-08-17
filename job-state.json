@@ -134,7 +134,8 @@
     "77684590197514950": "2026-08-17T13:36:17.880Z",
     "107641884007899846": "2026-08-17T14:04:39.039Z",
     "107087730147500742": "2026-08-17T14:04:39.039Z",
-    "134795423167455942": "2026-08-17T14:04:39.039Z"
+    "134795423167455942": "2026-08-17T14:04:39.039Z",
+    "133045000656036550": "2026-08-17T14:41:42.994Z"
   },
   "baseline": [
     {
@@ -630,6 +631,16 @@
   ],
   "newOpenings": [
     {
+      "id": "133045000656036550",
+      "title": "Software Engineer, Google Pay, Server Infrastructure",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/133045000656036550-software-engineer-google-pay-server-infrastructure",
+      "firstDetectedAt": "2026-08-17T14:41:42.994Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "107641884007899846",
       "title": "Software Engineer, Content Safety, Infra",
       "location": "Singapore",
@@ -801,10 +812,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T09:16:45.752Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T09:45:38.626Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1200,6 +1207,10 @@
     {
       "checkedAt": "2026-08-17T14:04:39.039Z",
       "result": "Found 61 matching roles; 3 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T14:41:42.994Z",
+      "result": "Found 62 matching roles; 1 new opening(s)"
     }
   ]
 }
