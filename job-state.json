@@ -135,7 +135,8 @@
     "107641884007899846": "2026-08-17T14:04:39.039Z",
     "107087730147500742": "2026-08-17T14:04:39.039Z",
     "134795423167455942": "2026-08-17T14:04:39.039Z",
-    "133045000656036550": "2026-08-17T14:41:42.994Z"
+    "133045000656036550": "2026-08-17T14:41:42.994Z",
+    "118702197889213126": "2026-08-17T19:28:01.967Z"
   },
   "baseline": [
     {
@@ -631,6 +632,16 @@
   ],
   "newOpenings": [
     {
+      "id": "118702197889213126",
+      "title": "Software Engineer, AI/ML, Full Stack, Search Ads",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118702197889213126-software-engineer-ai-ml-full-stack-search-ads",
+      "firstDetectedAt": "2026-08-17T19:28:01.967Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "August 31, 2026"
+    },
+    {
       "id": "133045000656036550",
       "title": "Software Engineer, Google Pay, Server Infrastructure",
       "location": "Singapore",
@@ -812,10 +823,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T12:55:16.112Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T13:33:02.092Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1211,6 +1218,10 @@
     {
       "checkedAt": "2026-08-17T18:54:10.158Z",
       "result": "Found 62 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T19:28:01.967Z",
+      "result": "Found 63 matching roles; 1 new opening(s)"
     }
   ]
 }
