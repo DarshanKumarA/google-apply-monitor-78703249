@@ -137,7 +137,8 @@
     "134795423167455942": "2026-08-17T14:04:39.039Z",
     "133045000656036550": "2026-08-17T14:41:42.994Z",
     "118702197889213126": "2026-08-17T19:28:01.967Z",
-    "110758776134345414": "2026-08-17T20:23:53.180Z"
+    "110758776134345414": "2026-08-17T20:23:53.180Z",
+    "135157584154763974": "2026-08-17T22:45:11.352Z"
   },
   "baseline": [
     {
@@ -633,6 +634,16 @@
   ],
   "newOpenings": [
     {
+      "id": "135157584154763974",
+      "title": "Software Engineer (For Women in Tech Candidates)",
+      "location": "Belo Horizonte, State of Minas Gerais, Brazil",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135157584154763974-software-engineer-for-women-in-tech-candidates",
+      "firstDetectedAt": "2026-08-17T22:45:11.352Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "August 31, 2026"
+    },
+    {
       "id": "110758776134345414",
       "title": "Associate Data Center Facilities Technician, Electrical",
       "location": "Sterling, VA, USA",
@@ -834,10 +845,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T15:56:51.409Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T16:32:58.384Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1233,6 +1240,10 @@
     {
       "checkedAt": "2026-08-17T22:17:22.590Z",
       "result": "Found 64 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T22:45:11.352Z",
+      "result": "Found 64 matching roles; 1 new opening(s)"
     }
   ]
 }
