@@ -121,7 +121,8 @@
     "79935621212054214": "2026-08-12T15:33:05.424Z",
     "117923747951715014": "2026-08-12T15:33:05.424Z",
     "115718127626396358": "2026-08-12T15:33:05.424Z",
-    "112524389945090758": "2026-08-13T09:48:08.397Z"
+    "112524389945090758": "2026-08-13T09:48:08.397Z",
+    "123365080841495238": "2026-08-17T03:10:12.697Z"
   },
   "baseline": [
     {
@@ -647,6 +648,16 @@
   ],
   "newOpenings": [
     {
+      "id": "123365080841495238",
+      "title": "Mobile Software Engineer, Multiplatform, Early Careers",
+      "location": "Mexico City, CDMX, Mexico",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/123365080841495238-mobile-software-engineer-multiplatform-early-careers",
+      "firstDetectedAt": "2026-08-17T03:10:12.697Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "112524389945090758",
       "title": "Software Engineer, Google Wallet, Physical Access",
       "location": "Singapore",
@@ -688,10 +699,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-14T22:56:54.316Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-14T23:28:10.286Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1087,6 +1094,10 @@
     {
       "checkedAt": "2026-08-17T02:04:27.872Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T03:10:12.697Z",
+      "result": "Found 56 matching roles; 1 new opening(s)"
     }
   ]
 }
