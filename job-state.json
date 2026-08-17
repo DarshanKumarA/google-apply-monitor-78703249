@@ -131,7 +131,10 @@
     "74922616988541638": "2026-08-17T13:36:17.880Z",
     "88486192428786374": "2026-08-17T13:36:17.880Z",
     "73321728058499782": "2026-08-17T13:36:17.880Z",
-    "77684590197514950": "2026-08-17T13:36:17.880Z"
+    "77684590197514950": "2026-08-17T13:36:17.880Z",
+    "107641884007899846": "2026-08-17T14:04:39.039Z",
+    "107087730147500742": "2026-08-17T14:04:39.039Z",
+    "134795423167455942": "2026-08-17T14:04:39.039Z"
   },
   "baseline": [
     {
@@ -627,6 +630,36 @@
   ],
   "newOpenings": [
     {
+      "id": "107641884007899846",
+      "title": "Software Engineer, Content Safety, Infra",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107641884007899846-software-engineer-content-safety-infra",
+      "firstDetectedAt": "2026-08-17T14:04:39.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "107087730147500742",
+      "title": "Software Engineering PhD Intern, 2027",
+      "location": "Warsaw, Poland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107087730147500742-software-engineering-phd-intern-2027",
+      "firstDetectedAt": "2026-08-17T14:04:39.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "134795423167455942",
+      "title": "Research Scientist PhD Intern, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/134795423167455942-research-scientist-phd-intern-2027",
+      "firstDetectedAt": "2026-08-17T14:04:39.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "74922616988541638",
       "title": "Part-Time Software Engineering PhD Intern, 2027",
       "location": "Tel Aviv, Israel",
@@ -768,10 +801,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T08:50:33.055Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T09:16:45.752Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1167,6 +1196,10 @@
     {
       "checkedAt": "2026-08-17T13:36:17.880Z",
       "result": "Found 59 matching roles; 4 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T14:04:39.039Z",
+      "result": "Found 61 matching roles; 3 new opening(s)"
     }
   ]
 }
