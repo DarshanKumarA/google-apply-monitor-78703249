@@ -197,16 +197,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "112896656772342470",
-      "title": "Staff Software Engineer, Cloud and Third-Party Platform Security",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112896656772342470-staff-software-engineer-cloud-and-third-party-platform-security",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136109780333667014",
       "title": "Software Engineer, Content Safety, AI Transformation Enablement",
       "location": "Singapore",
@@ -711,10 +701,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-15T04:58:19.878Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-15T05:33:22.115Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
     },
@@ -1109,6 +1095,10 @@
     {
       "checkedAt": "2026-08-17T08:57:05.778Z",
       "result": "Found 56 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T09:51:36.506Z",
+      "result": "Found 55 matching roles; 0 new opening(s)"
     }
   ]
 }
