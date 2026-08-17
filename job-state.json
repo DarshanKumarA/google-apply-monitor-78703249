@@ -587,16 +587,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "72546727516611270",
-      "title": "Software Engineer, AI/ML, Full Stack, Search Ads",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/72546727516611270-software-engineer-ai-ml-full-stack-search-ads",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91829476576371398",
       "title": "Application Engineer, ServiceNow, Google Cloud Business Platforms",
       "location": "Sunnyvale, CA, USA",
@@ -700,10 +690,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T05:57:02.106Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T06:51:03.661Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1099,6 +1085,10 @@
     {
       "checkedAt": "2026-08-17T10:24:49.271Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T10:57:27.475Z",
+      "result": "Found 54 matching roles; 0 new opening(s)"
     }
   ]
 }
