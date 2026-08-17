@@ -127,7 +127,11 @@
     "133355062935069382": "2026-08-17T12:52:43.696Z",
     "111285665542349510": "2026-08-17T12:52:43.696Z",
     "132149998191026886": "2026-08-17T12:52:43.696Z",
-    "80037545080955590": "2026-08-17T12:52:43.696Z"
+    "80037545080955590": "2026-08-17T12:52:43.696Z",
+    "74922616988541638": "2026-08-17T13:36:17.880Z",
+    "88486192428786374": "2026-08-17T13:36:17.880Z",
+    "73321728058499782": "2026-08-17T13:36:17.880Z",
+    "77684590197514950": "2026-08-17T13:36:17.880Z"
   },
   "baseline": [
     {
@@ -623,6 +627,46 @@
   ],
   "newOpenings": [
     {
+      "id": "74922616988541638",
+      "title": "Part-Time Software Engineering PhD Intern, 2027",
+      "location": "Tel Aviv, Israel",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/74922616988541638-part-time-software-engineering-phd-intern-2027",
+      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "88486192428786374",
+      "title": "Part-Time Research Scientist PhD Intern, 2027",
+      "location": "Tel Aviv, Israel",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88486192428786374-part-time-research-scientist-phd-intern-2027",
+      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "73321728058499782",
+      "title": "Data Science PhD Intern, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782-data-science-phd-intern-2027",
+      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "77684590197514950",
+      "title": "Data Science PhD Intern, 2027",
+      "location": "Zürich, Switzerland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77684590197514950-data-science-phd-intern-2027",
+      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "133355062935069382",
       "title": "Hardware/Silicon Engineering PhD Intern, 2027",
       "location": "Tel Aviv, Israel",
@@ -724,10 +768,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-15T08:19:10.220Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-15T08:50:33.055Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1123,6 +1163,10 @@
     {
       "checkedAt": "2026-08-17T12:52:43.696Z",
       "result": "Found 56 matching roles; 4 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-17T13:36:17.880Z",
+      "result": "Found 59 matching roles; 4 new opening(s)"
     }
   ]
 }
