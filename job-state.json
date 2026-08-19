@@ -573,16 +573,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "101727751085400774",
-      "title": "Strategy and Operations Lead, Chief of Staff",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/101727751085400774-strategy-and-operations-lead-chief-of-staff",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "74481861539046086",
       "title": "Integrated Planning Execution Lead, Integrated Infrastructure Planning",
       "location": "Sunnyvale, CA, USA",
@@ -856,10 +846,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-16T19:52:19.962Z",
-      "result": "Found 55 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-16T20:15:42.379Z",
       "result": "Found 55 matching roles; 0 new opening(s)"
@@ -1255,6 +1241,10 @@
     {
       "checkedAt": "2026-08-19T10:11:44.997Z",
       "result": "Found 65 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-19T10:48:04.533Z",
+      "result": "Found 64 matching roles; 0 new opening(s)"
     }
   ]
 }
