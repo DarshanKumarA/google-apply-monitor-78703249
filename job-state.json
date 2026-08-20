@@ -140,7 +140,8 @@
     "110758776134345414": "2026-08-17T20:23:53.180Z",
     "135157584154763974": "2026-08-17T22:45:11.352Z",
     "93078491720753862": "2026-08-18T09:57:48.753Z",
-    "97072914385248966": "2026-08-19T13:55:42.663Z"
+    "97072914385248966": "2026-08-19T13:55:42.663Z",
+    "104551723757904582": "2026-08-20T07:52:36.952Z"
   },
   "baseline": [
     {
@@ -616,6 +617,16 @@
   ],
   "newOpenings": [
     {
+      "id": "104551723757904582",
+      "title": "Software Engineering Intern, PhD, Summer 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104551723757904582-software-engineering-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-08-20T07:52:36.952Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "September 1, 2026"
+    },
+    {
       "id": "97072914385248966",
       "title": "Software Engineer, Mobile (iOS)",
       "location": "Singapore",
@@ -847,10 +858,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-17T17:39:12.382Z",
-      "result": "Found 62 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-17T18:03:08.229Z",
       "result": "Found 62 matching roles; 0 new opening(s)"
@@ -1246,6 +1253,10 @@
     {
       "checkedAt": "2026-08-20T07:02:29.254Z",
       "result": "Found 63 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-20T07:52:36.952Z",
+      "result": "Found 64 matching roles; 1 new opening(s)"
     }
   ]
 }
