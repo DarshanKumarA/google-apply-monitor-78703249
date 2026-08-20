@@ -141,7 +141,8 @@
     "135157584154763974": "2026-08-17T22:45:11.352Z",
     "93078491720753862": "2026-08-18T09:57:48.753Z",
     "97072914385248966": "2026-08-19T13:55:42.663Z",
-    "104551723757904582": "2026-08-20T07:52:36.952Z"
+    "104551723757904582": "2026-08-20T07:52:36.952Z",
+    "115559759297290950": "2026-08-20T11:21:29.913Z"
   },
   "baseline": [
     {
@@ -617,6 +618,16 @@
   ],
   "newOpenings": [
     {
+      "id": "115559759297290950",
+      "title": "Software Engineer, Google Pay, Consumer Payments",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/115559759297290950-software-engineer-google-pay-consumer-payments",
+      "firstDetectedAt": "2026-08-20T11:21:29.913Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "September 1, 2026"
+    },
+    {
       "id": "104551723757904582",
       "title": "Software Engineering Intern, PhD, Summer 2027",
       "location": "Taipei, Taiwan",
@@ -858,10 +869,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-17T20:53:59.976Z",
-      "result": "Found 64 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-17T21:25:33.138Z",
       "result": "Found 64 matching roles; 0 new opening(s)"
@@ -1257,6 +1264,10 @@
     {
       "checkedAt": "2026-08-20T10:52:19.614Z",
       "result": "Found 64 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-20T11:21:29.913Z",
+      "result": "Found 64 matching roles; 1 new opening(s)"
     }
   ]
 }
