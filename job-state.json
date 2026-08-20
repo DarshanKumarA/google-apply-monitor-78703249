@@ -142,7 +142,8 @@
     "93078491720753862": "2026-08-18T09:57:48.753Z",
     "97072914385248966": "2026-08-19T13:55:42.663Z",
     "104551723757904582": "2026-08-20T07:52:36.952Z",
-    "115559759297290950": "2026-08-20T11:21:29.913Z"
+    "115559759297290950": "2026-08-20T11:21:29.913Z",
+    "121178240002728646": "2026-08-20T15:43:11.847Z"
   },
   "baseline": [
     {
@@ -618,6 +619,16 @@
   ],
   "newOpenings": [
     {
+      "id": "121178240002728646",
+      "title": "Software Engineer, People with Disabilities",
+      "location": "Belo Horizonte, State of Minas Gerais, Brazil",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121178240002728646-software-engineer-people-with-disabilities",
+      "firstDetectedAt": "2026-08-20T15:43:11.847Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "115559759297290950",
       "title": "Software Engineer, Google Pay, Consumer Payments",
       "location": "Singapore",
@@ -869,10 +880,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-17T23:33:55.616Z",
-      "result": "Found 64 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-17T23:55:30.211Z",
       "result": "Found 64 matching roles; 0 new opening(s)"
@@ -1268,6 +1275,10 @@
     {
       "checkedAt": "2026-08-20T14:59:47.141Z",
       "result": "Found 64 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-20T15:43:11.847Z",
+      "result": "Found 65 matching roles; 1 new opening(s)"
     }
   ]
 }
