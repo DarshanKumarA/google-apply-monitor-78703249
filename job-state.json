@@ -144,7 +144,8 @@
     "104551723757904582": "2026-08-20T07:52:36.952Z",
     "115559759297290950": "2026-08-20T11:21:29.913Z",
     "121178240002728646": "2026-08-20T15:43:11.847Z",
-    "105855563622949574": "2026-08-21T10:44:06.204Z"
+    "105855563622949574": "2026-08-21T10:44:06.204Z",
+    "138714056839045830": "2026-08-21T14:49:12.313Z"
   },
   "baseline": [
     {
@@ -620,6 +621,16 @@
   ],
   "newOpenings": [
     {
+      "id": "138714056839045830",
+      "title": "Network Operations Engineer, University Graduate",
+      "location": "Austin, TX, USA",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/138714056839045830-network-operations-engineer-university-graduate",
+      "firstDetectedAt": "2026-08-21T14:49:12.313Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "105855563622949574",
       "title": "Software Engineer, Content Safety Team",
       "location": "Singapore",
@@ -696,16 +707,6 @@
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110758776134345414-associate-data-center-facilities-technician-electrical",
       "firstDetectedAt": "2026-08-17T20:23:53.180Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "August 31, 2026"
-    },
-    {
-      "id": "118702197889213126",
-      "title": "Software Engineer, AI/ML, Full Stack, Search Ads",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118702197889213126-software-engineer-ai-ml-full-stack-search-ads",
-      "firstDetectedAt": "2026-08-17T19:28:01.967Z",
       "postingDate": "Not published by Google",
       "expiryDate": "August 31, 2026"
     },
@@ -891,10 +892,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-18T21:27:05.773Z",
-      "result": "Found 65 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-18T21:50:03.864Z",
       "result": "Found 65 matching roles; 0 new opening(s)"
@@ -1290,6 +1287,10 @@
     {
       "checkedAt": "2026-08-21T14:02:07.486Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-21T14:49:12.313Z",
+      "result": "Found 68 matching roles; 1 new opening(s)"
     }
   ]
 }
