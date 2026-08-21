@@ -146,7 +146,8 @@
     "121178240002728646": "2026-08-20T15:43:11.847Z",
     "105855563622949574": "2026-08-21T10:44:06.204Z",
     "138714056839045830": "2026-08-21T14:49:12.313Z",
-    "98781223131718342": "2026-08-21T16:37:33.908Z"
+    "98781223131718342": "2026-08-21T16:37:33.908Z",
+    "139644332427616966": "2026-08-21T23:54:56.810Z"
   },
   "baseline": [
     {
@@ -345,26 +346,6 @@
       "location": "Mountain View, CA, USA",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "122258040807137990",
-      "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990-software-engineer-phd-early-career-ai-machine-learning-2026-start",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "88714689822761670",
-      "title": "Software Engineer, PhD, Early Career, Infrastructure, 2026 Start",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670-software-engineer-phd-early-career-infrastructure-2026-start",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -621,6 +602,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "139644332427616966",
+      "title": "Software Engineer, PhD, Early Careers, Google Cloud",
+      "location": "Taipei, Taiwan",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139644332427616966-software-engineer-phd-early-careers-google-cloud",
+      "firstDetectedAt": "2026-08-21T23:54:56.810Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "98781223131718342",
       "title": "UX Researcher, Google Beam",
@@ -903,10 +894,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-19T09:43:32.936Z",
-      "result": "Found 65 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-19T10:11:44.997Z",
       "result": "Found 65 matching roles; 0 new opening(s)"
@@ -1302,6 +1289,10 @@
     {
       "checkedAt": "2026-08-21T23:31:54.235Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-21T23:54:56.810Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
 }
