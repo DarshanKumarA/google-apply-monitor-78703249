@@ -145,7 +145,8 @@
     "115559759297290950": "2026-08-20T11:21:29.913Z",
     "121178240002728646": "2026-08-20T15:43:11.847Z",
     "105855563622949574": "2026-08-21T10:44:06.204Z",
-    "138714056839045830": "2026-08-21T14:49:12.313Z"
+    "138714056839045830": "2026-08-21T14:49:12.313Z",
+    "98781223131718342": "2026-08-21T16:37:33.908Z"
   },
   "baseline": [
     {
@@ -621,6 +622,16 @@
   ],
   "newOpenings": [
     {
+      "id": "98781223131718342",
+      "title": "UX Researcher, Google Beam",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/98781223131718342-ux-researcher-google-beam",
+      "firstDetectedAt": "2026-08-21T16:37:33.908Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "138714056839045830",
       "title": "Network Operations Engineer, University Graduate",
       "location": "Austin, TX, USA",
@@ -892,10 +903,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-18T22:43:14.340Z",
-      "result": "Found 65 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-18T23:03:04.527Z",
       "result": "Found 65 matching roles; 0 new opening(s)"
@@ -1291,6 +1298,10 @@
     {
       "checkedAt": "2026-08-21T15:55:09.203Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-21T16:37:33.908Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
 }
