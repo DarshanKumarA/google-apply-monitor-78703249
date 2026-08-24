@@ -152,7 +152,8 @@
     "86701057991680710": "2026-08-24T08:03:06.229Z",
     "104496653687235270": "2026-08-24T08:03:06.229Z",
     "84680705375642310": "2026-08-24T09:00:12.751Z",
-    "112518690523488966": "2026-08-24T09:00:12.751Z"
+    "112518690523488966": "2026-08-24T09:00:12.751Z",
+    "91436104816698054": "2026-08-24T09:57:40.810Z"
   },
   "baseline": [
     {
@@ -608,6 +609,16 @@
   ],
   "newOpenings": [
     {
+      "id": "91436104816698054",
+      "title": "Software Engineering Intern, PhD, Summer 2026",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026",
+      "firstDetectedAt": "2026-08-24T09:57:40.810Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "September 7, 2026"
+    },
+    {
       "id": "84680705375642310",
       "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
       "location": "Sunnyvale, CA, USA",
@@ -918,16 +929,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "124786092078441158",
-      "title": "Software Engineer, Education Analytics",
-      "location": "Mexico City, CDMX, Mexico",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/124786092078441158-software-engineer-education-analytics",
-      "firstDetectedAt": "2026-08-12T13:15:08.581Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "92162448210961094",
       "title": "Software Engineer, Full Stack, Pixel Weather",
       "location": "Shanghai, China",
@@ -949,10 +950,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-22T01:19:27.204Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-22T02:30:44.550Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1348,6 +1345,10 @@
     {
       "checkedAt": "2026-08-24T09:00:12.751Z",
       "result": "Found 70 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-24T09:57:40.810Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
 }
