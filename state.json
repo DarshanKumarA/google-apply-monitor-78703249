@@ -3,11 +3,6 @@
   "failureCount": 0,
   "history": [
     {
-      "checkedAt": "2026-08-22T20:56:00.885Z",
-      "result": "Apply button is available",
-      "available": true
-    },
-    {
       "checkedAt": "2026-08-22T21:26:33.569Z",
       "result": "Apply button is available",
       "available": true
@@ -499,6 +494,11 @@
     },
     {
       "checkedAt": "2026-08-25T11:13:50.275Z",
+      "result": "Apply button is available",
+      "available": true
+    },
+    {
+      "checkedAt": "2026-08-25T11:47:57.817Z",
       "result": "Apply button is available",
       "available": true
     }
