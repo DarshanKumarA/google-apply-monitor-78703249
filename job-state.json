@@ -153,7 +153,8 @@
     "104496653687235270": "2026-08-24T08:03:06.229Z",
     "84680705375642310": "2026-08-24T09:00:12.751Z",
     "112518690523488966": "2026-08-24T09:00:12.751Z",
-    "91436104816698054": "2026-08-24T09:57:40.810Z"
+    "91436104816698054": "2026-08-24T09:57:40.810Z",
+    "108412948749132486": "2026-08-26T07:55:43.688Z"
   },
   "baseline": [
     {
@@ -609,6 +610,16 @@
   ],
   "newOpenings": [
     {
+      "id": "108412948749132486",
+      "title": "Staff AI Solutions Deployment Developer, Applied AI",
+      "location": "Waterloo, ON, Canada",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/108412948749132486-staff-ai-solutions-deployment-developer-applied-ai",
+      "firstDetectedAt": "2026-08-26T07:55:43.688Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "91436104816698054",
       "title": "Software Engineering Intern, PhD, Summer 2026",
       "location": "Mountain View, CA, USA",
@@ -940,10 +951,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-23T13:39:12.834Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-23T14:00:12.949Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1339,6 +1346,10 @@
     {
       "checkedAt": "2026-08-26T07:02:56.278Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-26T07:55:43.688Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
 }
