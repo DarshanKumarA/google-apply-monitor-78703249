@@ -510,16 +510,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "118981017938600646",
-      "title": "Network Operations Residency Program, University Graduate, August 2026 Start",
-      "location": "Atlanta, GA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118981017938600646-network-operations-residency-program-university-graduate-august-2026-start",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "73379279982731974",
       "title": "Silicon Engineer, Platform and Devices, University Graduate, 2026",
       "location": "Bengaluru, Karnataka, India",
@@ -974,10 +964,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-23T19:29:44.541Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-23T19:49:50.348Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1371,6 +1357,10 @@
     },
     {
       "checkedAt": "2026-08-26T19:09:49.552Z",
+      "result": "Found 70 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-26T22:07:15.940Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
     }
   ]
