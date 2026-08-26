@@ -941,10 +941,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-23T09:35:26.330Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-23T09:57:45.902Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1338,6 +1334,10 @@
     },
     {
       "checkedAt": "2026-08-25T23:41:09.837Z",
+      "result": "Found 68 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-26T00:00:46.489Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
     }
   ]
