@@ -156,7 +156,8 @@
     "91436104816698054": "2026-08-24T09:57:40.810Z",
     "108412948749132486": "2026-08-26T07:55:43.688Z",
     "99925955933283014": "2026-08-26T13:48:38.121Z",
-    "95464687503581894": "2026-08-26T16:03:49.667Z"
+    "95464687503581894": "2026-08-26T16:03:49.667Z",
+    "77325528784085702": "2026-08-27T14:20:54.241Z"
   },
   "baseline": [
     {
@@ -580,16 +581,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "86823879560831686",
-      "title": "Staff Software Engineer, Agent Registry",
-      "location": "Seattle, WA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/86823879560831686-staff-software-engineer-agent-registry",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "134485208953955014",
       "title": "Software Engineer, Google Pay Shopping",
       "location": "Singapore",
@@ -601,6 +592,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "77325528784085702",
+      "title": "Software Engineer, Brownout Mitigation, Pixel",
+      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77325528784085702-software-engineer-brownout-mitigation-pixel",
+      "firstDetectedAt": "2026-08-27T14:20:54.241Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "95464687503581894",
       "title": "Associate Data Center Facilities Technician, Mechanical",
@@ -963,10 +964,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-23T20:09:19.556Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-23T20:38:57.035Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1362,6 +1359,10 @@
     {
       "checkedAt": "2026-08-27T03:17:31.127Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-27T14:20:54.241Z",
+      "result": "Found 70 matching roles; 1 new opening(s)"
     }
   ]
 }
