@@ -160,7 +160,13 @@
     "77325528784085702": "2026-08-27T14:20:54.241Z",
     "91776684985852614": "2026-08-27T23:50:37.038Z",
     "138960139137753798": "2026-08-31T10:58:20.930Z",
-    "123510626377966278": "2026-08-31T10:58:20.930Z"
+    "123510626377966278": "2026-08-31T10:58:20.930Z",
+    "83915700833264326": "2026-08-31T17:58:22.801Z",
+    "106684387621249734": "2026-08-31T17:58:22.801Z",
+    "80879399473160902": "2026-08-31T17:58:22.801Z",
+    "112470567562420934": "2026-08-31T17:58:22.801Z",
+    "100648618540573382": "2026-08-31T17:58:22.801Z",
+    "94172495052972742": "2026-08-31T17:58:22.801Z"
   },
   "baseline": [
     {
@@ -434,16 +440,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "102033425954677446",
-      "title": "Associate Analytical Lead, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)",
-      "location": "Shenzhen, Guangdong Province, China",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102033425954677446-associate-analytical-lead-greach-program-for-people-with-disabilities-english-mandarin",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "113556945616413382",
       "title": "Recruiting Specialist, People Operations, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)",
       "location": "Shanghai, China",
@@ -479,16 +475,6 @@
       "location": "Zürich, Switzerland",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111870753367827142-apprenticeship-in-digital-business-entwickler-in-efz-august-2027",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "138205674881327814",
-      "title": "Advertising Solutions Architect, gTech, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)",
-      "location": "Beijing, China",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/138205674881327814-advertising-solutions-architect-gtech-greach-program-for-people-with-disabilities-english-mandarin",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -585,6 +571,66 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "83915700833264326",
+      "title": "Software Engineer",
+      "location": "Pittsburgh, PA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/83915700833264326-software-engineer",
+      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "106684387621249734",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, USA",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer",
+      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "80879399473160902",
+      "title": "Software Engineer, Site Reliability Engineering",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/80879399473160902-software-engineer-site-reliability-engineering",
+      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "112470567562420934",
+      "title": "Staff Software Engineer",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112470567562420934-staff-software-engineer",
+      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "100648618540573382",
+      "title": "Software Engineering Intern, BS, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
+      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "94172495052972742",
+      "title": "Software Engineering Intern, MS, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
+      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "138960139137753798",
       "title": "Software Developer Intern, MS, Summer 2027",
@@ -916,16 +962,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "132149998191026886",
-      "title": "Data Science PhD Intern, 2027",
-      "location": "Warsaw, Poland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/132149998191026886-data-science-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T12:52:43.696Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "80037545080955590",
       "title": "Software Engineering or SRE, PhD Intern, 2027",
       "location": "London, UK",
@@ -987,10 +1023,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-24T09:57:40.810Z",
-      "result": "Found 69 matching roles; 1 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-24T10:45:05.856Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1386,6 +1418,10 @@
     {
       "checkedAt": "2026-08-31T10:58:20.930Z",
       "result": "Found 70 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-08-31T17:58:22.801Z",
+      "result": "Found 69 matching roles; 6 new opening(s)"
     }
   ]
 }
