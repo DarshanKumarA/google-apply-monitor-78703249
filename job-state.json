@@ -180,16 +180,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "104522112642753222",
-      "title": "Software Engineer",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104522112642753222-software-engineer",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "80313547497579206",
       "title": "Software Engineer, Early Career (For Women in Tech Candidates)",
       "location": "Belo Horizonte, State of Minas Gerais, Brazil",
@@ -652,16 +642,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "91776684985852614",
-      "title": "Software Engineer, Cloud Bigtable SQL and Analytics",
-      "location": "New York, NY, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91776684985852614-software-engineer-cloud-bigtable-sql-and-analytics",
-      "firstDetectedAt": "2026-08-27T23:50:37.038Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "77325528784085702",
       "title": "Software Engineer, Brownout Mitigation, Pixel",
       "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
@@ -1023,10 +1003,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-24T13:26:24.311Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-24T14:12:20.272Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1421,6 +1397,10 @@
     },
     {
       "checkedAt": "2026-09-01T12:02:39.446Z",
+      "result": "Found 69 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-01T16:33:31.602Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     }
   ]
