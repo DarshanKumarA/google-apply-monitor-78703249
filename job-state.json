@@ -166,7 +166,12 @@
     "80879399473160902": "2026-08-31T17:58:22.801Z",
     "112470567562420934": "2026-08-31T17:58:22.801Z",
     "100648618540573382": "2026-08-31T17:58:22.801Z",
-    "94172495052972742": "2026-08-31T17:58:22.801Z"
+    "94172495052972742": "2026-08-31T17:58:22.801Z",
+    "132315893450318534": "2026-09-01T19:33:05.277Z",
+    "127161382939304646": "2026-09-01T19:33:05.277Z",
+    "100966617919169222": "2026-09-01T19:33:05.277Z",
+    "144076269821010630": "2026-09-01T19:33:05.277Z",
+    "79970343875158726": "2026-09-01T19:33:05.277Z"
   },
   "baseline": [
     {
@@ -561,6 +566,56 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "132315893450318534",
+      "title": "Data Analytics Apprenticeship, February 2027 Start",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534-data-analytics-apprenticeship-february-2027-start",
+      "firstDetectedAt": "2026-09-01T19:33:05.277Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "127161382939304646",
+      "title": "Information Technology Apprenticeship, February 2027 Start",
+      "location": "Austin, TX, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127161382939304646-information-technology-apprenticeship-february-2027-start",
+      "firstDetectedAt": "2026-09-01T19:33:05.277Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "100966617919169222",
+      "title": "Project Management Apprenticeship, February 2027 Start",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100966617919169222-project-management-apprenticeship-february-2027-start",
+      "firstDetectedAt": "2026-09-01T19:33:05.277Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "144076269821010630",
+      "title": "Digital Marketing Apprenticeship, February 2027 Start",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/144076269821010630-digital-marketing-apprenticeship-february-2027-start",
+      "firstDetectedAt": "2026-09-01T19:33:05.277Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "79970343875158726",
+      "title": "User Experience Design Apprenticeship, February 2027 Start",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/79970343875158726-user-experience-design-apprenticeship-february-2027-start",
+      "firstDetectedAt": "2026-09-01T19:33:05.277Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "83915700833264326",
       "title": "Software Engineer",
@@ -1004,10 +1059,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T14:12:20.272Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T15:03:08.926Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1402,6 +1453,10 @@
     {
       "checkedAt": "2026-09-01T16:33:31.602Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-01T19:33:05.277Z",
+      "result": "Found 74 matching roles; 5 new opening(s)"
     }
   ]
 }
