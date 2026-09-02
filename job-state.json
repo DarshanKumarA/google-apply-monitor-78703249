@@ -728,16 +728,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "99925955933283014",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Delhi, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99925955933283014-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-08-26T13:48:38.121Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "108412948749132486",
       "title": "Staff AI Solutions Deployment Developer, Applied AI",
       "location": "Waterloo, ON, Canada",
@@ -1069,10 +1059,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-24T19:07:03.950Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-24T19:43:29.012Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1467,6 +1453,10 @@
     },
     {
       "checkedAt": "2026-09-02T17:10:31.008Z",
+      "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-02T19:48:16.122Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
     }
   ]
