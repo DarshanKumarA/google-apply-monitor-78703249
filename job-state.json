@@ -171,7 +171,8 @@
     "127161382939304646": "2026-09-01T19:33:05.277Z",
     "100966617919169222": "2026-09-01T19:33:05.277Z",
     "144076269821010630": "2026-09-01T19:33:05.277Z",
-    "79970343875158726": "2026-09-01T19:33:05.277Z"
+    "79970343875158726": "2026-09-01T19:33:05.277Z",
+    "102251586234786502": "2026-09-02T08:52:01.697Z"
   },
   "baseline": [
     {
@@ -566,6 +567,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "102251586234786502",
+      "title": "Software Engineer, Machine Learning, TPU Workload Optimization",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102251586234786502-software-engineer-machine-learning-tpu-workload-optimization",
+      "firstDetectedAt": "2026-09-02T08:52:01.697Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "132315893450318534",
       "title": "Data Analytics Apprenticeship, February 2027 Start",
@@ -1059,10 +1070,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T17:07:18.004Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T17:46:05.653Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1457,6 +1464,10 @@
     {
       "checkedAt": "2026-09-02T04:18:27.722Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-02T08:52:01.697Z",
+      "result": "Found 74 matching roles; 1 new opening(s)"
     }
   ]
 }
