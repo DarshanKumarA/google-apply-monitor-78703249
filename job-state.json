@@ -176,7 +176,11 @@
     "79483758440260294": "2026-09-03T09:09:14.476Z",
     "100028133205254854": "2026-09-03T09:09:14.476Z",
     "121543376737575622": "2026-09-03T09:09:14.476Z",
-    "121418032412009158": "2026-09-03T09:09:14.476Z"
+    "121418032412009158": "2026-09-03T09:09:14.476Z",
+    "83199557986329286": "2026-09-03T13:35:22.947Z",
+    "103632882076918470": "2026-09-03T13:35:22.947Z",
+    "74389446190867142": "2026-09-03T13:35:22.947Z",
+    "142747733357142726": "2026-09-03T13:35:22.947Z"
   },
   "baseline": [
     {
@@ -561,6 +565,46 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "83199557986329286",
+      "title": "Software Engineering BS/MS Intern, 2027",
+      "location": "Bucharest, Romania",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286-software-engineering-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "103632882076918470",
+      "title": "Part-Time Software Engineering BS/MS Intern, 2027",
+      "location": "Tel Aviv, Israel",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103632882076918470-part-time-software-engineering-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "74389446190867142",
+      "title": "Data Science PhD Intern, 2027",
+      "location": "Warsaw, Poland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/74389446190867142-data-science-phd-intern-2027",
+      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "142747733357142726",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "location": "Zürich, Switzerland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "79483758440260294",
       "title": "Data Center Technician Intern, 2027",
@@ -1094,10 +1138,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T21:49:49.429Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T22:14:01.186Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1492,6 +1532,10 @@
     {
       "checkedAt": "2026-09-03T09:09:14.476Z",
       "result": "Found 75 matching roles; 4 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-03T13:35:22.947Z",
+      "result": "Found 77 matching roles; 4 new opening(s)"
     }
   ]
 }
