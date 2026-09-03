@@ -237,16 +237,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "112904557364683462",
-      "title": "Software Engineer, Content Safety",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112904557364683462-software-engineer-content-safety",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136778768644481734",
       "title": "Early Career Software Engineer, People with Disabilities",
       "location": "Belo Horizonte, State of Minas Gerais, Brazil",
@@ -537,31 +527,11 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "74481861539046086",
-      "title": "Integrated Planning Execution Lead, Integrated Infrastructure Planning",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/74481861539046086-integrated-planning-execution-lead-integrated-infrastructure-planning",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91829476576371398",
       "title": "Application Engineer, ServiceNow, Google Cloud Business Platforms",
       "location": "Sunnyvale, CA, USA",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91829476576371398-application-engineer-servicenow-google-cloud-business-platforms",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "133844494322672326",
-      "title": "Planning Intelligence Lead",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/133844494322672326-planning-intelligence-lead",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -1161,10 +1131,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T23:10:48.372Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T23:37:28.270Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1559,6 +1525,10 @@
     {
       "checkedAt": "2026-09-03T19:52:56.539Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-03T22:18:10.043Z",
+      "result": "Found 78 matching roles; 0 new opening(s)"
     }
   ]
 }
