@@ -172,7 +172,11 @@
     "100966617919169222": "2026-09-01T19:33:05.277Z",
     "144076269821010630": "2026-09-01T19:33:05.277Z",
     "79970343875158726": "2026-09-01T19:33:05.277Z",
-    "102251586234786502": "2026-09-02T08:52:01.697Z"
+    "102251586234786502": "2026-09-02T08:52:01.697Z",
+    "79483758440260294": "2026-09-03T09:09:14.476Z",
+    "100028133205254854": "2026-09-03T09:09:14.476Z",
+    "121543376737575622": "2026-09-03T09:09:14.476Z",
+    "121418032412009158": "2026-09-03T09:09:14.476Z"
   },
   "baseline": [
     {
@@ -557,6 +561,46 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "79483758440260294",
+      "title": "Data Center Technician Intern, 2027",
+      "location": "Delhi, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/79483758440260294-data-center-technician-intern-2027",
+      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "100028133205254854",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "121543376737575622",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "location": "Warsaw, Poland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121543376737575622-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "121418032412009158",
+      "title": "CAD Engineer",
+      "location": "Tel Aviv, Israel",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121418032412009158-cad-engineer",
+      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "102251586234786502",
       "title": "Software Engineer, Machine Learning, TPU Workload Optimization",
@@ -1050,10 +1094,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T21:19:24.322Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T21:49:49.429Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1448,6 +1488,10 @@
     {
       "checkedAt": "2026-09-03T04:34:03.437Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-03T09:09:14.476Z",
+      "result": "Found 75 matching roles; 4 new opening(s)"
     }
   ]
 }
