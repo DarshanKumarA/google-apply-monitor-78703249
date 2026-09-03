@@ -639,16 +639,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "79483758440260294",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Delhi, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/79483758440260294-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "100028133205254854",
       "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
       "location": "London, UK",
@@ -1171,10 +1161,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T22:47:05.208Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T23:10:48.372Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1569,6 +1555,10 @@
     {
       "checkedAt": "2026-09-03T17:12:14.826Z",
       "result": "Found 78 matching roles; 3 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-03T19:52:56.539Z",
+      "result": "Found 80 matching roles; 0 new opening(s)"
     }
   ]
 }
