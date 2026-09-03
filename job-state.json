@@ -180,7 +180,10 @@
     "83199557986329286": "2026-09-03T13:35:22.947Z",
     "103632882076918470": "2026-09-03T13:35:22.947Z",
     "74389446190867142": "2026-09-03T13:35:22.947Z",
-    "142747733357142726": "2026-09-03T13:35:22.947Z"
+    "142747733357142726": "2026-09-03T13:35:22.947Z",
+    "95823738179592902": "2026-09-03T17:12:14.826Z",
+    "130883865454486214": "2026-09-03T17:12:14.826Z",
+    "124414888792466118": "2026-09-03T17:12:14.826Z"
   },
   "baseline": [
     {
@@ -565,6 +568,36 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "95823738179592902",
+      "title": "Software Engineer, GPU Embedded System",
+      "location": "Taipei, Taiwan",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95823738179592902-software-engineer-gpu-embedded-system",
+      "firstDetectedAt": "2026-09-03T17:12:14.826Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "130883865454486214",
+      "title": "Software Engineer, iOS",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130883865454486214-software-engineer-ios",
+      "firstDetectedAt": "2026-09-03T17:12:14.826Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "124414888792466118",
+      "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/124414888792466118-product-strategy-and-operations-chief-of-staff-and-external-engagement-lead-google-education",
+      "firstDetectedAt": "2026-09-03T17:12:14.826Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "83199557986329286",
       "title": "Software Engineering BS/MS Intern, 2027",
@@ -1138,10 +1171,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T22:14:01.186Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T22:47:05.208Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1536,6 +1565,10 @@
     {
       "checkedAt": "2026-09-03T13:35:22.947Z",
       "result": "Found 77 matching roles; 4 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-03T17:12:14.826Z",
+      "result": "Found 78 matching roles; 3 new opening(s)"
     }
   ]
 }
