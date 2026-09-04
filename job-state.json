@@ -217,16 +217,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "129200157206946502",
-      "title": "Staff Software Engineer, Information Security Engineering",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129200157206946502-staff-software-engineer-information-security-engineering",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136109780333667014",
       "title": "Software Engineer, Content Safety, AI Transformation Enablement",
       "location": "Singapore",
@@ -1131,10 +1121,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-24T23:37:28.270Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-24T23:57:14.266Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1528,6 +1514,10 @@
     },
     {
       "checkedAt": "2026-09-03T22:18:10.043Z",
+      "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-04T04:35:53.062Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
     }
   ]
