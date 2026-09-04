@@ -508,16 +508,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "129524324158579398",
-      "title": "Global Head of Strategic Planning, YouTube",
-      "location": "San Bruno, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129524324158579398-global-head-of-strategic-planning-youtube",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91829476576371398",
       "title": "Application Engineer, ServiceNow, Google Cloud Business Platforms",
       "location": "Sunnyvale, CA, USA",
@@ -545,16 +535,6 @@
       "location": "Taipei, Taiwan",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95823738179592902-software-engineer-gpu-embedded-system",
-      "firstDetectedAt": "2026-09-03T17:12:14.826Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "130883865454486214",
-      "title": "Software Engineer, iOS",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130883865454486214-software-engineer-ios",
       "firstDetectedAt": "2026-09-03T17:12:14.826Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -1122,10 +1102,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-25T01:44:43.540Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-25T02:45:59.720Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1520,6 +1496,10 @@
     {
       "checkedAt": "2026-09-04T09:02:20.736Z",
       "result": "Found 77 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-04T13:27:07.305Z",
+      "result": "Found 76 matching roles; 0 new opening(s)"
     }
   ]
 }
