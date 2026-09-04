@@ -770,16 +770,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "95464687503581894",
-      "title": "Associate Data Center Facilities Technician, Mechanical",
-      "location": "Sterling, VA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95464687503581894-associate-data-center-facilities-technician-mechanical",
-      "firstDetectedAt": "2026-08-26T16:03:49.667Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "108412948749132486",
       "title": "Staff AI Solutions Deployment Developer, Applied AI",
       "location": "Waterloo, ON, Canada",
@@ -1101,10 +1091,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-25T02:45:59.720Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-08-25T03:35:26.040Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1500,6 +1486,10 @@
     {
       "checkedAt": "2026-09-04T13:27:07.305Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-04T16:59:36.142Z",
+      "result": "Found 75 matching roles; 0 new opening(s)"
     }
   ]
 }
