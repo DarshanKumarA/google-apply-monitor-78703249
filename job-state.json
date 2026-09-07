@@ -184,7 +184,12 @@
     "95823738179592902": "2026-09-03T17:12:14.826Z",
     "130883865454486214": "2026-09-03T17:12:14.826Z",
     "124414888792466118": "2026-09-03T17:12:14.826Z",
-    "91641951861777094": "2026-09-04T09:02:20.736Z"
+    "91641951861777094": "2026-09-04T09:02:20.736Z",
+    "108252664864613062": "2026-09-07T12:17:20.862Z",
+    "103692165510505158": "2026-09-07T12:17:20.862Z",
+    "109976286780105414": "2026-09-07T12:17:20.862Z",
+    "109375266236572358": "2026-09-07T12:17:20.862Z",
+    "139680555477148358": "2026-09-07T12:17:20.862Z"
   },
   "baseline": [
     {
@@ -213,16 +218,6 @@
       "location": "Mexico City, CDMX, Mexico",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111182182432547526-software-engineer-compilers-runtimes-and-toolchains-early-career",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "136109780333667014",
-      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136109780333667014-software-engineer-content-safety-ai-transformation-enablement",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -520,12 +515,52 @@
   ],
   "newOpenings": [
     {
-      "id": "91641951861777094",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Delhi, India",
+      "id": "108252664864613062",
+      "title": "Software Engineer, Languages and Platforms",
+      "location": "Mexico City, CDMX, Mexico",
       "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91641951861777094-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-09-04T09:02:20.736Z",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/108252664864613062-software-engineer-languages-and-platforms",
+      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "103692165510505158",
+      "title": "Software Engineer, Android, Google Wallet, Transit and eMoney",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103692165510505158-software-engineer-android-google-wallet-transit-and-emoney",
+      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "109976286780105414",
+      "title": "Software Engineering PhD Intern, Summer 2027",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414-software-engineering-phd-intern-summer-2027",
+      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "109375266236572358",
+      "title": "Silicon Engineering Intern, PhD, Summer 2027",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "139680555477148358",
+      "title": "Software Engineer, AI Engineering Productivity",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139680555477148358-software-engineer-ai-engineering-productivity",
+      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1092,10 +1127,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-25T19:16:42.812Z",
-      "result": "Found 68 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-25T19:49:41.855Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
     },
@@ -1490,6 +1521,10 @@
     {
       "checkedAt": "2026-09-07T05:57:17.911Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-07T12:17:20.862Z",
+      "result": "Found 76 matching roles; 5 new opening(s)"
     }
   ]
 }
