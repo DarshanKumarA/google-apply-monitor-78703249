@@ -189,7 +189,8 @@
     "103692165510505158": "2026-09-07T12:17:20.862Z",
     "109976286780105414": "2026-09-07T12:17:20.862Z",
     "109375266236572358": "2026-09-07T12:17:20.862Z",
-    "139680555477148358": "2026-09-07T12:17:20.862Z"
+    "139680555477148358": "2026-09-07T12:17:20.862Z",
+    "142459296238445254": "2026-09-07T17:46:39.182Z"
   },
   "baseline": [
     {
@@ -514,6 +515,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "142459296238445254",
+      "title": "Software Engineer, Backend, Google Photos",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/142459296238445254-software-engineer-backend-google-photos",
+      "firstDetectedAt": "2026-09-07T17:46:39.182Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "108252664864613062",
       "title": "Software Engineer, Languages and Platforms",
@@ -1127,10 +1138,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-25T19:49:41.855Z",
-      "result": "Found 68 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-25T20:15:01.052Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
     },
@@ -1525,6 +1532,10 @@
     {
       "checkedAt": "2026-09-07T12:17:20.862Z",
       "result": "Found 76 matching roles; 5 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-07T17:46:39.182Z",
+      "result": "Found 74 matching roles; 1 new opening(s)"
     }
   ]
 }
