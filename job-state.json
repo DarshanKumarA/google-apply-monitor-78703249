@@ -190,7 +190,9 @@
     "109976286780105414": "2026-09-07T12:17:20.862Z",
     "109375266236572358": "2026-09-07T12:17:20.862Z",
     "139680555477148358": "2026-09-07T12:17:20.862Z",
-    "142459296238445254": "2026-09-07T17:46:39.182Z"
+    "142459296238445254": "2026-09-07T17:46:39.182Z",
+    "131287072689267398": "2026-09-08T11:07:25.503Z",
+    "110636251454808774": "2026-09-08T11:07:25.503Z"
   },
   "baseline": [
     {
@@ -515,6 +517,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "131287072689267398",
+      "title": "Research Intern, PhD, Summer 2027",
+      "location": "Montreal, QC, Canada",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-09-08T11:07:25.503Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "110636251454808774",
+      "title": "Head of Product Deployment Engineering",
+      "location": "Hyderabad, Telangana, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110636251454808774-head-of-product-deployment-engineering",
+      "firstDetectedAt": "2026-09-08T11:07:25.503Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "142459296238445254",
       "title": "Software Engineer, Backend, Google Photos",
@@ -1138,10 +1160,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-25T22:11:28.204Z",
-      "result": "Found 68 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-25T22:47:12.377Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
     },
@@ -1536,6 +1554,10 @@
     {
       "checkedAt": "2026-09-08T05:58:06.586Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-08T11:07:25.503Z",
+      "result": "Found 75 matching roles; 2 new opening(s)"
     }
   ]
 }
