@@ -192,7 +192,9 @@
     "139680555477148358": "2026-09-07T12:17:20.862Z",
     "142459296238445254": "2026-09-07T17:46:39.182Z",
     "131287072689267398": "2026-09-08T11:07:25.503Z",
-    "110636251454808774": "2026-09-08T11:07:25.503Z"
+    "110636251454808774": "2026-09-08T11:07:25.503Z",
+    "121615149936059078": "2026-09-08T15:05:44.641Z",
+    "89546793800344262": "2026-09-08T15:05:44.641Z"
   },
   "baseline": [
     {
@@ -517,6 +519,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "121615149936059078",
+      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121615149936059078-software-engineer-content-safety-ai-transformation-enablement",
+      "firstDetectedAt": "2026-09-08T15:05:44.641Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "89546793800344262",
+      "title": "Software Engineer, Content Safety, Core",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/89546793800344262-software-engineer-content-safety-core",
+      "firstDetectedAt": "2026-09-08T15:05:44.641Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "131287072689267398",
       "title": "Research Intern, PhD, Summer 2027",
@@ -1160,10 +1182,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-25T22:47:12.377Z",
-      "result": "Found 68 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-25T23:12:43.587Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
     },
@@ -1558,6 +1576,10 @@
     {
       "checkedAt": "2026-09-08T11:07:25.503Z",
       "result": "Found 75 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-08T15:05:44.641Z",
+      "result": "Found 76 matching roles; 2 new opening(s)"
     }
   ]
 }
