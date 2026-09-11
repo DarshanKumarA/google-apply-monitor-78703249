@@ -591,16 +591,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "103692165510505158",
-      "title": "Software Engineer, Android, Google Wallet, Transit and eMoney",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103692165510505158-software-engineer-android-google-wallet-transit-and-emoney",
-      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "109976286780105414",
       "title": "Software Engineering PhD Intern, Summer 2027",
       "location": "Bengaluru, Karnataka, India",
@@ -1173,10 +1163,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-26T14:31:18.884Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-26T16:03:49.667Z",
       "result": "Found 70 matching roles; 1 new opening(s)"
     },
@@ -1571,6 +1557,10 @@
     {
       "checkedAt": "2026-09-11T05:54:54.475Z",
       "result": "Found 79 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-11T10:48:50.689Z",
+      "result": "Found 80 matching roles; 0 new opening(s)"
     }
   ]
 }
