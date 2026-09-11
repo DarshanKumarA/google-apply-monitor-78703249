@@ -195,7 +195,10 @@
     "110636251454808774": "2026-09-08T11:07:25.503Z",
     "121615149936059078": "2026-09-08T15:05:44.641Z",
     "89546793800344262": "2026-09-08T15:05:44.641Z",
-    "103183546893378246": "2026-09-10T23:07:30.794Z"
+    "103183546893378246": "2026-09-10T23:07:30.794Z",
+    "111130436834337478": "2026-09-11T14:39:13.903Z",
+    "72431374895588038": "2026-09-11T14:39:13.903Z",
+    "80119160196997830": "2026-09-11T14:39:13.903Z"
   },
   "baseline": [
     {
@@ -520,6 +523,36 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "111130436834337478",
+      "title": "Software Engineer, Terraform",
+      "location": "Seattle, WA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111130436834337478-software-engineer-terraform",
+      "firstDetectedAt": "2026-09-11T14:39:13.903Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "72431374895588038",
+      "title": "Software Engineer, Google Wallet, Multimodal Intelligence",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/72431374895588038-software-engineer-google-wallet-multimodal-intelligence",
+      "firstDetectedAt": "2026-09-11T14:39:13.903Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "80119160196997830",
+      "title": "Software Engineer, Google Ads Team",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/80119160196997830-software-engineer-google-ads-team",
+      "firstDetectedAt": "2026-09-11T14:39:13.903Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "103183546893378246",
       "title": "Recruiter, Programs Hiring",
@@ -1163,10 +1196,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-26T16:03:49.667Z",
-      "result": "Found 70 matching roles; 1 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-26T16:56:23.552Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
     },
@@ -1561,6 +1590,10 @@
     {
       "checkedAt": "2026-09-11T10:48:50.689Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-11T14:39:13.903Z",
+      "result": "Found 82 matching roles; 3 new opening(s)"
     }
   ]
 }
