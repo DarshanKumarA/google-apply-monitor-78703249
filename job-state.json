@@ -202,16 +202,6 @@
   },
   "baseline": [
     {
-      "id": "99666669294494406",
-      "title": "Software Engineer",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99666669294494406-software-engineer",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "80313547497579206",
       "title": "Software Engineer, Early Career (For Women in Tech Candidates)",
       "location": "Belo Horizonte, State of Minas Gerais, Brazil",
@@ -1196,10 +1186,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-08-26T16:56:23.552Z",
-      "result": "Found 70 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-08-26T19:09:49.552Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
     },
@@ -1594,6 +1580,10 @@
     {
       "checkedAt": "2026-09-11T14:39:13.903Z",
       "result": "Found 82 matching roles; 3 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-11T17:55:56.858Z",
+      "result": "Found 81 matching roles; 0 new opening(s)"
     }
   ]
 }
