@@ -440,36 +440,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "135233176434811590",
-      "title": "Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590-apprenticeship-in-application-development-informatiker-in-efz-applikationsentwicklung-august-2027",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "143325582015242950",
-      "title": "Apprenticeship in Interactive Media Design EFZ, August 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/143325582015242950-apprenticeship-in-interactive-media-design-efz-august-2027",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "111870753367827142",
-      "title": "Apprenticeship in Digital Business, Entwickler:in EFZ, August 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111870753367827142-apprenticeship-in-digital-business-entwickler-in-efz-august-2027",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "114836903953343174",
       "title": "Signal/Power Integrity Engineer, PhD Graduate",
       "location": "Haifa, Israel",
@@ -1344,10 +1314,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-01T16:33:31.602Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-01T19:33:05.277Z",
       "result": "Found 74 matching roles; 5 new opening(s)"
     },
@@ -1742,6 +1708,10 @@
     {
       "checkedAt": "2026-09-15T15:34:07.035Z",
       "result": "Found 81 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-15T19:11:10.691Z",
+      "result": "Found 77 matching roles; 0 new opening(s)"
     }
   ]
 }
