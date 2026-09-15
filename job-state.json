@@ -213,7 +213,8 @@
     "137409539979780806": "2026-09-14T14:05:16.001Z",
     "134313315235963590": "2026-09-14T14:05:16.001Z",
     "131518356678156998": "2026-09-14T14:05:16.001Z",
-    "95624967093134022": "2026-09-14T14:05:16.001Z"
+    "95624967093134022": "2026-09-14T14:05:16.001Z",
+    "98641622199083718": "2026-09-15T11:09:36.844Z"
   },
   "baseline": [
     {
@@ -252,16 +253,6 @@
       "location": "Mexico City, CDMX, Mexico",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129548257763173062-account-executive-new-business-sales-early-career-spanish-english",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "92286686481785542",
-      "title": "Software Engineer, AI/ML, PhD, Early Career",
-      "location": "London, UK",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/92286686481785542-software-engineer-ai-ml-phd-early-career",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -528,6 +519,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "98641622199083718",
+      "title": "Software Engineer, Content Safety",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/98641622199083718-software-engineer-content-safety",
+      "firstDetectedAt": "2026-09-15T11:09:36.844Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "115313754307994310",
       "title": "Data Center Engineering Intern, BS/MS, Summer 2027",
@@ -1321,10 +1322,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-01T06:40:13.948Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-01T12:02:39.446Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1719,6 +1716,10 @@
     {
       "checkedAt": "2026-09-15T05:53:47.890Z",
       "result": "Found 87 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-15T11:09:36.844Z",
+      "result": "Found 85 matching roles; 1 new opening(s)"
     }
   ]
 }
