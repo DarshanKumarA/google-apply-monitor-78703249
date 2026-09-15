@@ -214,7 +214,9 @@
     "134313315235963590": "2026-09-14T14:05:16.001Z",
     "131518356678156998": "2026-09-14T14:05:16.001Z",
     "95624967093134022": "2026-09-14T14:05:16.001Z",
-    "98641622199083718": "2026-09-15T11:09:36.844Z"
+    "98641622199083718": "2026-09-15T11:09:36.844Z",
+    "107494065192215238": "2026-09-15T15:34:07.035Z",
+    "88543982287495878": "2026-09-15T15:34:07.035Z"
   },
   "baseline": [
     {
@@ -519,6 +521,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "107494065192215238",
+      "title": "Hardware Architecture Modeling Engineer, PhD, University Graduate, 2027 Start",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107494065192215238-hardware-architecture-modeling-engineer-phd-university-graduate-2027-start",
+      "firstDetectedAt": "2026-09-15T15:34:07.035Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "September 29, 2026"
+    },
+    {
+      "id": "88543982287495878",
+      "title": "GenAI Forward Deployed Engineer, Google Cloud (English, Korean)",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88543982287495878-genai-forward-deployed-engineer-google-cloud-english-korean",
+      "firstDetectedAt": "2026-09-15T15:34:07.035Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "September 29, 2026"
+    },
     {
       "id": "98641622199083718",
       "title": "Software Engineer, Content Safety",
@@ -1322,10 +1344,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-01T12:02:39.446Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-01T16:33:31.602Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
     },
@@ -1720,6 +1738,10 @@
     {
       "checkedAt": "2026-09-15T11:09:36.844Z",
       "result": "Found 85 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-15T15:34:07.035Z",
+      "result": "Found 81 matching roles; 2 new opening(s)"
     }
   ]
 }
