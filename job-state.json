@@ -1199,16 +1199,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "107641884007899846",
-      "title": "Software Engineer, Content Safety, Infra",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107641884007899846-software-engineer-content-safety-infra",
-      "firstDetectedAt": "2026-08-17T14:04:39.039Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "107087730147500742",
       "title": "Software Engineering PhD Intern, 2027",
       "location": "Warsaw, Poland",
@@ -1330,10 +1320,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-08-31T22:44:37.711Z",
-      "result": "Found 69 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-01T01:25:49.607Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
@@ -1728,6 +1714,10 @@
     },
     {
       "checkedAt": "2026-09-14T22:36:19.605Z",
+      "result": "Found 87 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-15T00:54:06.858Z",
       "result": "Found 87 matching roles; 0 new opening(s)"
     }
   ]
