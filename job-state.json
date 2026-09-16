@@ -1172,26 +1172,6 @@
       "expiryDate": "August 31, 2026"
     },
     {
-      "id": "110758776134345414",
-      "title": "Associate Data Center Facilities Technician, Electrical",
-      "location": "Sterling, VA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110758776134345414-associate-data-center-facilities-technician-electrical",
-      "firstDetectedAt": "2026-08-17T20:23:53.180Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "August 31, 2026"
-    },
-    {
-      "id": "133045000656036550",
-      "title": "Software Engineer, Google Pay, Server Infrastructure",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/133045000656036550-software-engineer-google-pay-server-infrastructure",
-      "firstDetectedAt": "2026-08-17T14:41:42.994Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "107087730147500742",
       "title": "Software Engineering PhD Intern, 2027",
       "location": "Warsaw, Poland",
@@ -1313,10 +1293,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-02T17:10:31.008Z",
-      "result": "Found 74 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-02T19:48:16.122Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
@@ -1712,6 +1688,10 @@
     {
       "checkedAt": "2026-09-16T18:29:16.816Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-16T21:38:44.279Z",
+      "result": "Found 76 matching roles; 0 new opening(s)"
     }
   ]
 }
