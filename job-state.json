@@ -782,16 +782,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "139680555477148358",
-      "title": "Software Engineer, AI Engineering Productivity",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139680555477148358-software-engineer-ai-engineering-productivity",
-      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "124414888792466118",
       "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
       "location": "Mountain View, CA, USA",
@@ -1294,10 +1284,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-02T19:48:16.122Z",
-      "result": "Found 74 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-02T22:02:26.172Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     },
@@ -1691,6 +1677,10 @@
     },
     {
       "checkedAt": "2026-09-16T21:38:44.279Z",
+      "result": "Found 76 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-16T23:51:21.614Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
     }
   ]
