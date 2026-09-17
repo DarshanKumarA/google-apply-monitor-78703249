@@ -216,7 +216,9 @@
     "95624967093134022": "2026-09-14T14:05:16.001Z",
     "98641622199083718": "2026-09-15T11:09:36.844Z",
     "107494065192215238": "2026-09-15T15:34:07.035Z",
-    "88543982287495878": "2026-09-15T15:34:07.035Z"
+    "88543982287495878": "2026-09-15T15:34:07.035Z",
+    "95424090398958278": "2026-09-17T17:41:21.192Z",
+    "94154429346783942": "2026-09-17T17:41:21.192Z"
   },
   "baseline": [
     {
@@ -491,6 +493,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "95424090398958278",
+      "title": "Software Engineer, GDC AI Applications and Agents",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95424090398958278-software-engineer-gdc-ai-applications-and-agents",
+      "firstDetectedAt": "2026-09-17T17:41:21.192Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "94154429346783942",
+      "title": "Commercial Strategy Lead, GMP Channel, Global Product Solutions",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94154429346783942-commercial-strategy-lead-gmp-channel-global-product-solutions",
+      "firstDetectedAt": "2026-09-17T17:41:21.192Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "107494065192215238",
       "title": "Hardware Architecture Modeling Engineer, PhD, University Graduate, 2027 Start",
@@ -1284,10 +1306,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-03T09:09:14.476Z",
-      "result": "Found 75 matching roles; 4 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-03T13:35:22.947Z",
       "result": "Found 77 matching roles; 4 new opening(s)"
     },
@@ -1682,6 +1700,10 @@
     {
       "checkedAt": "2026-09-17T13:22:14.755Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-17T17:41:21.192Z",
+      "result": "Found 75 matching roles; 2 new opening(s)"
     }
   ]
 }
