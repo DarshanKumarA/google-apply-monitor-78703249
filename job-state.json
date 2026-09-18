@@ -1165,16 +1165,6 @@
       "expiryDate": "September 1, 2026"
     },
     {
-      "id": "97072914385248966",
-      "title": "Software Engineer, Mobile (iOS)",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/97072914385248966-software-engineer-mobile-ios",
-      "firstDetectedAt": "2026-08-19T13:55:42.663Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "September 1, 2026"
-    },
-    {
       "id": "93078491720753862",
       "title": "Software Engineering PhD Intern, 2027",
       "location": "Zürich, Switzerland",
@@ -1316,10 +1306,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-04T19:25:55.925Z",
-      "result": "Found 75 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-04T21:42:20.236Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
@@ -1714,6 +1700,10 @@
     },
     {
       "checkedAt": "2026-09-18T21:00:50.871Z",
+      "result": "Found 76 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-18T23:13:36.620Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
     }
   ]
