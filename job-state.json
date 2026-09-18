@@ -218,7 +218,8 @@
     "107494065192215238": "2026-09-15T15:34:07.035Z",
     "88543982287495878": "2026-09-15T15:34:07.035Z",
     "95424090398958278": "2026-09-17T17:41:21.192Z",
-    "94154429346783942": "2026-09-17T17:41:21.192Z"
+    "94154429346783942": "2026-09-17T17:41:21.192Z",
+    "89573485948347078": "2026-09-18T11:05:28.254Z"
   },
   "baseline": [
     {
@@ -493,6 +494,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "89573485948347078",
+      "title": "Strategic Partner Onboarding and Incubation Specialist, GRCN, Sellside Monetization (Mandarin, English)",
+      "location": "Beijing, China",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/89573485948347078-strategic-partner-onboarding-and-incubation-specialist-grcn-sellside-monetization-mandarin-english",
+      "firstDetectedAt": "2026-09-18T11:05:28.254Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "95424090398958278",
       "title": "Software Engineer, GDC AI Applications and Agents",
@@ -1306,10 +1317,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-04T04:35:53.062Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-04T09:02:20.736Z",
       "result": "Found 77 matching roles; 1 new opening(s)"
     },
@@ -1704,6 +1711,10 @@
     {
       "checkedAt": "2026-09-18T06:01:07.982Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-18T11:05:28.254Z",
+      "result": "Found 77 matching roles; 1 new opening(s)"
     }
   ]
 }
