@@ -705,16 +705,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "111130436834337478",
-      "title": "Software Engineer, Terraform",
-      "location": "Seattle, WA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111130436834337478-software-engineer-terraform",
-      "firstDetectedAt": "2026-09-11T14:39:13.903Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "72431374895588038",
       "title": "Software Engineer, Google Wallet, Multimodal Intelligence",
       "location": "Singapore",
@@ -1145,16 +1135,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "115559759297290950",
-      "title": "Software Engineer, Google Pay, Consumer Payments",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/115559759297290950-software-engineer-google-pay-consumer-payments",
-      "firstDetectedAt": "2026-08-20T11:21:29.913Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "September 1, 2026"
-    },
-    {
       "id": "104551723757904582",
       "title": "Software Engineering Intern, PhD, Summer 2027",
       "location": "Taipei, Taiwan",
@@ -1306,10 +1286,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-06T21:30:11.955Z",
-      "result": "Found 75 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-06T23:04:41.748Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
@@ -1705,6 +1681,10 @@
     {
       "checkedAt": "2026-09-21T06:24:14.916Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-21T13:10:01.139Z",
+      "result": "Found 74 matching roles; 0 new opening(s)"
     }
   ]
 }
