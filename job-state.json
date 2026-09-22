@@ -221,7 +221,8 @@
     "94154429346783942": "2026-09-17T17:41:21.192Z",
     "89573485948347078": "2026-09-18T11:05:28.254Z",
     "115350445139862214": "2026-09-21T18:43:19.505Z",
-    "107810269274481350": "2026-09-21T18:43:19.505Z"
+    "107810269274481350": "2026-09-21T18:43:19.505Z",
+    "100460871561421510": "2026-09-22T15:33:06.444Z"
   },
   "baseline": [
     {
@@ -496,6 +497,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "100460871561421510",
+      "title": "Business Undergraduate Intern, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100460871561421510-business-undergraduate-intern-summer-2027",
+      "firstDetectedAt": "2026-09-22T15:33:06.444Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "115350445139862214",
       "title": "Software Engineer, Google Wallet, Physical Access",
@@ -1249,10 +1260,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-07T20:48:21.402Z",
-      "result": "Found 74 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-07T23:03:03.968Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
     },
@@ -1647,6 +1654,10 @@
     {
       "checkedAt": "2026-09-22T11:18:31.879Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-22T15:33:06.444Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
 }
