@@ -222,7 +222,8 @@
     "89573485948347078": "2026-09-18T11:05:28.254Z",
     "115350445139862214": "2026-09-21T18:43:19.505Z",
     "107810269274481350": "2026-09-21T18:43:19.505Z",
-    "100460871561421510": "2026-09-22T15:33:06.444Z"
+    "100460871561421510": "2026-09-22T15:33:06.444Z",
+    "101657586889040582": "2026-09-23T14:49:16.210Z"
   },
   "baseline": [
     {
@@ -497,6 +498,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "101657586889040582",
+      "title": "Staff Software Engineer, Agentic Products and Systems, Google Photos",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/101657586889040582-staff-software-engineer-agentic-products-and-systems-google-photos",
+      "firstDetectedAt": "2026-09-23T14:49:16.210Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "100460871561421510",
       "title": "Business Undergraduate Intern, Summer 2027",
@@ -1250,10 +1261,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-08T18:36:39.659Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-08T21:24:36.186Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
     },
@@ -1648,6 +1655,10 @@
     {
       "checkedAt": "2026-09-23T09:56:12.220Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-23T14:49:16.210Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
 }
