@@ -223,7 +223,8 @@
     "115350445139862214": "2026-09-21T18:43:19.505Z",
     "107810269274481350": "2026-09-21T18:43:19.505Z",
     "100460871561421510": "2026-09-22T15:33:06.444Z",
-    "101657586889040582": "2026-09-23T14:49:16.210Z"
+    "101657586889040582": "2026-09-23T14:49:16.210Z",
+    "118752518799794886": "2026-09-23T18:41:47.804Z"
   },
   "baseline": [
     {
@@ -498,6 +499,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "118752518799794886",
+      "title": "Software Engineer, Mobile (iOS)",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118752518799794886-software-engineer-mobile-ios",
+      "firstDetectedAt": "2026-09-23T18:41:47.804Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "101657586889040582",
       "title": "Staff Software Engineer, Agentic Products and Systems, Google Photos",
@@ -929,16 +940,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "106684387621249734",
-      "title": "Software Engineer",
-      "location": "Mountain View, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer",
-      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "80879399473160902",
       "title": "Software Engineer, Site Reliability Engineering",
       "location": "Sunnyvale, CA, USA",
@@ -1260,10 +1261,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-08T21:24:36.186Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-08T23:33:14.106Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
@@ -1658,6 +1655,10 @@
     },
     {
       "checkedAt": "2026-09-23T14:49:16.210Z",
+      "result": "Found 69 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-23T18:41:47.804Z",
       "result": "Found 69 matching roles; 1 new opening(s)"
     }
   ]
