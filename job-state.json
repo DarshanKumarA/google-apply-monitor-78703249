@@ -224,7 +224,8 @@
     "107810269274481350": "2026-09-21T18:43:19.505Z",
     "100460871561421510": "2026-09-22T15:33:06.444Z",
     "101657586889040582": "2026-09-23T14:49:16.210Z",
-    "118752518799794886": "2026-09-23T18:41:47.804Z"
+    "118752518799794886": "2026-09-23T18:41:47.804Z",
+    "116354346500661958": "2026-09-24T00:02:04.113Z"
   },
   "baseline": [
     {
@@ -499,6 +500,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "116354346500661958",
+      "title": "Director, gTech Ads Solutions, YouTube+ COE",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/116354346500661958-director-gtech-ads-solutions-youtube-coe",
+      "firstDetectedAt": "2026-09-24T00:02:04.113Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "118752518799794886",
       "title": "Software Engineer, Mobile (iOS)",
@@ -1262,10 +1273,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-09T01:29:58.394Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-09T06:36:56.834Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
     },
@@ -1660,6 +1667,10 @@
     {
       "checkedAt": "2026-09-23T21:48:45.002Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-24T00:02:04.113Z",
+      "result": "Found 70 matching roles; 1 new opening(s)"
     }
   ]
 }
