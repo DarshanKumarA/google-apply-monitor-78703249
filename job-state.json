@@ -791,16 +791,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "121615149936059078",
-      "title": "Software Engineer, Content Safety, AI Transformation Enablement",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121615149936059078-software-engineer-content-safety-ai-transformation-enablement",
-      "firstDetectedAt": "2026-09-08T15:05:44.641Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "89546793800344262",
       "title": "Software Engineer, Content Safety, Core",
       "location": "Singapore",
@@ -1273,10 +1263,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-09T18:50:59.571Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-09T21:24:15.058Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
     },
@@ -1670,6 +1656,10 @@
     },
     {
       "checkedAt": "2026-09-24T14:23:52.786Z",
+      "result": "Found 70 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-24T18:32:56.114Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
     }
   ]
