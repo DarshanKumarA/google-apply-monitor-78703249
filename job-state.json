@@ -1012,16 +1012,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "108412948749132486",
-      "title": "Staff AI Solutions Deployment Developer, Applied AI",
-      "location": "Waterloo, ON, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/108412948749132486-staff-ai-solutions-deployment-developer-applied-ai",
-      "firstDetectedAt": "2026-08-26T07:55:43.688Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91436104816698054",
       "title": "Software Engineering Intern, PhD, Summer 2026",
       "location": "Mountain View, CA, USA",
@@ -1088,16 +1078,6 @@
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139644332427616966-software-engineer-phd-early-careers-google-cloud",
       "firstDetectedAt": "2026-08-21T23:54:56.810Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "105855563622949574",
-      "title": "Software Engineer, Content Safety Team",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/105855563622949574-software-engineer-content-safety-team",
-      "firstDetectedAt": "2026-08-21T10:44:06.204Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1263,10 +1243,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-10T15:05:13.714Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-10T18:24:00.209Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
@@ -1662,6 +1638,10 @@
     {
       "checkedAt": "2026-09-25T15:04:46.956Z",
       "result": "Found 73 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-25T19:13:30.257Z",
+      "result": "Found 73 matching roles; 0 new opening(s)"
     }
   ]
 }
