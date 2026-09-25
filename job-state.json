@@ -761,16 +761,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "95624967093134022",
-      "title": "Software Engineer, Ask Google Pay",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95624967093134022-software-engineer-ask-google-pay",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "72431374895588038",
       "title": "Software Engineer, Google Wallet, Multimodal Intelligence",
       "location": "Singapore",
@@ -1263,10 +1253,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-10T06:11:01.793Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-10T11:23:13.945Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -1661,6 +1647,10 @@
     {
       "checkedAt": "2026-09-25T04:51:04.470Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-25T09:55:52.657Z",
+      "result": "Found 71 matching roles; 0 new opening(s)"
     }
   ]
 }
