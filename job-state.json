@@ -226,7 +226,9 @@
     "101657586889040582": "2026-09-23T14:49:16.210Z",
     "118752518799794886": "2026-09-23T18:41:47.804Z",
     "116354346500661958": "2026-09-24T00:02:04.113Z",
-    "79701490733589190": "2026-09-25T15:04:46.956Z"
+    "79701490733589190": "2026-09-25T15:04:46.956Z",
+    "97352132356645574": "2026-09-28T16:05:35.302Z",
+    "127950560631366342": "2026-09-28T16:05:35.302Z"
   },
   "baseline": [
     {
@@ -502,6 +504,26 @@
   ],
   "newOpenings": [
     {
+      "id": "97352132356645574",
+      "title": "Hardware Engineering Intern, PhD, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-09-28T16:05:35.302Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "127950560631366342",
+      "title": "Silicon Engineer, PhD, University Graduate, 2027 Start",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127950560631366342-silicon-engineer-phd-university-graduate-2027-start",
+      "firstDetectedAt": "2026-09-28T16:05:35.302Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
       "id": "79701490733589190",
       "title": "Integrated Planning Execution Lead, Integrated Infrastructure Planning",
       "location": "Sunnyvale, CA, USA",
@@ -578,16 +600,6 @@
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/89573485948347078-strategic-partner-onboarding-and-incubation-specialist-grcn-sellside-monetization-mandarin-english",
       "firstDetectedAt": "2026-09-18T11:05:28.254Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "95424090398958278",
-      "title": "Software Engineer, GDC AI Applications and Agents",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95424090398958278-software-engineer-gdc-ai-applications-and-agents",
-      "firstDetectedAt": "2026-09-17T17:41:21.192Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -962,46 +974,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "100648618540573382",
-      "title": "Software Engineering Intern, BS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
-      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "94172495052972742",
-      "title": "Software Engineering Intern, MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
-      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "138960139137753798",
-      "title": "Software Developer Intern, MS, Summer 2027",
-      "location": "Waterloo, ON, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
-      "firstDetectedAt": "2026-08-31T10:58:20.930Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "123510626377966278",
-      "title": "Software Developer Intern, BS, Summer 2027",
-      "location": "Waterloo, ON, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027",
-      "firstDetectedAt": "2026-08-31T10:58:20.930Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "77325528784085702",
       "title": "Software Engineer, Brownout Mitigation, Pixel",
       "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
@@ -1243,10 +1215,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-12T20:51:35.403Z",
-      "result": "Found 81 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-12T22:44:04.189Z",
       "result": "Found 81 matching roles; 0 new opening(s)"
@@ -1642,6 +1610,10 @@
     {
       "checkedAt": "2026-09-28T07:46:25.408Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-28T16:05:35.302Z",
+      "result": "Found 72 matching roles; 2 new opening(s)"
     }
   ]
 }
