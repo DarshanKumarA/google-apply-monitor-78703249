@@ -975,16 +975,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "77325528784085702",
-      "title": "Software Engineer, Brownout Mitigation, Pixel",
-      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77325528784085702-software-engineer-brownout-mitigation-pixel",
-      "firstDetectedAt": "2026-08-27T14:20:54.241Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91436104816698054",
       "title": "Software Engineering Intern, PhD, Summer 2026",
       "location": "Mountain View, CA, USA",
@@ -1216,10 +1206,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-13T05:16:52.340Z",
-      "result": "Found 81 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-13T10:23:03.130Z",
       "result": "Found 81 matching roles; 0 new opening(s)"
@@ -1615,6 +1601,10 @@
     {
       "checkedAt": "2026-09-29T01:44:35.211Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-29T07:33:17.653Z",
+      "result": "Found 72 matching roles; 0 new opening(s)"
     }
   ]
 }
