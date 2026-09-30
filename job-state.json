@@ -615,16 +615,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "94154429346783942",
-      "title": "Commercial Strategy Lead, GMP Channel, Global Product Solutions",
-      "location": "New York, NY, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94154429346783942-commercial-strategy-lead-gmp-channel-global-product-solutions",
-      "firstDetectedAt": "2026-09-17T17:41:21.192Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "107494065192215238",
       "title": "Hardware Architecture Modeling Engineer, PhD, University Graduate, 2027 Start",
       "location": "Sunnyvale, CA, USA",
@@ -1207,10 +1197,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-14T01:43:24.597Z",
-      "result": "Found 81 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-14T07:10:23.211Z",
       "result": "Found 81 matching roles; 0 new opening(s)"
     },
@@ -1605,6 +1591,10 @@
     {
       "checkedAt": "2026-09-30T15:15:28.713Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-09-30T20:07:25.249Z",
+      "result": "Found 73 matching roles; 0 new opening(s)"
     }
   ]
 }
