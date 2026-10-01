@@ -229,7 +229,9 @@
     "79701490733589190": "2026-09-25T15:04:46.956Z",
     "97352132356645574": "2026-09-28T16:05:35.302Z",
     "127950560631366342": "2026-09-28T16:05:35.302Z",
-    "140364184347910854": "2026-09-28T21:56:58.199Z"
+    "140364184347910854": "2026-09-28T21:56:58.199Z",
+    "122277379132269254": "2026-10-01T16:36:55.292Z",
+    "130170340289454790": "2026-10-01T16:36:55.292Z"
   },
   "baseline": [
     {
@@ -353,31 +355,11 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "78703249065943750",
-      "title": "Software Engineer, Early Career, Campus",
-      "location": "Mountain View, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91485220485636806",
       "title": "Software Engineer, Performance, Reliability, Observability, PhD, Early Career",
       "location": "Warsaw, Poland",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91485220485636806-software-engineer-performance-reliability-observability-phd-early-career",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "120686451305128646",
-      "title": "Software Developer, Early Career, Campus",
-      "location": "Waterloo, ON, Canada",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -504,6 +486,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "122277379132269254",
+      "title": "Software Engineer, Full Stack, SCU",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/122277379132269254-software-engineer-full-stack-scu",
+      "firstDetectedAt": "2026-10-01T16:36:55.292Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "130170340289454790",
+      "title": "Software Engineer, TPU Compiler, PhD, Early Careers",
+      "location": "London, UK",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130170340289454790-software-engineer-tpu-compiler-phd-early-careers",
+      "firstDetectedAt": "2026-10-01T16:36:55.292Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
     {
       "id": "140364184347910854",
       "title": "Strategy and Operations Principal Lead, GBO Chief of Staff Team",
@@ -1187,10 +1189,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-14T22:36:19.605Z",
-      "result": "Found 87 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-15T00:54:06.858Z",
       "result": "Found 87 matching roles; 0 new opening(s)"
     },
@@ -1585,6 +1583,10 @@
     {
       "checkedAt": "2026-10-01T09:23:14.803Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-01T16:36:55.292Z",
+      "result": "Found 73 matching roles; 2 new opening(s)"
     }
   ]
 }
