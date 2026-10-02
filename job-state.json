@@ -248,7 +248,8 @@
     "142308488125522630": "2026-10-02T13:41:51.472Z",
     "103082311292986054": "2026-10-02T13:41:51.472Z",
     "129378231382876870": "2026-10-02T13:41:51.472Z",
-    "100315940037501638": "2026-10-02T13:41:51.472Z"
+    "100315940037501638": "2026-10-02T13:41:51.472Z",
+    "125668891467621062": "2026-10-02T22:36:03.555Z"
   },
   "baseline": [
     {
@@ -504,6 +505,16 @@
   ],
   "newOpenings": [
     {
+      "id": "125668891467621062",
+      "title": "Director, Strategy and Business Operations, Modular Infrastructure, Global Data Centers",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/125668891467621062-director-strategy-and-business-operations-modular-infrastructure-global-data-centers",
+      "firstDetectedAt": "2026-10-02T22:36:03.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
       "id": "99770582270124742",
       "title": "Strategy and Operations MBA Intern, 2027",
       "location": "London, UK",
@@ -670,16 +681,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166-data-scientist-product-ms-intern-2027",
       "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "122277379132269254",
-      "title": "Software Engineer, Full Stack, SCU",
-      "location": "Belo Horizonte, Minas Gerais, Brazil",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/122277379132269254-software-engineer-full-stack-scu",
-      "firstDetectedAt": "2026-10-01T16:36:55.292Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 12, 2026"
     },
@@ -984,16 +985,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "89546793800344262",
-      "title": "Software Engineer, Content Safety, Core",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/89546793800344262-software-engineer-content-safety-core",
-      "firstDetectedAt": "2026-09-08T15:05:44.641Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "131287072689267398",
       "title": "Research Intern, PhD, Summer 2027",
       "location": "Montreal, QC, Canada",
@@ -1204,16 +1195,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "139644332427616966",
-      "title": "Software Engineer, PhD, Early Careers, Google Cloud",
-      "location": "Taipei, Taiwan",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139644332427616966-software-engineer-phd-early-careers-google-cloud",
-      "firstDetectedAt": "2026-08-21T23:54:56.810Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "121178240002728646",
       "title": "Software Engineer, People with Disabilities",
       "location": "Belo Horizonte, State of Minas Gerais, Brazil",
@@ -1355,10 +1336,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-15T22:16:07.247Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-16T00:29:33.478Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
@@ -1754,6 +1731,10 @@
     {
       "checkedAt": "2026-10-02T18:43:15.787Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-02T22:36:03.555Z",
+      "result": "Found 71 matching roles; 1 new opening(s)"
     }
   ]
 }
