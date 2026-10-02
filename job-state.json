@@ -239,7 +239,16 @@
     "104511401531187910": "2026-10-02T06:55:50.214Z",
     "93230412230206150": "2026-10-02T06:55:50.214Z",
     "102057291577991878": "2026-10-02T06:55:50.214Z",
-    "84561862556820166": "2026-10-02T06:55:50.214Z"
+    "84561862556820166": "2026-10-02T06:55:50.214Z",
+    "99770582270124742": "2026-10-02T13:41:51.472Z",
+    "93402210922046150": "2026-10-02T13:41:51.472Z",
+    "135799379289088710": "2026-10-02T13:41:51.472Z",
+    "139493738358416070": "2026-10-02T13:41:51.472Z",
+    "85160271760237254": "2026-10-02T13:41:51.472Z",
+    "142308488125522630": "2026-10-02T13:41:51.472Z",
+    "103082311292986054": "2026-10-02T13:41:51.472Z",
+    "129378231382876870": "2026-10-02T13:41:51.472Z",
+    "100315940037501638": "2026-10-02T13:41:51.472Z"
   },
   "baseline": [
     {
@@ -494,6 +503,96 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "99770582270124742",
+      "title": "Strategy and Operations MBA Intern, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "93402210922046150",
+      "title": "Finance MBA Intern, 2027",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/93402210922046150-finance-mba-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "135799379289088710",
+      "title": "Data Center Facilities Technician Intern, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135799379289088710-data-center-facilities-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "139493738358416070",
+      "title": "Data Center Technician Intern, 2027",
+      "location": "Eemshaven, Netherlands",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139493738358416070-data-center-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "85160271760237254",
+      "title": "Data Center Technician Intern, 2027",
+      "location": "Hamina, Finland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85160271760237254-data-center-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "142308488125522630",
+      "title": "Data Center Technician Intern, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/142308488125522630-data-center-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "103082311292986054",
+      "title": "Data Center Technician Intern, 2027",
+      "location": "Skien, Norway",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103082311292986054-data-center-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "129378231382876870",
+      "title": "Data Center Technician Intern, 2027",
+      "location": "Saint-Ghislain, Belgium",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129378231382876870-data-center-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "100315940037501638",
+      "title": "Financial Analyst BS/MS Intern, 2027",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
     {
       "id": "82600333812867782",
       "title": "Business Analyst MBA Intern, 2027",
@@ -1165,16 +1264,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "134795423167455942",
-      "title": "Research Scientist PhD Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/134795423167455942-research-scientist-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T14:04:39.039Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "74922616988541638",
       "title": "Part-Time Software Engineering PhD Intern, 2027",
       "location": "Tel Aviv, Israel",
@@ -1266,10 +1355,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-15T15:34:07.035Z",
-      "result": "Found 81 matching roles; 2 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-15T19:11:10.691Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
@@ -1665,6 +1750,10 @@
     {
       "checkedAt": "2026-10-02T06:55:50.214Z",
       "result": "Found 75 matching roles; 8 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-02T13:41:51.472Z",
+      "result": "Found 73 matching roles; 9 new opening(s)"
     }
   ]
 }
