@@ -231,7 +231,15 @@
     "127950560631366342": "2026-09-28T16:05:35.302Z",
     "140364184347910854": "2026-09-28T21:56:58.199Z",
     "122277379132269254": "2026-10-01T16:36:55.292Z",
-    "130170340289454790": "2026-10-01T16:36:55.292Z"
+    "130170340289454790": "2026-10-01T16:36:55.292Z",
+    "82600333812867782": "2026-10-02T06:55:50.214Z",
+    "99330502741107398": "2026-10-02T06:55:50.214Z",
+    "135156989620560582": "2026-10-02T06:55:50.214Z",
+    "105628505345008326": "2026-10-02T06:55:50.214Z",
+    "104511401531187910": "2026-10-02T06:55:50.214Z",
+    "93230412230206150": "2026-10-02T06:55:50.214Z",
+    "102057291577991878": "2026-10-02T06:55:50.214Z",
+    "84561862556820166": "2026-10-02T06:55:50.214Z"
   },
   "baseline": [
     {
@@ -486,6 +494,86 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "82600333812867782",
+      "title": "Business Analyst MBA Intern, 2027",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82600333812867782-business-analyst-mba-intern-2027",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "99330502741107398",
+      "title": "Data Center Facilities Technician Intern, 2027",
+      "location": "Eemshaven, Netherlands",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99330502741107398-data-center-facilities-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "135156989620560582",
+      "title": "Forward Deployed Engineering Intern, BS/MS, 2027",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582-forward-deployed-engineering-intern-bs-ms-2027",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "105628505345008326",
+      "title": "New Business Sales BS/MS Intern, 2027 (Multiple Languages)",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/105628505345008326-new-business-sales-bs-ms-intern-2027-multiple-languages",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "104511401531187910",
+      "title": "Customer Growth Associate BS/MS Intern, 2027 (Multiple Languages)",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104511401531187910-customer-growth-associate-bs-ms-intern-2027-multiple-languages",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "93230412230206150",
+      "title": "Data Center Facilities Technician Intern, 2027",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/93230412230206150-data-center-facilities-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "102057291577991878",
+      "title": "Data Center Facilities Technician Intern, 2027",
+      "location": "Saint-Ghislain, Belgium",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102057291577991878-data-center-facilities-technician-intern-2027",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "84561862556820166",
+      "title": "Data Scientist Product MS Intern, 2027",
+      "location": "Zürich, Switzerland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166-data-scientist-product-ms-intern-2027",
+      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
     {
       "id": "122277379132269254",
       "title": "Software Engineer, Full Stack, SCU",
@@ -1179,10 +1267,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-15T11:09:36.844Z",
-      "result": "Found 85 matching roles; 1 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-15T15:34:07.035Z",
       "result": "Found 81 matching roles; 2 new opening(s)"
     },
@@ -1577,6 +1661,10 @@
     {
       "checkedAt": "2026-10-02T00:58:00.603Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-02T06:55:50.214Z",
+      "result": "Found 75 matching roles; 8 new opening(s)"
     }
   ]
 }
