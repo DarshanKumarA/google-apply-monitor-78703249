@@ -815,16 +815,6 @@
       "expiryDate": "September 29, 2026"
     },
     {
-      "id": "98641622199083718",
-      "title": "Software Engineer, Content Safety",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/98641622199083718-software-engineer-content-safety",
-      "firstDetectedAt": "2026-09-15T11:09:36.844Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "115313754307994310",
       "title": "Data Center Engineering Intern, BS/MS, Summer 2027",
       "location": "Mountain View, CA, USA",
@@ -1025,16 +1015,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "124414888792466118",
-      "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/124414888792466118-product-strategy-and-operations-chief-of-staff-and-external-engagement-lead-google-education",
-      "firstDetectedAt": "2026-09-03T17:12:14.826Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "83199557986329286",
       "title": "Software Engineering BS/MS Intern, 2027",
       "location": "Bucharest, Romania",
@@ -1091,26 +1071,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121543376737575622-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
       "firstDetectedAt": "2026-09-03T09:09:14.476Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "121418032412009158",
-      "title": "CAD Engineer",
-      "location": "Tel Aviv, Israel",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121418032412009158-cad-engineer",
-      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "102251586234786502",
-      "title": "Software Engineer, Machine Learning, TPU Workload Optimization",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102251586234786502-software-engineer-machine-learning-tpu-workload-optimization",
-      "firstDetectedAt": "2026-09-02T08:52:01.697Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1336,10 +1296,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-18T06:01:07.982Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-18T11:05:28.254Z",
       "result": "Found 77 matching roles; 1 new opening(s)"
@@ -1735,6 +1691,10 @@
     {
       "checkedAt": "2026-10-05T09:19:42.142Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-05T18:36:46.433Z",
+      "result": "Found 68 matching roles; 0 new opening(s)"
     }
   ]
 }
