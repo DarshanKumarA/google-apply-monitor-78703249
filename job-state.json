@@ -257,7 +257,8 @@
     "134469159198040774": "2026-10-07T15:54:23.660Z",
     "84770434758648518": "2026-10-08T00:56:19.834Z",
     "96603172738343622": "2026-10-08T14:36:45.873Z",
-    "136217193707643590": "2026-10-08T14:36:45.873Z"
+    "136217193707643590": "2026-10-08T14:36:45.873Z",
+    "77224005420884678": "2026-10-08T20:07:42.426Z"
   },
   "baseline": [
     {
@@ -512,6 +513,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "77224005420884678",
+      "title": "Software Engineer, Android",
+      "location": "Sydney NSW, Australia",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77224005420884678-software-engineer-android",
+      "firstDetectedAt": "2026-10-08T20:07:42.426Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
     {
       "id": "96603172738343622",
       "title": "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
@@ -1355,10 +1366,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-19T23:29:17.931Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-20T01:32:35.875Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
     },
@@ -1753,6 +1760,10 @@
     {
       "checkedAt": "2026-10-08T14:36:45.873Z",
       "result": "Found 74 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-08T20:07:42.426Z",
+      "result": "Found 74 matching roles; 1 new opening(s)"
     }
   ]
 }
