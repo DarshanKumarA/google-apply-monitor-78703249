@@ -254,7 +254,8 @@
     "101317990267396806": "2026-10-06T13:36:31.952Z",
     "130131242229080774": "2026-10-06T19:03:54.877Z",
     "106038566273852102": "2026-10-07T15:54:23.660Z",
-    "134469159198040774": "2026-10-07T15:54:23.660Z"
+    "134469159198040774": "2026-10-07T15:54:23.660Z",
+    "84770434758648518": "2026-10-08T00:56:19.834Z"
   },
   "baseline": [
     {
@@ -509,6 +510,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "84770434758648518",
+      "title": "Staff Software Engineer, Learning Frontiers",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84770434758648518-staff-software-engineer-learning-frontiers",
+      "firstDetectedAt": "2026-10-08T00:56:19.834Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
     {
       "id": "106038566273852102",
       "title": "Software Engineer, Google Pay, Growth and Communications",
@@ -786,16 +797,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/79701490733589190-integrated-planning-execution-lead-integrated-infrastructure-planning",
       "firstDetectedAt": "2026-09-25T15:04:46.956Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "116354346500661958",
-      "title": "Director, gTech Ads Solutions, YouTube+ COE",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/116354346500661958-director-gtech-ads-solutions-youtube-coe",
-      "firstDetectedAt": "2026-09-24T00:02:04.113Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1332,10 +1333,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-19T17:12:37.776Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-19T19:20:56.088Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
     },
@@ -1730,6 +1727,10 @@
     {
       "checkedAt": "2026-10-07T21:02:44.194Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-08T00:56:19.834Z",
+      "result": "Found 72 matching roles; 1 new opening(s)"
     }
   ]
 }
