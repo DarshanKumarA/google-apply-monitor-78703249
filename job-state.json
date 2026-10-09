@@ -258,7 +258,8 @@
     "84770434758648518": "2026-10-08T00:56:19.834Z",
     "96603172738343622": "2026-10-08T14:36:45.873Z",
     "136217193707643590": "2026-10-08T14:36:45.873Z",
-    "77224005420884678": "2026-10-08T20:07:42.426Z"
+    "77224005420884678": "2026-10-08T20:07:42.426Z",
+    "85811371622441670": "2026-10-09T00:21:42.348Z"
   },
   "baseline": [
     {
@@ -513,6 +514,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "85811371622441670",
+      "title": "Software Engineer, Cloud AI",
+      "location": "Warsaw, Poland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85811371622441670-software-engineer-cloud-ai",
+      "firstDetectedAt": "2026-10-09T00:21:42.348Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
     {
       "id": "77224005420884678",
       "title": "Software Engineer, Android",
@@ -1144,26 +1155,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "80879399473160902",
-      "title": "Software Engineer, Site Reliability Engineering",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/80879399473160902-software-engineer-site-reliability-engineering",
-      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "112470567562420934",
-      "title": "Staff Software Engineer",
-      "location": "New York, NY, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112470567562420934-staff-software-engineer",
-      "firstDetectedAt": "2026-08-31T17:58:22.801Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "91436104816698054",
       "title": "Software Engineering Intern, PhD, Summer 2026",
       "location": "Mountain View, CA, USA",
@@ -1365,10 +1356,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-20T01:32:35.875Z",
-      "result": "Found 75 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-20T06:56:24.264Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
@@ -1764,6 +1751,10 @@
     {
       "checkedAt": "2026-10-08T20:07:42.426Z",
       "result": "Found 74 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-09T00:21:42.348Z",
+      "result": "Found 76 matching roles; 1 new opening(s)"
     }
   ]
 }
