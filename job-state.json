@@ -453,16 +453,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "113556945616413382",
-      "title": "Recruiting Specialist, People Operations, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)",
-      "location": "Shanghai, China",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/113556945616413382-recruiting-specialist-people-operations-greach-program-for-people-with-disabilities-english-mandarin",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "114836903953343174",
       "title": "Signal/Power Integrity Engineer, PhD Graduate",
       "location": "Haifa, Israel",
@@ -1347,10 +1337,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-22T00:55:25.752Z",
-      "result": "Found 75 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-22T05:56:04.867Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
     },
@@ -1744,6 +1730,10 @@
     },
     {
       "checkedAt": "2026-10-11T07:11:54.665Z",
+      "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-11T14:05:45.775Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     }
   ]
