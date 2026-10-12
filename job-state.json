@@ -259,7 +259,18 @@
     "96603172738343622": "2026-10-08T14:36:45.873Z",
     "136217193707643590": "2026-10-08T14:36:45.873Z",
     "77224005420884678": "2026-10-08T20:07:42.426Z",
-    "85811371622441670": "2026-10-09T00:21:42.348Z"
+    "85811371622441670": "2026-10-09T00:21:42.348Z",
+    "80291213365650118": "2026-10-12T17:50:41.820Z",
+    "137359440260014790": "2026-10-12T17:50:41.820Z",
+    "88776419475104454": "2026-10-12T17:50:41.820Z",
+    "103023891147825862": "2026-10-12T17:50:41.820Z",
+    "75665705386549958": "2026-10-12T17:50:41.820Z",
+    "121103710599160518": "2026-10-12T17:50:41.820Z",
+    "81809776362562246": "2026-10-12T17:50:41.820Z",
+    "78951046130344646": "2026-10-12T17:50:41.820Z",
+    "99661447151133382": "2026-10-12T17:50:41.820Z",
+    "132324639077475014": "2026-10-12T17:50:41.820Z",
+    "118991686201156294": "2026-10-12T17:50:41.820Z"
   },
   "baseline": [
     {
@@ -505,6 +516,116 @@
   ],
   "newOpenings": [
     {
+      "id": "80291213365650118",
+      "title": "Software Engineer",
+      "location": "Atlanta, GA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/80291213365650118-software-engineer",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "137359440260014790",
+      "title": "Software Engineer",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/137359440260014790-software-engineer",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "88776419475104454",
+      "title": "Staff Software Engineer",
+      "location": "Austin, TX, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88776419475104454-staff-software-engineer",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "103023891147825862",
+      "title": "Staff Software Engineer",
+      "location": "Austin, TX, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103023891147825862-staff-software-engineer",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "75665705386549958",
+      "title": "Forward Deployed Engineering Intern, BS/MS, Summer 2027",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bs-ms-summer-2027",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "121103710599160518",
+      "title": "MBA Intern, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121103710599160518-mba-intern-summer-2027",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "81809776362562246",
+      "title": "People Analytics Intern, PhD, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246-people-analytics-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "78951046130344646",
+      "title": "Media Account Specialist BS/MS Intern, 2027 (English, Hebrew)",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/78951046130344646-media-account-specialist-bs-ms-intern-2027-english-hebrew",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "99661447151133382",
+      "title": "Media Account Specialist BS/MS Intern, 2027",
+      "location": "Dublin, Ireland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99661447151133382-media-account-specialist-bs-ms-intern-2027",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "132324639077475014",
+      "title": "Media Account Specialist BS/MS Intern, 2027 (German, French, Spanish)",
+      "location": "Warsaw, Poland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/132324639077475014-media-account-specialist-bs-ms-intern-2027-german-french-spanish",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
+      "id": "118991686201156294",
+      "title": "Product Deployment Engineer BS/MS, Intern - 2027 (English)",
+      "location": "Hamburg, Germany",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118991686201156294-product-deployment-engineer-bs-ms-intern-2027-english",
+      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 12, 2026"
+    },
+    {
       "id": "85811371622441670",
       "title": "Software Engineer, Cloud AI",
       "location": "Warsaw, Poland",
@@ -551,16 +672,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84770434758648518-staff-software-engineer-learning-frontiers",
       "firstDetectedAt": "2026-10-08T00:56:19.834Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "106038566273852102",
-      "title": "Software Engineer, Google Pay, Growth and Communications",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/106038566273852102-software-engineer-google-pay-growth-and-communications",
-      "firstDetectedAt": "2026-10-07T15:54:23.660Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 12, 2026"
     },
@@ -845,16 +956,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "100460871561421510",
-      "title": "Business Undergraduate Intern, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100460871561421510-business-undergraduate-intern-summer-2027",
-      "firstDetectedAt": "2026-09-22T15:33:06.444Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "107810269274481350",
       "title": "Software Engineer, Network Security",
       "location": "Sydney NSW, Australia",
@@ -885,46 +986,6 @@
       "expiryDate": "September 29, 2026"
     },
     {
-      "id": "115313754307994310",
-      "title": "Data Center Engineering Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "135755874491605702",
-      "title": "Product Design Engineering Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "112499004540887750",
-      "title": "User Experience Engineer Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "114405557703451334",
-      "title": "Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136529930677560006",
       "title": "Silicon Engineering Intern, PhD, Summer 2027",
       "location": "Sunnyvale, CA, USA",
@@ -935,61 +996,11 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "88570332985598662",
-      "title": "Silicon Engineering Intern, BS/MS, Summer 2027",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "122803627516404422",
-      "title": "Hardware Engineering Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "117572151191446214",
       "title": "User Experience Engineer Intern, PhD, Summer 2027",
       "location": "Mountain View, CA, USA",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "89541201752924870",
-      "title": "User Experience Research Intern, MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "100798001798095558",
-      "title": "User Experience Design Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100798001798095558-user-experience-design-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "136826798817059526",
-      "title": "Security Engineering Intern, BS/MS, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027",
       "firstDetectedAt": "2026-09-14T14:05:16.001Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -1336,10 +1347,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-22T22:05:50.268Z",
-      "result": "Found 68 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-23T00:28:23.894Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
@@ -1735,6 +1742,10 @@
     {
       "checkedAt": "2026-10-12T08:06:10.605Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-12T17:50:41.820Z",
+      "result": "Found 75 matching roles; 11 new opening(s)"
     }
   ]
 }
