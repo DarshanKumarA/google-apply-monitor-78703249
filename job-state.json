@@ -918,16 +918,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "130170340289454790",
-      "title": "Software Engineer, TPU Compiler, PhD, Early Careers",
-      "location": "London, UK",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130170340289454790-software-engineer-tpu-compiler-phd-early-careers",
-      "firstDetectedAt": "2026-10-01T16:36:55.292Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "140364184347910854",
       "title": "Strategy and Operations Principal Lead, GBO Chief of Staff Team",
       "location": "New York, NY, USA",
@@ -1370,10 +1360,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-23T14:49:16.210Z",
-      "result": "Found 69 matching roles; 1 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-23T18:41:47.804Z",
       "result": "Found 69 matching roles; 1 new opening(s)"
     },
@@ -1768,6 +1754,10 @@
     {
       "checkedAt": "2026-10-13T14:35:18.169Z",
       "result": "Found 74 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-13T20:20:34.979Z",
+      "result": "Found 74 matching roles; 0 new opening(s)"
     }
   ]
 }
