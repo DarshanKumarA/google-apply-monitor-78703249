@@ -271,7 +271,8 @@
     "99661447151133382": "2026-10-12T17:50:41.820Z",
     "132324639077475014": "2026-10-12T17:50:41.820Z",
     "118991686201156294": "2026-10-12T17:50:41.820Z",
-    "130287737952445126": "2026-10-13T06:39:00.551Z"
+    "130287737952445126": "2026-10-13T06:39:00.551Z",
+    "104489346874122950": "2026-10-13T14:35:18.169Z"
   },
   "baseline": [
     {
@@ -516,6 +517,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "104489346874122950",
+      "title": "Software Engineering Intern, 2027 (English)",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english",
+      "firstDetectedAt": "2026-10-13T14:35:18.169Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "130287737952445126",
       "title": "Data Center Facilities Technician, Server Floor",
@@ -1359,10 +1370,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-23T09:56:12.220Z",
-      "result": "Found 68 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-23T14:49:16.210Z",
       "result": "Found 69 matching roles; 1 new opening(s)"
     },
@@ -1757,6 +1764,10 @@
     {
       "checkedAt": "2026-10-13T06:39:00.551Z",
       "result": "Found 76 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-13T14:35:18.169Z",
+      "result": "Found 74 matching roles; 1 new opening(s)"
     }
   ]
 }
