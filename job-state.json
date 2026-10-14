@@ -558,16 +558,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "88776419475104454",
-      "title": "Staff Software Engineer",
-      "location": "Austin, TX, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88776419475104454-staff-software-engineer",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "103023891147825862",
       "title": "Staff Software Engineer",
       "location": "Austin, TX, USA",
@@ -1360,10 +1350,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-24T14:23:52.786Z",
-      "result": "Found 70 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-24T18:32:56.114Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
     },
@@ -1758,6 +1744,10 @@
     {
       "checkedAt": "2026-10-14T17:59:18.265Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-14T21:34:19.013Z",
+      "result": "Found 72 matching roles; 0 new opening(s)"
     }
   ]
 }
