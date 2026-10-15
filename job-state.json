@@ -1035,16 +1035,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "88543982287495878",
-      "title": "GenAI Forward Deployed Engineer, Google Cloud (English, Korean)",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88543982287495878-genai-forward-deployed-engineer-google-cloud-english-korean",
-      "firstDetectedAt": "2026-09-15T15:34:07.035Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "September 29, 2026"
-    },
-    {
       "id": "136529930677560006",
       "title": "Silicon Engineering Intern, PhD, Summer 2027",
       "location": "Sunnyvale, CA, USA",
@@ -1406,10 +1396,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-25T19:13:30.257Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-25T22:27:30.361Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
@@ -1805,6 +1791,10 @@
     {
       "checkedAt": "2026-10-15T21:36:34.817Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-15T23:51:26.149Z",
+      "result": "Found 73 matching roles; 0 new opening(s)"
     }
   ]
 }
