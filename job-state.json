@@ -278,7 +278,8 @@
     "86541159580476102": "2026-10-15T09:21:44.039Z",
     "122745878459884230": "2026-10-15T09:21:44.039Z",
     "109864326646375110": "2026-10-15T14:16:23.553Z",
-    "75861929557402310": "2026-10-15T14:16:23.553Z"
+    "75861929557402310": "2026-10-15T14:16:23.553Z",
+    "85430979253936838": "2026-10-15T18:23:29.948Z"
   },
   "baseline": [
     {
@@ -523,6 +524,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "85430979253936838",
+      "title": "Software Engineering Intern, Summer 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027",
+      "firstDetectedAt": "2026-10-15T18:23:29.948Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
     {
       "id": "109864326646375110",
       "title": "Software Engineering Intern, Summer 2027",
@@ -1396,10 +1407,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-25T09:55:52.657Z",
-      "result": "Found 71 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-25T15:04:46.956Z",
       "result": "Found 73 matching roles; 1 new opening(s)"
     },
@@ -1794,6 +1801,10 @@
     {
       "checkedAt": "2026-10-15T14:16:23.553Z",
       "result": "Found 73 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-15T18:23:29.948Z",
+      "result": "Found 74 matching roles; 1 new opening(s)"
     }
   ]
 }
