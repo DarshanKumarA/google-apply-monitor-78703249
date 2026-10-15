@@ -276,7 +276,9 @@
     "110899190426411718": "2026-10-15T09:21:44.039Z",
     "103425260136604358": "2026-10-15T09:21:44.039Z",
     "86541159580476102": "2026-10-15T09:21:44.039Z",
-    "122745878459884230": "2026-10-15T09:21:44.039Z"
+    "122745878459884230": "2026-10-15T09:21:44.039Z",
+    "109864326646375110": "2026-10-15T14:16:23.553Z",
+    "75861929557402310": "2026-10-15T14:16:23.553Z"
   },
   "baseline": [
     {
@@ -522,31 +524,31 @@
   ],
   "newOpenings": [
     {
+      "id": "109864326646375110",
+      "title": "Software Engineering Intern, Summer 2027",
+      "location": "Shanghai, China",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109864326646375110-software-engineering-intern-summer-2027",
+      "firstDetectedAt": "2026-10-15T14:16:23.553Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
+      "id": "75861929557402310",
+      "title": "Software Engineer, Content Safety, Core",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75861929557402310-software-engineer-content-safety-core",
+      "firstDetectedAt": "2026-10-15T14:16:23.553Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
       "id": "110899190426411718",
       "title": "MBA Intern, 2027",
       "location": "Hong Kong",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110899190426411718-mba-intern-2027",
-      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
-      "id": "103425260136604358",
-      "title": "Software Engineering Intern, Summer 2027",
-      "location": "Taipei, Taiwan",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103425260136604358-software-engineering-intern-summer-2027",
-      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
-      "id": "86541159580476102",
-      "title": "Software Engineering Intern, Summer 2027",
-      "location": "Shanghai, China",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/86541159580476102-software-engineering-intern-summer-2027",
       "firstDetectedAt": "2026-10-15T09:21:44.039Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 29, 2026"
@@ -1394,10 +1396,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-25T04:51:04.470Z",
-      "result": "Found 70 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-25T09:55:52.657Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
     },
@@ -1792,6 +1790,10 @@
     {
       "checkedAt": "2026-10-15T09:21:44.039Z",
       "result": "Found 72 matching roles; 4 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-15T14:16:23.553Z",
+      "result": "Found 73 matching roles; 2 new opening(s)"
     }
   ]
 }
