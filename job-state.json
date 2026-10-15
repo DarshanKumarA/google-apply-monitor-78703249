@@ -272,7 +272,11 @@
     "132324639077475014": "2026-10-12T17:50:41.820Z",
     "118991686201156294": "2026-10-12T17:50:41.820Z",
     "130287737952445126": "2026-10-13T06:39:00.551Z",
-    "104489346874122950": "2026-10-13T14:35:18.169Z"
+    "104489346874122950": "2026-10-13T14:35:18.169Z",
+    "110899190426411718": "2026-10-15T09:21:44.039Z",
+    "103425260136604358": "2026-10-15T09:21:44.039Z",
+    "86541159580476102": "2026-10-15T09:21:44.039Z",
+    "122745878459884230": "2026-10-15T09:21:44.039Z"
   },
   "baseline": [
     {
@@ -517,6 +521,46 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "110899190426411718",
+      "title": "MBA Intern, 2027",
+      "location": "Hong Kong",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110899190426411718-mba-intern-2027",
+      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
+      "id": "103425260136604358",
+      "title": "Software Engineering Intern, Summer 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103425260136604358-software-engineering-intern-summer-2027",
+      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
+      "id": "86541159580476102",
+      "title": "Software Engineering Intern, Summer 2027",
+      "location": "Shanghai, China",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/86541159580476102-software-engineering-intern-summer-2027",
+      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
+      "id": "122745878459884230",
+      "title": "MBA Intern, 2027",
+      "location": "Shanghai, China",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/122745878459884230-mba-intern-2027",
+      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
     {
       "id": "104489346874122950",
       "title": "Software Engineering Intern, 2027 (English)",
@@ -1350,10 +1394,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-25T00:04:30.448Z",
-      "result": "Found 70 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-25T04:51:04.470Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
     },
@@ -1748,6 +1788,10 @@
     {
       "checkedAt": "2026-10-15T04:30:15.892Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-15T09:21:44.039Z",
+      "result": "Found 72 matching roles; 4 new opening(s)"
     }
   ]
 }
