@@ -279,7 +279,8 @@
     "122745878459884230": "2026-10-15T09:21:44.039Z",
     "109864326646375110": "2026-10-15T14:16:23.553Z",
     "75861929557402310": "2026-10-15T14:16:23.553Z",
-    "85430979253936838": "2026-10-15T18:23:29.948Z"
+    "85430979253936838": "2026-10-15T18:23:29.948Z",
+    "115100407176274630": "2026-10-16T12:41:05.532Z"
   },
   "baseline": [
     {
@@ -524,6 +525,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "115100407176274630",
+      "title": "Software Engineer, Pixel Camera",
+      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/115100407176274630-software-engineer-pixel-camera",
+      "firstDetectedAt": "2026-10-16T12:41:05.532Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
     {
       "id": "85430979253936838",
       "title": "Software Engineering Intern, Summer 2027",
@@ -1397,10 +1408,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-09-26T05:37:12.650Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-09-26T10:16:13.427Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     },
@@ -1795,6 +1802,10 @@
     {
       "checkedAt": "2026-10-16T07:29:31.175Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-16T12:41:05.532Z",
+      "result": "Found 74 matching roles; 1 new opening(s)"
     }
   ]
 }
