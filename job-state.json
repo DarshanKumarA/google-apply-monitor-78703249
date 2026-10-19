@@ -280,7 +280,10 @@
     "109864326646375110": "2026-10-15T14:16:23.553Z",
     "75861929557402310": "2026-10-15T14:16:23.553Z",
     "85430979253936838": "2026-10-15T18:23:29.948Z",
-    "115100407176274630": "2026-10-16T12:41:05.532Z"
+    "115100407176274630": "2026-10-16T12:41:05.532Z",
+    "82949269840896710": "2026-10-19T14:34:04.455Z",
+    "126453096661295814": "2026-10-19T14:34:04.455Z",
+    "143789852410684102": "2026-10-19T14:34:04.455Z"
   },
   "baseline": [
     {
@@ -525,6 +528,36 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "82949269840896710",
+      "title": "Paralegal (Fixed-Term Contract) (Polish, English)",
+      "location": "Warsaw, Poland",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82949269840896710-paralegal-fixed-term-contract-polish-english",
+      "firstDetectedAt": "2026-10-19T14:34:04.455Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "126453096661295814",
+      "title": "Strategic Partner Onboarding and Incubation Specialist, GRCN, Sellside Monetization (Mandarin, English)",
+      "location": "Beijing, China",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/126453096661295814-strategic-partner-onboarding-and-incubation-specialist-grcn-sellside-monetization-mandarin-english",
+      "firstDetectedAt": "2026-10-19T14:34:04.455Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "143789852410684102",
+      "title": "Staff Software Engineer, On-Device Machine Learning",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/143789852410684102-staff-software-engineer-on-device-machine-learning",
+      "firstDetectedAt": "2026-10-19T14:34:04.455Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "115100407176274630",
       "title": "Software Engineer, Pixel Camera",
@@ -1026,16 +1059,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "89573485948347078",
-      "title": "Strategic Partner Onboarding and Incubation Specialist, GRCN, Sellside Monetization (Mandarin, English)",
-      "location": "Beijing, China",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/89573485948347078-strategic-partner-onboarding-and-incubation-specialist-grcn-sellside-monetization-mandarin-english",
-      "firstDetectedAt": "2026-09-18T11:05:28.254Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136529930677560006",
       "title": "Silicon Engineering Intern, PhD, Summer 2027",
       "location": "Sunnyvale, CA, USA",
@@ -1397,10 +1420,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-09-30T08:33:05.940Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-09-30T15:15:28.713Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
@@ -1796,6 +1815,10 @@
     {
       "checkedAt": "2026-10-19T06:57:28.923Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-19T14:34:04.455Z",
+      "result": "Found 76 matching roles; 3 new opening(s)"
     }
   ]
 }
