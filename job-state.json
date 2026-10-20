@@ -284,7 +284,8 @@
     "82949269840896710": "2026-10-19T14:34:04.455Z",
     "126453096661295814": "2026-10-19T14:34:04.455Z",
     "143789852410684102": "2026-10-19T14:34:04.455Z",
-    "136646789221491398": "2026-10-20T07:33:55.768Z"
+    "136646789221491398": "2026-10-20T07:33:55.768Z",
+    "90108035430523590": "2026-10-20T12:57:14.529Z"
   },
   "baseline": [
     {
@@ -529,6 +530,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "90108035430523590",
+      "title": "Software Engineer",
+      "location": "São Paulo, Brazil",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/90108035430523590-software-engineer",
+      "firstDetectedAt": "2026-10-20T12:57:14.529Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "136646789221491398",
       "title": "Software Engineer, Safe Coding Team",
@@ -1432,10 +1443,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-01T09:23:14.803Z",
-      "result": "Found 72 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-01T16:36:55.292Z",
       "result": "Found 73 matching roles; 2 new opening(s)"
     },
@@ -1830,6 +1837,10 @@
     {
       "checkedAt": "2026-10-20T07:33:55.768Z",
       "result": "Found 77 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-20T12:57:14.529Z",
+      "result": "Found 78 matching roles; 1 new opening(s)"
     }
   ]
 }
