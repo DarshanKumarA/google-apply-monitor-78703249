@@ -285,7 +285,9 @@
     "126453096661295814": "2026-10-19T14:34:04.455Z",
     "143789852410684102": "2026-10-19T14:34:04.455Z",
     "136646789221491398": "2026-10-20T07:33:55.768Z",
-    "90108035430523590": "2026-10-20T12:57:14.529Z"
+    "90108035430523590": "2026-10-20T12:57:14.529Z",
+    "76356752739574470": "2026-10-21T14:38:19.402Z",
+    "119919300352844486": "2026-10-21T14:38:19.402Z"
   },
   "baseline": [
     {
@@ -530,6 +532,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "76356752739574470",
+      "title": "Associate Finance Analyst, University Graduate",
+      "location": "Chicago, IL, USA",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/76356752739574470-associate-finance-analyst-university-graduate",
+      "firstDetectedAt": "2026-10-21T14:38:19.402Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "119919300352844486",
+      "title": "Associate Finance Analyst, University Graduate",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119919300352844486-associate-finance-analyst-university-graduate",
+      "firstDetectedAt": "2026-10-21T14:38:19.402Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "90108035430523590",
       "title": "Software Engineer",
@@ -1443,10 +1465,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-02T18:43:15.787Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-02T22:36:03.555Z",
       "result": "Found 71 matching roles; 1 new opening(s)"
     },
@@ -1841,6 +1859,10 @@
     {
       "checkedAt": "2026-10-21T09:32:58.354Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-21T14:38:19.402Z",
+      "result": "Found 79 matching roles; 2 new opening(s)"
     }
   ]
 }
