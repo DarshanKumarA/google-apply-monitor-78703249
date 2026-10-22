@@ -287,7 +287,8 @@
     "136646789221491398": "2026-10-20T07:33:55.768Z",
     "90108035430523590": "2026-10-20T12:57:14.529Z",
     "76356752739574470": "2026-10-21T14:38:19.402Z",
-    "119919300352844486": "2026-10-21T14:38:19.402Z"
+    "119919300352844486": "2026-10-21T14:38:19.402Z",
+    "130189597949731526": "2026-10-22T15:34:42.659Z"
   },
   "baseline": [
     {
@@ -532,6 +533,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "130189597949731526",
+      "title": "Software Engineer, Agent Cloud Rate Limiting",
+      "location": "Sunnyvale, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130189597949731526-software-engineer-agent-cloud-rate-limiting",
+      "firstDetectedAt": "2026-10-22T15:34:42.659Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "76356752739574470",
       "title": "Associate Finance Analyst, University Graduate",
@@ -829,16 +840,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84770434758648518-staff-software-engineer-learning-frontiers",
       "firstDetectedAt": "2026-10-08T00:56:19.834Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "134469159198040774",
-      "title": "Junior CAD Engineer, University Graduate, Google Cloud",
-      "location": "Tel Aviv, Israel",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/134469159198040774-junior-cad-engineer-university-graduate-google-cloud",
-      "firstDetectedAt": "2026-10-07T15:54:23.660Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 12, 2026"
     },
@@ -1435,10 +1436,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-03T19:24:06.329Z",
-      "result": "Found 71 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-03T22:18:43.693Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
     },
@@ -1833,6 +1830,10 @@
     {
       "checkedAt": "2026-10-22T10:30:02.396Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-22T15:34:42.659Z",
+      "result": "Found 78 matching roles; 1 new opening(s)"
     }
   ]
 }
