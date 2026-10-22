@@ -843,16 +843,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "130131242229080774",
-      "title": "Strategy and Operations Principal Lead, Product BD and K&amp;I Partnerships",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130131242229080774-strategy-and-operations-principal-lead-product-bd-and-kandamp-i-partnerships",
-      "firstDetectedAt": "2026-10-06T19:03:54.877Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 20, 2026"
-    },
-    {
       "id": "83395950734648006",
       "title": "Lead Research Data Scientist, Learning Frontiers",
       "location": "Mountain View, CA, USA",
@@ -1039,16 +1029,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166-data-scientist-product-ms-intern-2027",
       "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "140364184347910854",
-      "title": "Strategy and Operations Principal Lead, GBO Chief of Staff Team",
-      "location": "New York, NY, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/140364184347910854-strategy-and-operations-principal-lead-gbo-chief-of-staff-team",
-      "firstDetectedAt": "2026-09-28T21:56:58.199Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 12, 2026"
     },
@@ -1455,10 +1435,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-03T16:36:27.508Z",
-      "result": "Found 71 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-03T19:24:06.329Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
     },
@@ -1853,6 +1829,10 @@
     {
       "checkedAt": "2026-10-22T05:26:01.463Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-22T10:30:02.396Z",
+      "result": "Found 75 matching roles; 0 new opening(s)"
     }
   ]
 }
