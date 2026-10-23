@@ -1134,16 +1134,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "110636251454808774",
-      "title": "Head of Product Deployment Engineering",
-      "location": "Hyderabad, Telangana, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110636251454808774-head-of-product-deployment-engineering",
-      "firstDetectedAt": "2026-09-08T11:07:25.503Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "109976286780105414",
       "title": "Software Engineering PhD Intern, Summer 2027",
       "location": "Bengaluru, Karnataka, India",
@@ -1425,10 +1415,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-04T23:32:23.870Z",
-      "result": "Found 71 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-05T02:20:57.426Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
@@ -1824,6 +1810,10 @@
     {
       "checkedAt": "2026-10-23T15:46:38.745Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-23T19:34:26.660Z",
+      "result": "Found 78 matching roles; 0 new opening(s)"
     }
   ]
 }
