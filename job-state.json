@@ -288,7 +288,8 @@
     "90108035430523590": "2026-10-20T12:57:14.529Z",
     "76356752739574470": "2026-10-21T14:38:19.402Z",
     "119919300352844486": "2026-10-21T14:38:19.402Z",
-    "130189597949731526": "2026-10-22T15:34:42.659Z"
+    "130189597949731526": "2026-10-22T15:34:42.659Z",
+    "127352927474852550": "2026-10-23T22:36:58.783Z"
   },
   "baseline": [
     {
@@ -533,6 +534,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "127352927474852550",
+      "title": "Strategy and Operations Principal Lead, GBO Chief of Staff Team",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127352927474852550-strategy-and-operations-principal-lead-gbo-chief-of-staff-team",
+      "firstDetectedAt": "2026-10-23T22:36:58.783Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "130189597949731526",
       "title": "Software Engineer, Agent Cloud Rate Limiting",
@@ -1416,10 +1427,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-05T02:20:57.426Z",
-      "result": "Found 71 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-05T09:19:42.142Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
     },
@@ -1814,6 +1821,10 @@
     {
       "checkedAt": "2026-10-23T19:34:26.660Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-23T22:36:58.783Z",
+      "result": "Found 78 matching roles; 1 new opening(s)"
     }
   ]
 }
