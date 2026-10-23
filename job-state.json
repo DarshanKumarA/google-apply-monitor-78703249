@@ -614,16 +614,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "115100407176274630",
-      "title": "Software Engineer, Pixel Camera",
-      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/115100407176274630-software-engineer-pixel-camera",
-      "firstDetectedAt": "2026-10-16T12:41:05.532Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
       "id": "85430979253936838",
       "title": "Software Engineering Intern, Summer 2027",
       "location": "Taipei, Taiwan",
@@ -1436,10 +1426,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-04T17:45:02.631Z",
-      "result": "Found 71 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-04T20:29:25.450Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
     },
@@ -1834,6 +1820,10 @@
     {
       "checkedAt": "2026-10-23T05:55:37.496Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-23T11:16:27.987Z",
+      "result": "Found 76 matching roles; 0 new opening(s)"
     }
   ]
 }
