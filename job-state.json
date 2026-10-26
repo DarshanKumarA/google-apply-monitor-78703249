@@ -1055,16 +1055,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "79701490733589190",
-      "title": "Integrated Planning Execution Lead, Integrated Infrastructure Planning",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/79701490733589190-integrated-planning-execution-lead-integrated-infrastructure-planning",
-      "firstDetectedAt": "2026-09-25T15:04:46.956Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "101657586889040582",
       "title": "Staff Software Engineer, Agentic Products and Systems, Google Photos",
       "location": "Mountain View, CA, USA",
@@ -1165,62 +1155,12 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "83199557986329286",
-      "title": "Software Engineering BS/MS Intern, 2027",
-      "location": "Bucharest, Romania",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286-software-engineering-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "103632882076918470",
-      "title": "Part-Time Software Engineering BS/MS Intern, 2027",
-      "location": "Tel Aviv, Israel",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103632882076918470-part-time-software-engineering-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "74389446190867142",
       "title": "Data Science PhD Intern, 2027",
       "location": "Warsaw, Poland",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/74389446190867142-data-science-phd-intern-2027",
       "firstDetectedAt": "2026-09-03T13:35:22.947Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "142747733357142726",
-      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "100028133205254854",
-      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "121543376737575622",
-      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-      "location": "Warsaw, Poland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121543376737575622-software-engineering-site-reliability-engineering-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-09-03T09:09:14.476Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1426,10 +1366,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-09T06:26:03.015Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-09T13:38:19.992Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
@@ -1825,6 +1761,10 @@
     {
       "checkedAt": "2026-10-26T04:38:00.580Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-26T10:31:47.274Z",
+      "result": "Found 79 matching roles; 0 new opening(s)"
     }
   ]
 }
