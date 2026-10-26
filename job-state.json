@@ -289,7 +289,10 @@
     "76356752739574470": "2026-10-21T14:38:19.402Z",
     "119919300352844486": "2026-10-21T14:38:19.402Z",
     "130189597949731526": "2026-10-22T15:34:42.659Z",
-    "127352927474852550": "2026-10-23T22:36:58.783Z"
+    "127352927474852550": "2026-10-23T22:36:58.783Z",
+    "119716248828158662": "2026-10-26T16:56:55.806Z",
+    "94724274870198982": "2026-10-26T16:56:55.806Z",
+    "139608513574773446": "2026-10-26T16:56:55.806Z"
   },
   "baseline": [
     {
@@ -358,16 +361,6 @@
       "location": "Bengaluru, Karnataka, India",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/120415858164933318-software-engineer-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "73177450879558342",
-      "title": "Information Security Engineer, Early Career, Product Security",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/73177450879558342-information-security-engineer-early-career-product-security",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -534,6 +527,36 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "119716248828158662",
+      "title": "Software Engineer, GCE Control Plane, Early Careers, PhD",
+      "location": "Warsaw, Poland",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119716248828158662-software-engineer-gce-control-plane-early-careers-phd",
+      "firstDetectedAt": "2026-10-26T16:56:55.806Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
+      "id": "94724274870198982",
+      "title": "Silicon Engineering Intern, 2027",
+      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94724274870198982-silicon-engineering-intern-2027",
+      "firstDetectedAt": "2026-10-26T16:56:55.806Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
+    {
+      "id": "139608513574773446",
+      "title": "Junior CAD Engineer, University Graduate, Google Cloud",
+      "location": "Tel Aviv, Israel",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139608513574773446-junior-cad-engineer-university-graduate-google-cloud",
+      "firstDetectedAt": "2026-10-26T16:56:55.806Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
     {
       "id": "127352927474852550",
       "title": "Strategy and Operations Principal Lead, GBO Chief of Staff Team",
@@ -1367,10 +1390,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-09T13:38:19.992Z",
-      "result": "Found 76 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-09T19:00:22.057Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
     },
@@ -1765,6 +1784,10 @@
     {
       "checkedAt": "2026-10-26T10:31:47.274Z",
       "result": "Found 79 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-26T16:56:55.806Z",
+      "result": "Found 80 matching roles; 3 new opening(s)"
     }
   ]
 }
