@@ -293,7 +293,8 @@
     "119716248828158662": "2026-10-26T16:56:55.806Z",
     "94724274870198982": "2026-10-26T16:56:55.806Z",
     "139608513574773446": "2026-10-26T16:56:55.806Z",
-    "141605742086890182": "2026-10-27T11:03:43.041Z"
+    "141605742086890182": "2026-10-27T11:03:43.041Z",
+    "91806317844275910": "2026-10-28T00:20:00.908Z"
   },
   "baseline": [
     {
@@ -528,6 +529,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "91806317844275910",
+      "title": "Software Engineer, Android, Pixel Onboarding",
+      "location": "Shanghai, China",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91806317844275910-software-engineer-android-pixel-onboarding",
+      "firstDetectedAt": "2026-10-28T00:20:00.908Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "October 29, 2026"
+    },
     {
       "id": "141605742086890182",
       "title": "Head of Product Deployment Engineering",
@@ -1391,10 +1402,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-10T22:24:00.395Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-11T01:08:41.305Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     },
@@ -1789,6 +1796,10 @@
     {
       "checkedAt": "2026-10-27T20:55:46.757Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-28T00:20:00.908Z",
+      "result": "Found 81 matching roles; 1 new opening(s)"
     }
   ]
 }
