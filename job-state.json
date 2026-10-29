@@ -622,16 +622,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "90108035430523590",
-      "title": "Software Engineer",
-      "location": "São Paulo, Brazil",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/90108035430523590-software-engineer",
-      "firstDetectedAt": "2026-10-20T12:57:14.529Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136646789221491398",
       "title": "Software Engineer, Safe Coding Team",
       "location": "Singapore",
@@ -1414,10 +1404,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-12T17:50:41.820Z",
-      "result": "Found 75 matching roles; 11 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-12T23:57:50.843Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
     },
@@ -1812,6 +1798,10 @@
     {
       "checkedAt": "2026-10-29T15:20:21.623Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-29T20:23:13.769Z",
+      "result": "Found 79 matching roles; 0 new opening(s)"
     }
   ]
 }
