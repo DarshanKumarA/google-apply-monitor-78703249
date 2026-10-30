@@ -832,16 +832,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "77224005420884678",
-      "title": "Software Engineer, Android",
-      "location": "Sydney NSW, Australia",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77224005420884678-software-engineer-android",
-      "firstDetectedAt": "2026-10-08T20:07:42.426Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "96603172738343622",
       "title": "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
       "location": "Singapore",
@@ -1394,10 +1384,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-13T23:46:39.040Z",
-      "result": "Found 74 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-14T02:12:20.231Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
     },
@@ -1792,6 +1778,10 @@
     {
       "checkedAt": "2026-10-30T17:14:09.411Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-10-30T21:33:59.025Z",
+      "result": "Found 77 matching roles; 0 new opening(s)"
     }
   ]
 }
