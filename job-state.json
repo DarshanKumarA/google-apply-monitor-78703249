@@ -296,7 +296,8 @@
     "141605742086890182": "2026-10-27T11:03:43.041Z",
     "91806317844275910": "2026-10-28T00:20:00.908Z",
     "72674703851823814": "2026-10-28T18:30:02.783Z",
-    "113828324567851718": "2026-10-28T18:30:02.783Z"
+    "113828324567851718": "2026-10-28T18:30:02.783Z",
+    "118745886028112582": "2026-11-02T17:28:10.624Z"
   },
   "baseline": [
     {
@@ -511,6 +512,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "118745886028112582",
+      "title": "Software Engineer, Security, Privacy, Detection",
+      "location": "Hyderabad, Telangana, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118745886028112582-software-engineer-security-privacy-detection",
+      "firstDetectedAt": "2026-11-02T17:28:10.624Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "\\u003cb\\u003eNovember 27th, 2026\\u003c/b\\u003e"
+    },
     {
       "id": "72674703851823814",
       "title": "Software Engineer, Google Payments, Growth",
@@ -1374,10 +1385,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-16T02:32:51.009Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-16T07:29:31.175Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     },
@@ -1772,6 +1779,10 @@
     {
       "checkedAt": "2026-11-02T07:47:05.184Z",
       "result": "Found 76 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-02T17:28:10.624Z",
+      "result": "Found 76 matching roles; 1 new opening(s)"
     }
   ]
 }
