@@ -410,16 +410,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "91485220485636806",
-      "title": "Software Engineer, Performance, Reliability, Observability, PhD, Early Career",
-      "location": "Warsaw, Poland",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91485220485636806-software-engineer-performance-reliability-observability-phd-early-career",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "76908711519363782",
       "title": "Software Engineer, Systems Research, PhD, Early Career",
       "location": "Sunnyvale, CA, USA",
@@ -1384,10 +1374,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-15T23:51:26.149Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-16T02:32:51.009Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     },
@@ -1782,6 +1768,10 @@
     {
       "checkedAt": "2026-11-02T01:18:45.574Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-02T07:47:05.184Z",
+      "result": "Found 76 matching roles; 0 new opening(s)"
     }
   ]
 }
