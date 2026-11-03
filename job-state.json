@@ -613,16 +613,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "136646789221491398",
-      "title": "Software Engineer, Safe Coding Team",
-      "location": "Singapore",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136646789221491398-software-engineer-safe-coding-team",
-      "firstDetectedAt": "2026-10-20T07:33:55.768Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "82949269840896710",
       "title": "Paralegal (Fixed-Term Contract) (Polish, English)",
       "location": "Warsaw, Poland",
@@ -1385,10 +1375,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-16T07:29:31.175Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-16T12:41:05.532Z",
       "result": "Found 74 matching roles; 1 new opening(s)"
     },
@@ -1783,6 +1769,10 @@
     {
       "checkedAt": "2026-11-02T17:28:10.624Z",
       "result": "Found 76 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-03T00:01:27.876Z",
+      "result": "Found 75 matching roles; 0 new opening(s)"
     }
   ]
 }
