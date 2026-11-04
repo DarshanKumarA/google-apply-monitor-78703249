@@ -493,16 +493,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "122538034422784710",
-      "title": "Post-Doctoral Researcher, PhD, 2026 Start (Fixed-Term Contract)",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/122538034422784710-post-doctoral-researcher-phd-2026-start-fixed-term-contract",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "121628144896484038",
       "title": "Customer Growth Associate, Google Customer Solutions, University Graduate, 2027 Start (English)",
       "location": "San Francisco, CA, USA",
@@ -711,16 +701,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english",
       "firstDetectedAt": "2026-10-13T14:35:18.169Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "130287737952445126",
-      "title": "Data Center Facilities Technician, Server Floor",
-      "location": "New Albany, OH, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130287737952445126-data-center-facilities-technician-server-floor",
-      "firstDetectedAt": "2026-10-13T06:39:00.551Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1387,10 +1367,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-17T05:03:24.663Z",
-      "result": "Found 73 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-17T09:16:19.179Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
     },
@@ -1785,6 +1761,10 @@
     {
       "checkedAt": "2026-11-04T07:17:35.311Z",
       "result": "Found 68 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-04T15:33:34.549Z",
+      "result": "Found 67 matching roles; 0 new opening(s)"
     }
   ]
 }
