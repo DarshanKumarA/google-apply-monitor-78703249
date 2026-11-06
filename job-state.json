@@ -828,16 +828,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "85811371622441670",
-      "title": "Software Engineer, Cloud AI",
-      "location": "Warsaw, Poland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85811371622441670-software-engineer-cloud-ai",
-      "firstDetectedAt": "2026-10-09T00:21:42.348Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "96603172738343622",
       "title": "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
       "location": "Singapore",
@@ -873,16 +863,6 @@
       "location": "Mountain View, CA, USA",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/83395950734648006-lead-research-data-scientist-learning-frontiers",
-      "firstDetectedAt": "2026-10-06T13:36:31.952Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "101317990267396806",
-      "title": "Research Data Scientist, Learning Frontiers",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/101317990267396806-research-data-scientist-learning-frontiers",
       "firstDetectedAt": "2026-10-06T13:36:31.952Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -1390,10 +1370,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-18T09:50:06.075Z",
-      "result": "Found 74 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-18T13:39:27.169Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
     },
@@ -1788,6 +1764,10 @@
     {
       "checkedAt": "2026-11-06T17:16:05.468Z",
       "result": "Found 69 matching roles; 3 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-06T22:10:38.729Z",
+      "result": "Found 70 matching roles; 0 new opening(s)"
     }
   ]
 }
