@@ -299,7 +299,10 @@
     "113828324567851718": "2026-10-28T18:30:02.783Z",
     "118745886028112582": "2026-11-02T17:28:10.624Z",
     "115345680678953670": "2026-11-03T20:38:41.986Z",
-    "118394076666962630": "2026-11-03T20:38:41.986Z"
+    "118394076666962630": "2026-11-03T20:38:41.986Z",
+    "75184274717713094": "2026-11-06T17:16:05.468Z",
+    "72464907584316102": "2026-11-06T17:16:05.468Z",
+    "143561253581660870": "2026-11-06T17:16:05.468Z"
   },
   "baseline": [
     {
@@ -504,6 +507,36 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "75184274717713094",
+      "title": "Software Engineer, Knowledge Catalog Data Products",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75184274717713094-software-engineer-knowledge-catalog-data-products",
+      "firstDetectedAt": "2026-11-06T17:16:05.468Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "72464907584316102",
+      "title": "Staff Software Engineer, AI/ML",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/72464907584316102-staff-software-engineer-ai-ml",
+      "firstDetectedAt": "2026-11-06T17:16:05.468Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "143561253581660870",
+      "title": "Software Engineer, Payments",
+      "location": "Hyderabad, Telangana, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/143561253581660870-software-engineer-payments",
+      "firstDetectedAt": "2026-11-06T17:16:05.468Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "115345680678953670",
       "title": "Staff Software Engineer, Server and Full Stack, Growth and Discovery, DeepMind",
@@ -1357,10 +1390,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-18T05:28:28.640Z",
-      "result": "Found 74 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-18T09:50:06.075Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
     },
@@ -1755,6 +1784,10 @@
     {
       "checkedAt": "2026-11-06T09:55:59.416Z",
       "result": "Found 66 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-06T17:16:05.468Z",
+      "result": "Found 69 matching roles; 3 new opening(s)"
     }
   ]
 }
