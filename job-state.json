@@ -728,16 +728,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "80291213365650118",
-      "title": "Software Engineer",
-      "location": "Atlanta, GA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/80291213365650118-software-engineer",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "137359440260014790",
       "title": "Software Engineer",
       "location": "Mountain View, CA, USA",
@@ -1058,16 +1048,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "101657586889040582",
-      "title": "Staff Software Engineer, Agentic Products and Systems, Google Photos",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/101657586889040582-staff-software-engineer-agentic-products-and-systems-google-photos",
-      "firstDetectedAt": "2026-09-23T14:49:16.210Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "136529930677560006",
       "title": "Silicon Engineering Intern, PhD, Summer 2027",
       "location": "Sunnyvale, CA, USA",
@@ -1369,10 +1349,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-20T12:57:14.529Z",
-      "result": "Found 78 matching roles; 1 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-20T17:53:30.390Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
@@ -1768,6 +1744,10 @@
     {
       "checkedAt": "2026-11-09T11:22:05.468Z",
       "result": "Found 69 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-09T21:31:40.878Z",
+      "result": "Found 67 matching roles; 0 new opening(s)"
     }
   ]
 }
