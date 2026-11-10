@@ -302,7 +302,10 @@
     "118394076666962630": "2026-11-03T20:38:41.986Z",
     "75184274717713094": "2026-11-06T17:16:05.468Z",
     "72464907584316102": "2026-11-06T17:16:05.468Z",
-    "143561253581660870": "2026-11-06T17:16:05.468Z"
+    "143561253581660870": "2026-11-06T17:16:05.468Z",
+    "96324196090421958": "2026-11-10T11:51:44.531Z",
+    "107937787658805958": "2026-11-10T11:51:44.531Z",
+    "120229228145713862": "2026-11-10T11:51:44.531Z"
   },
   "baseline": [
     {
@@ -508,21 +511,41 @@
   ],
   "newOpenings": [
     {
+      "id": "96324196090421958",
+      "title": "Software Engineer",
+      "location": "Belo Horizonte, Minas Gerais, Brazil",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/96324196090421958-software-engineer",
+      "firstDetectedAt": "2026-11-10T11:51:44.531Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "107937787658805958",
+      "title": "Software Engineer, Android App Security, Content Abuse",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107937787658805958-software-engineer-android-app-security-content-abuse",
+      "firstDetectedAt": "2026-11-10T11:51:44.531Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "120229228145713862",
+      "title": "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
+      "location": "Singapore",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/120229228145713862-staff-software-engineer-machine-learning-tpu-workload-optimization",
+      "firstDetectedAt": "2026-11-10T11:51:44.531Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
       "id": "75184274717713094",
       "title": "Software Engineer, Knowledge Catalog Data Products",
       "location": "Bengaluru, Karnataka, India",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75184274717713094-software-engineer-knowledge-catalog-data-products",
-      "firstDetectedAt": "2026-11-06T17:16:05.468Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "72464907584316102",
-      "title": "Staff Software Engineer, AI/ML",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/72464907584316102-staff-software-engineer-ai-ml",
       "firstDetectedAt": "2026-11-06T17:16:05.468Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
@@ -624,26 +647,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127352927474852550-strategy-and-operations-principal-lead-gbo-chief-of-staff-team",
       "firstDetectedAt": "2026-10-23T22:36:58.783Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "76356752739574470",
-      "title": "Associate Finance Analyst, University Graduate",
-      "location": "Chicago, IL, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/76356752739574470-associate-finance-analyst-university-graduate",
-      "firstDetectedAt": "2026-10-21T14:38:19.402Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "119919300352844486",
-      "title": "Associate Finance Analyst, University Graduate",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119919300352844486-associate-finance-analyst-university-graduate",
-      "firstDetectedAt": "2026-10-21T14:38:19.402Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1340,10 +1343,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-20T21:15:50.631Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-20T23:58:04.098Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -1738,6 +1737,10 @@
     {
       "checkedAt": "2026-11-10T03:46:30.279Z",
       "result": "Found 67 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-10T11:51:44.531Z",
+      "result": "Found 72 matching roles; 3 new opening(s)"
     }
   ]
 }
