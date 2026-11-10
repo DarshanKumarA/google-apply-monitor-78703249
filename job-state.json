@@ -818,16 +818,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "96603172738343622",
-      "title": "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/96603172738343622-staff-software-engineer-machine-learning-tpu-workload-optimization",
-      "firstDetectedAt": "2026-10-08T14:36:45.873Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "136217193707643590",
       "title": "Data Center Facilities Technician Intern, 2027",
       "location": "Fredericia, Denmark",
@@ -1350,10 +1340,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-20T17:53:30.390Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-20T21:15:50.631Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -1747,6 +1733,10 @@
     },
     {
       "checkedAt": "2026-11-09T21:31:40.878Z",
+      "result": "Found 67 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-10T03:46:30.279Z",
       "result": "Found 67 matching roles; 0 new opening(s)"
     }
   ]
