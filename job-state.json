@@ -307,7 +307,9 @@
     "107937787658805958": "2026-11-10T11:51:44.531Z",
     "120229228145713862": "2026-11-10T11:51:44.531Z",
     "134693011551331014": "2026-11-11T14:03:35.610Z",
-    "121101044229776070": "2026-11-11T14:03:35.610Z"
+    "121101044229776070": "2026-11-11T14:03:35.610Z",
+    "143858085213938374": "2026-11-12T18:08:42.358Z",
+    "102240745468895942": "2026-11-12T18:08:42.358Z"
   },
   "baseline": [
     {
@@ -512,6 +514,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "143858085213938374",
+      "title": "Research Engineer, Gemini Omni Data Infrastructure, DeepMind",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/143858085213938374-research-engineer-gemini-omni-data-infrastructure-deepmind",
+      "firstDetectedAt": "2026-11-12T18:08:42.358Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "102240745468895942",
+      "title": "Software Engineer AI/ML, Google Search User Trust",
+      "location": "Haifa, Israel",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102240745468895942-software-engineer-ai-ml-google-search-user-trust",
+      "firstDetectedAt": "2026-11-12T18:08:42.358Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "134693011551331014",
       "title": "Associate Customer Engineer, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)",
@@ -1355,10 +1377,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-22T05:26:01.463Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-22T10:30:02.396Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
     },
@@ -1753,6 +1771,10 @@
     {
       "checkedAt": "2026-11-12T09:59:02.156Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-12T18:08:42.358Z",
+      "result": "Found 72 matching roles; 2 new opening(s)"
     }
   ]
 }
