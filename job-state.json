@@ -603,16 +603,6 @@
       "expiryDate": "\\u003cb\\u003eNovember 27th, 2026\\u003c/b\\u003e"
     },
     {
-      "id": "72674703851823814",
-      "title": "Software Engineer, Google Payments, Growth",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/72674703851823814-software-engineer-google-payments-growth",
-      "firstDetectedAt": "2026-10-28T18:30:02.783Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
       "id": "113828324567851718",
       "title": "Software Engineer lll, Cloud Machine Learning Compute Services",
       "location": "Tel Aviv, Israel",
@@ -1365,10 +1355,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-22T00:42:38.773Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-22T05:26:01.463Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
     },
@@ -1762,6 +1748,10 @@
     },
     {
       "checkedAt": "2026-11-12T02:19:57.714Z",
+      "result": "Found 71 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-12T09:59:02.156Z",
       "result": "Found 71 matching roles; 0 new opening(s)"
     }
   ]
