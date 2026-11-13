@@ -309,7 +309,8 @@
     "134693011551331014": "2026-11-11T14:03:35.610Z",
     "121101044229776070": "2026-11-11T14:03:35.610Z",
     "143858085213938374": "2026-11-12T18:08:42.358Z",
-    "102240745468895942": "2026-11-12T18:08:42.358Z"
+    "102240745468895942": "2026-11-12T18:08:42.358Z",
+    "106999002297180870": "2026-11-13T11:31:39.973Z"
   },
   "baseline": [
     {
@@ -514,6 +515,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "106999002297180870",
+      "title": "Strategy and Operations Principal Lead, Global Partnerships, Third-Party Data and DeepMind",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/106999002297180870-strategy-and-operations-principal-lead-global-partnerships-third-party-data-and-deepmind",
+      "firstDetectedAt": "2026-11-13T11:31:39.973Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "143858085213938374",
       "title": "Research Engineer, Gemini Omni Data Infrastructure, DeepMind",
@@ -1367,10 +1378,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-22T19:28:07.082Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-22T22:40:14.384Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
     },
@@ -1765,6 +1772,10 @@
     {
       "checkedAt": "2026-11-13T03:35:58.690Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-13T11:31:39.973Z",
+      "result": "Found 73 matching roles; 1 new opening(s)"
     }
   ]
 }
