@@ -667,16 +667,6 @@
       "expiryDate": "October 29, 2026"
     },
     {
-      "id": "94724274870198982",
-      "title": "Silicon Engineering Intern, 2027",
-      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94724274870198982-silicon-engineering-intern-2027",
-      "firstDetectedAt": "2026-10-26T16:56:55.806Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
       "id": "139608513574773446",
       "title": "Junior CAD Engineer, University Graduate, Google Cloud",
       "location": "Tel Aviv, Israel",
@@ -725,36 +715,6 @@
       "firstDetectedAt": "2026-10-19T14:34:04.455Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
-    },
-    {
-      "id": "85430979253936838",
-      "title": "Software Engineering Intern, Summer 2027",
-      "location": "Taipei, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838-software-engineering-intern-summer-2027",
-      "firstDetectedAt": "2026-10-15T18:23:29.948Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
-      "id": "109864326646375110",
-      "title": "Software Engineering Intern, Summer 2027",
-      "location": "Shanghai, China",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109864326646375110-software-engineering-intern-summer-2027",
-      "firstDetectedAt": "2026-10-15T14:16:23.553Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
-    },
-    {
-      "id": "110899190426411718",
-      "title": "MBA Intern, 2027",
-      "location": "Hong Kong",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/110899190426411718-mba-intern-2027",
-      "firstDetectedAt": "2026-10-15T09:21:44.039Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
     },
     {
       "id": "122745878459884230",
@@ -1389,10 +1349,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-24T09:51:20.758Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-24T13:45:19.067Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
     },
@@ -1787,6 +1743,10 @@
     {
       "checkedAt": "2026-11-15T16:31:10.331Z",
       "result": "Found 74 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-15T21:12:43.144Z",
+      "result": "Found 72 matching roles; 0 new opening(s)"
     }
   ]
 }
