@@ -311,7 +311,15 @@
     "143858085213938374": "2026-11-12T18:08:42.358Z",
     "102240745468895942": "2026-11-12T18:08:42.358Z",
     "106999002297180870": "2026-11-13T11:31:39.973Z",
-    "109920679570088646": "2026-11-13T18:42:45.098Z"
+    "109920679570088646": "2026-11-13T18:42:45.098Z",
+    "97546513718092486": "2026-11-16T18:15:56.527Z",
+    "112188710065185478": "2026-11-16T18:15:56.527Z",
+    "95046224276529862": "2026-11-16T18:15:56.527Z",
+    "94500213674123974": "2026-11-16T18:15:56.527Z",
+    "98194553416098502": "2026-11-16T18:15:56.527Z",
+    "73308226560369350": "2026-11-16T18:15:56.527Z",
+    "82387470938710726": "2026-11-16T18:15:56.527Z",
+    "81048341743313606": "2026-11-16T18:15:56.527Z"
   },
   "baseline": [
     {
@@ -516,6 +524,86 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "97546513718092486",
+      "title": "Research Software Engineer, Protein Design, DeepMind",
+      "location": "London, UK",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/97546513718092486-research-software-engineer-protein-design-deepmind",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "112188710065185478",
+      "title": "MBA Intern, 2027",
+      "location": "Hong Kong",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112188710065185478-mba-intern-2027",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "95046224276529862",
+      "title": "Software Engineering Intern, Summer 2027",
+      "location": "Shanghai, China",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95046224276529862-software-engineering-intern-summer-2027",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "94500213674123974",
+      "title": "Silicon Engineering Intern, 2027",
+      "location": "New Taipei, Banqiao District, New Taipei City, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94500213674123974-silicon-engineering-intern-2027",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "98194553416098502",
+      "title": "Mechanical Engineer Intern, PhD, Summer 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/98194553416098502-mechanical-engineer-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "73308226560369350",
+      "title": "Hardware Engineering Intern, 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/73308226560369350-hardware-engineering-intern-2027",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "82387470938710726",
+      "title": "Hardware Reliability Intern, PhD, Summer 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82387470938710726-hardware-reliability-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "81048341743313606",
+      "title": "Software Engineer, Multimodal Search Infrastructure, Google Lens",
+      "location": "Zürich, Switzerland",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/81048341743313606-software-engineer-multimodal-search-infrastructure-google-lens",
+      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "109920679570088646",
       "title": "Software Engineer, System UI",
@@ -727,16 +815,6 @@
       "expiryDate": "October 29, 2026"
     },
     {
-      "id": "104489346874122950",
-      "title": "Software Engineering Intern, 2027 (English)",
-      "location": "Singapore",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950-software-engineering-intern-2027-english",
-      "firstDetectedAt": "2026-10-13T14:35:18.169Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "137359440260014790",
       "title": "Software Engineer",
       "location": "Mountain View, CA, USA",
@@ -762,16 +840,6 @@
       "location": "Sunnyvale, CA, USA",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "121103710599160518",
-      "title": "MBA Intern, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121103710599160518-mba-intern-summer-2027",
       "firstDetectedAt": "2026-10-12T17:50:41.820Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 12, 2026"
@@ -827,16 +895,6 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "136217193707643590",
-      "title": "Data Center Facilities Technician Intern, 2027",
-      "location": "Fredericia, Denmark",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136217193707643590-data-center-facilities-technician-intern-2027",
-      "firstDetectedAt": "2026-10-08T14:36:45.873Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "84770434758648518",
       "title": "Staff Software Engineer, Learning Frontiers",
       "location": "New York, NY, USA",
@@ -855,156 +913,6 @@
       "firstDetectedAt": "2026-10-06T13:36:31.952Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
-    },
-    {
-      "id": "99770582270124742",
-      "title": "Strategy and Operations MBA Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "93402210922046150",
-      "title": "Finance MBA Intern, 2027",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/93402210922046150-finance-mba-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "135799379289088710",
-      "title": "Data Center Facilities Technician Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135799379289088710-data-center-facilities-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "139493738358416070",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Eemshaven, Netherlands",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/139493738358416070-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "85160271760237254",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Hamina, Finland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85160271760237254-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "142308488125522630",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/142308488125522630-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "103082311292986054",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Skien, Norway",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103082311292986054-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "129378231382876870",
-      "title": "Data Center Technician Intern, 2027",
-      "location": "Saint-Ghislain, Belgium",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129378231382876870-data-center-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "100315940037501638",
-      "title": "Financial Analyst BS/MS Intern, 2027",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/100315940037501638-financial-analyst-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-10-02T13:41:51.472Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "82600333812867782",
-      "title": "Business Analyst MBA Intern, 2027",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82600333812867782-business-analyst-mba-intern-2027",
-      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "99330502741107398",
-      "title": "Data Center Facilities Technician Intern, 2027",
-      "location": "Eemshaven, Netherlands",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99330502741107398-data-center-facilities-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "135156989620560582",
-      "title": "Forward Deployed Engineering Intern, BS/MS, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582-forward-deployed-engineering-intern-bs-ms-2027",
-      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "105628505345008326",
-      "title": "New Business Sales BS/MS Intern, 2027 (Multiple Languages)",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/105628505345008326-new-business-sales-bs-ms-intern-2027-multiple-languages",
-      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "102057291577991878",
-      "title": "Data Center Facilities Technician Intern, 2027",
-      "location": "Saint-Ghislain, Belgium",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102057291577991878-data-center-facilities-technician-intern-2027",
-      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "84561862556820166",
-      "title": "Data Scientist Product MS Intern, 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166-data-scientist-product-ms-intern-2027",
-      "firstDetectedAt": "2026-10-02T06:55:50.214Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
     },
     {
       "id": "97352132356645574",
@@ -1328,10 +1236,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-24T19:25:59.256Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-24T21:47:40.837Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
@@ -1727,6 +1631,10 @@
     {
       "checkedAt": "2026-11-16T07:56:31.338Z",
       "result": "Found 73 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-16T18:15:56.527Z",
+      "result": "Found 74 matching roles; 8 new opening(s)"
     }
   ]
 }
