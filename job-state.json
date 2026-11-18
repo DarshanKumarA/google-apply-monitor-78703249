@@ -322,7 +322,9 @@
     "81048341743313606": "2026-11-16T18:15:56.527Z",
     "116238829865575110": "2026-11-17T10:13:44.564Z",
     "127242742236357318": "2026-11-17T10:13:44.564Z",
-    "121474841675997894": "2026-11-17T19:13:03.170Z"
+    "121474841675997894": "2026-11-17T19:13:03.170Z",
+    "121216851580461766": "2026-11-18T18:05:23.774Z",
+    "96475915810153158": "2026-11-18T18:05:23.774Z"
   },
   "baseline": [
     {
@@ -527,6 +529,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "121216851580461766",
+      "title": "Associate Account Strategist, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)",
+      "location": "Seoul, South Korea",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121216851580461766-associate-account-strategist-greach-program-for-people-with-disabilities-or-veterans-or-english-korean",
+      "firstDetectedAt": "2026-11-18T18:05:23.774Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "96475915810153158",
+      "title": "Data Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/96475915810153158-data-engineer",
+      "firstDetectedAt": "2026-11-18T18:05:23.774Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "121474841675997894",
       "title": "Software Engineer, Finance and Growth Platform, Payments",
@@ -794,26 +816,6 @@
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127352927474852550-strategy-and-operations-principal-lead-gbo-chief-of-staff-team",
       "firstDetectedAt": "2026-10-23T22:36:58.783Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "82949269840896710",
-      "title": "Paralegal (Fixed-Term Contract) (Polish, English)",
-      "location": "Warsaw, Poland",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82949269840896710-paralegal-fixed-term-contract-polish-english",
-      "firstDetectedAt": "2026-10-19T14:34:04.455Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
-      "id": "126453096661295814",
-      "title": "Strategic Partner Onboarding and Incubation Specialist, GRCN, Sellside Monetization (Mandarin, English)",
-      "location": "Beijing, China",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/126453096661295814-strategic-partner-onboarding-and-incubation-specialist-grcn-sellside-monetization-mandarin-english",
-      "firstDetectedAt": "2026-10-19T14:34:04.455Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
     },
@@ -1250,10 +1252,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-25T16:46:39.029Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-25T19:20:32.849Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
     },
@@ -1648,6 +1646,10 @@
     {
       "checkedAt": "2026-11-18T09:10:01.123Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-18T18:05:23.774Z",
+      "result": "Found 71 matching roles; 2 new opening(s)"
     }
   ]
 }
