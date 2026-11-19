@@ -324,7 +324,9 @@
     "127242742236357318": "2026-11-17T10:13:44.564Z",
     "121474841675997894": "2026-11-17T19:13:03.170Z",
     "121216851580461766": "2026-11-18T18:05:23.774Z",
-    "96475915810153158": "2026-11-18T18:05:23.774Z"
+    "96475915810153158": "2026-11-18T18:05:23.774Z",
+    "112546205963035334": "2026-11-19T16:48:28.671Z",
+    "143543225456435910": "2026-11-19T16:48:28.671Z"
   },
   "baseline": [
     {
@@ -508,16 +510,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "73379279982731974",
-      "title": "Silicon Engineer, Platform and Devices, University Graduate, 2026",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/73379279982731974-silicon-engineer-platform-and-devices-university-graduate-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "121628144896484038",
       "title": "Customer Growth Associate, Google Customer Solutions, University Graduate, 2027 Start (English)",
       "location": "San Francisco, CA, USA",
@@ -529,6 +521,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "112546205963035334",
+      "title": "Staff Software Engineer, Verification Engineering",
+      "location": "New York, NY, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112546205963035334-staff-software-engineer-verification-engineering",
+      "firstDetectedAt": "2026-11-19T16:48:28.671Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "143543225456435910",
+      "title": "Strategic Partner Onboarding and Incubation Specialist, GRCN, Sellside Monetization (Mandarin, English)",
+      "location": "Beijing, China",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/143543225456435910-strategic-partner-onboarding-and-incubation-specialist-grcn-sellside-monetization-mandarin-english",
+      "firstDetectedAt": "2026-11-19T16:48:28.671Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "121216851580461766",
       "title": "Associate Account Strategist, gReach Program for People with Disabilities or Veterans (장애인 or 보훈대상자) (English, Korean)",
@@ -1242,10 +1254,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-26T00:03:55.430Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-26T04:38:00.580Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
     },
@@ -1640,6 +1648,10 @@
     {
       "checkedAt": "2026-11-19T07:39:59.736Z",
       "result": "Found 72 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-19T16:48:28.671Z",
+      "result": "Found 72 matching roles; 2 new opening(s)"
     }
   ]
 }
