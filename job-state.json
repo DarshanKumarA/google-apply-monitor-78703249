@@ -326,7 +326,9 @@
     "121216851580461766": "2026-11-18T18:05:23.774Z",
     "96475915810153158": "2026-11-18T18:05:23.774Z",
     "112546205963035334": "2026-11-19T16:48:28.671Z",
-    "143543225456435910": "2026-11-19T16:48:28.671Z"
+    "143543225456435910": "2026-11-19T16:48:28.671Z",
+    "90108472175010502": "2026-11-19T23:17:18.014Z",
+    "109319139335512774": "2026-11-19T23:17:18.014Z"
   },
   "baseline": [
     {
@@ -521,6 +523,26 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "90108472175010502",
+      "title": "Software Engineer, Engineering Productivity",
+      "location": "San Jose, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/90108472175010502-software-engineer-engineering-productivity",
+      "firstDetectedAt": "2026-11-19T23:17:18.014Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "109319139335512774",
+      "title": "Machine Leaning Engineer, Google Image Search Modeling",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109319139335512774-machine-leaning-engineer-google-image-search-modeling",
+      "firstDetectedAt": "2026-11-19T23:17:18.014Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "112546205963035334",
       "title": "Staff Software Engineer, Verification Engineering",
@@ -1254,10 +1276,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-26T04:38:00.580Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-26T10:31:47.274Z",
       "result": "Found 79 matching roles; 0 new opening(s)"
     },
@@ -1652,6 +1670,10 @@
     {
       "checkedAt": "2026-11-19T16:48:28.671Z",
       "result": "Found 72 matching roles; 2 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-19T23:17:18.014Z",
+      "result": "Found 73 matching roles; 2 new opening(s)"
     }
   ]
 }
