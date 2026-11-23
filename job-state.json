@@ -328,7 +328,10 @@
     "112546205963035334": "2026-11-19T16:48:28.671Z",
     "143543225456435910": "2026-11-19T16:48:28.671Z",
     "90108472175010502": "2026-11-19T23:17:18.014Z",
-    "109319139335512774": "2026-11-19T23:17:18.014Z"
+    "109319139335512774": "2026-11-19T23:17:18.014Z",
+    "136501832733074118": "2026-11-23T12:34:04.921Z",
+    "134577198026629830": "2026-11-23T12:34:04.921Z",
+    "119669220244890310": "2026-11-23T12:34:04.921Z"
   },
   "baseline": [
     {
@@ -523,6 +526,36 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "136501832733074118",
+      "title": "Product Design Engineering Intern, 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136501832733074118-product-design-engineering-intern-2027",
+      "firstDetectedAt": "2026-11-23T12:34:04.921Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "134577198026629830",
+      "title": "Business Data Scientist Intern, PhD, Summer 2027",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-11-23T12:34:04.921Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
+    {
+      "id": "119669220244890310",
+      "title": "Developers and Creations Lead, YouTube",
+      "location": "San Bruno, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119669220244890310-developers-and-creations-lead-youtube",
+      "firstDetectedAt": "2026-11-23T12:34:04.921Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "90108472175010502",
       "title": "Software Engineer, Engineering Productivity",
@@ -774,16 +807,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "115345680678953670",
-      "title": "Staff Software Engineer, Server and Full Stack, Growth and Discovery, DeepMind",
-      "location": "New York, NY, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/115345680678953670-staff-software-engineer-server-and-full-stack-growth-and-discovery-deepmind",
-      "firstDetectedAt": "2026-11-03T20:38:41.986Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "\\u003cb\\u003eNovember 27th, 2026\\u003c/b\\u003e"
-    },
-    {
       "id": "118394076666962630",
       "title": "Principal Research Engineer, AI Systems, DeepMind",
       "location": "Mountain View, CA, USA",
@@ -824,16 +847,6 @@
       "expiryDate": "October 29, 2026"
     },
     {
-      "id": "127352927474852550",
-      "title": "Strategy and Operations Principal Lead, GBO Chief of Staff Team",
-      "location": "New York, NY, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127352927474852550-strategy-and-operations-principal-lead-gbo-chief-of-staff-team",
-      "firstDetectedAt": "2026-10-23T22:36:58.783Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "143789852410684102",
       "title": "Staff Software Engineer, On-Device Machine Learning",
       "location": "Sunnyvale, CA, USA",
@@ -864,61 +877,11 @@
       "expiryDate": "October 12, 2026"
     },
     {
-      "id": "75665705386549958",
-      "title": "Forward Deployed Engineering Intern, BS/MS, Summer 2027",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bs-ms-summer-2027",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
       "id": "81809776362562246",
       "title": "People Analytics Intern, PhD, Summer 2027",
       "location": "Mountain View, CA, USA",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246-people-analytics-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "78951046130344646",
-      "title": "Media Account Specialist BS/MS Intern, 2027 (English, Hebrew)",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/78951046130344646-media-account-specialist-bs-ms-intern-2027-english-hebrew",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "99661447151133382",
-      "title": "Media Account Specialist BS/MS Intern, 2027",
-      "location": "Dublin, Ireland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/99661447151133382-media-account-specialist-bs-ms-intern-2027",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "132324639077475014",
-      "title": "Media Account Specialist BS/MS Intern, 2027 (German, French, Spanish)",
-      "location": "Warsaw, Poland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/132324639077475014-media-account-specialist-bs-ms-intern-2027-german-french-spanish",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 12, 2026"
-    },
-    {
-      "id": "118991686201156294",
-      "title": "Product Deployment Engineer BS/MS, Intern - 2027 (English)",
-      "location": "Hamburg, Germany",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118991686201156294-product-deployment-engineer-bs-ms-intern-2027-english",
       "firstDetectedAt": "2026-10-12T17:50:41.820Z",
       "postingDate": "Not published by Google",
       "expiryDate": "October 12, 2026"
@@ -1245,10 +1208,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-28T22:48:12.883Z",
-      "result": "Found 80 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-29T01:58:07.778Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
@@ -1644,6 +1603,10 @@
     {
       "checkedAt": "2026-11-23T03:07:57.448Z",
       "result": "Found 70 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-23T12:34:04.921Z",
+      "result": "Found 70 matching roles; 3 new opening(s)"
     }
   ]
 }
