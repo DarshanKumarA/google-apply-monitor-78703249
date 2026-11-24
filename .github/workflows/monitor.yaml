@@ -16,17 +16,34 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: google-careers-publisher
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
-      - run: npm install --omit=dev
+      - run: npm ci --omit=dev
+      - name: Open the private profile
+        uses: actions/checkout@v4
+        with:
+          repository: DarshanKumarA/google-careers-matchroom
+          ref: main
+          path: matchroom
+          fetch-depth: 0
+          ssh-key: ${{ secrets.MATCHROOM_DEPLOY_KEY }}
+      - name: Select alert mode
+        run: |
+          if compgen -G 'matchroom/resume.pdf' || compgen -G 'matchroom/resume.docx' || compgen -G 'matchroom/resume.txt'; then
+            echo "PERSONALIZED=yes" >> "$GITHUB_ENV"
+          fi
       - run: node monitor.mjs
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
@@ -44,7 +61,39 @@ jobs:
           git add state.json job-state.json
           git commit -m 'Update Google Careers monitor state'
           git push
+      - name: Rank openings and deliver private recommendations
+        id: matching
+        continue-on-error: true
+        if: env.PERSONALIZED == 'yes'
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          if [[ -f matchroom/resume.pdf ]] && ! command -v pdftotext >/dev/null; then
+            sudo apt-get -qq update && sudo apt-get -qq install -y poppler-utils
+          fi
+          python3 recommend.py
+      - name: Save private rankings and accepted deliveries
+        if: always() && env.PERSONALIZED == 'yes'
+        working-directory: matchroom
+        run: |
+          git config user.name 'Careers Tracker'
+          git config user.email 'actions@github.com'
+          for file in Rankings.md delivery.json; do
+            if [[ -f "$file" ]]; then git add -- "$file"; fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -qm 'Refresh recommendations'
+            git pull --rebase origin main && git push origin HEAD:main
+          fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
-      - uses: actions/deploy-pages@v4
+      - id: publish
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - if: steps.publish.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+      - if: steps.matching.outcome == 'failure'
+        run: exit 1

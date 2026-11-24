@@ -28,8 +28,8 @@ function publish(data) {
   // request entirely for restrictive mobile/in-app browsers.
   const pagePath = "public/jobs.html";
   const page = fs.readFileSync(pagePath, "utf8").replace(
-    "window.GOOGLE_CAREERS_TRACKER_DATA=null;",
-    `window.GOOGLE_CAREERS_TRACKER_DATA=${JSON.stringify(data)};`,
+    'id="snapshot" type="application/json">{}</script>',
+    () => 'id="snapshot" type="application/json">' + JSON.stringify(data).replaceAll('<', '\\u003c') + '</script>',
   );
   fs.writeFileSync(pagePath, page);
 }
@@ -48,7 +48,7 @@ async function fetchText(url) {
   let lastError;
   for (let attempt = 0; attempt < 3; attempt += 1) {
     try {
-      const response = await fetch(url, { headers: { "user-agent": "Mozilla/5.0 GoogleEarlyCareerMonitor/1.0", "accept-language": "en-US,en;q=0.9" } });
+      const response = await fetch(url, { signal: AbortSignal.timeout(14000), headers: { "user-agent": "Mozilla/5.0 GoogleEarlyCareerMonitor/1.0", "accept-language": "en-US,en;q=0.9" } });
       if (!response.ok) throw new Error(`Google returned HTTP ${response.status}`);
       return await response.text();
     } catch (error) { lastError = error; if (attempt < 2) await sleep(1000 * (attempt + 1)); }
@@ -75,13 +75,25 @@ function parseResults(html) {
 async function enrich(job, firstDetectedAt) {
   const output = { ...job, firstDetectedAt, postingDate: "Not published by Google", expiryDate: "Not listed" };
   try {
-    const text = decode(await fetchText(job.jobUrl));
+    const html = await fetchText(job.jobUrl);
+    const body = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '');
+    const text = decode(body);
     if (/\bJob not found\b/i.test(text)) return null;
+    function section(name) {
+      const pattern = new RegExp('<h3[^>]*>\\s*' + name + ':?\\s*</h3>\\s*<ul[^>]*>([\\s\\S]*?)</ul>', 'i');
+      return [...(body.match(pattern)?.[1] || '').matchAll(/<li[^>]*>([\s\S]*?)<\/li>/gi)].map(m => decode(m[1])).slice(0, 12);
+    }
+    output.required = section('Minimum qualifications');
+    output.preferred = section('Preferred qualifications');
+    output.duties = section('Responsibilities');
+    if (!output.required.length) throw new Error('Unrecognized job details');
+    output.verifiedAt = new Date().toISOString();
+    output.source = 'Google';
     const expiry = text.match(/application window will be open until at least\s+([^\.]+)/i)?.[1];
     if (expiry) output.expiryDate = expiry.trim();
     const early = text.match(/(?:0|one|1) years? of (?:relevant )?experience/i);
     if (early && output.experience === "See job details") output.experience = "0–1 year experience mentioned";
-  } catch (error) { return null; }
+  } catch (error) { return job.firstDetectedAt ? job : null; }
   return output;
 }
 
@@ -89,8 +101,8 @@ async function keepLiveStoredJobs(jobs) {
   const live = [];
   for (let index = 0; index < jobs.length; index += 8) {
     const batch = await Promise.all(jobs.slice(index, index + 8).map(async (job) => {
-      try { return /\bJob not found\b/i.test(decode(await fetchText(job.jobUrl))) ? null : job; }
-      catch { return null; }
+      if (Date.now() - Date.parse(job.verifiedAt) < 12 * 3600000) return job;
+      return enrich(job, job.firstDetectedAt);
     }));
     live.push(...batch.filter(Boolean));
   }
@@ -113,9 +125,22 @@ try {
   // link: revalidate saved cards before publishing them.
   state.baseline = await keepLiveStoredJobs((state.baseline ?? []).filter(isEligible));
   state.newOpenings = await keepLiveStoredJobs((state.newOpenings ?? []).filter(isEligible));
-  const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?q=${encodeURIComponent(query)}`)));
+  const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?q=${encodeURIComponent(query)}&sort_by=date`)));
+  // Discover deeper results incrementally while always checking the newest page.
+  const cursor = state.searchCursor ?? 0;
+  for (let offset = 0; offset < 2; offset++) {
+    const n = cursor + offset;
+    const idx = n % queries.length;
+    const total = Number(pages[idx].match(/Showing [\d,]+ to [\d,]+ of ([\d,]+) rows/i)?.[1]?.replaceAll(',', ''));
+    if (total > 20) {
+      const page = 2 + Math.floor(n / queries.length) % (Math.ceil(total / 20) - 1);
+      pages.push(await fetchText(careersBase + '?sort_by=date&q=' + encodeURIComponent(queries[idx]) + '&page=' + page));
+    }
+  }
+  state.searchCursor = cursor + 2;
   const candidates = new Map();
   for (const page of pages) for (const job of parseResults(page)) if (isEligible(job)) candidates.set(job.id, job);
+  if (!candidates.size) throw new Error('No recognizable eligible search results. Review the search parser.');
   const discovered = [];
   for (const job of candidates.values()) {
     if (!state.knownIds[job.id]) discovered.push(job);
@@ -127,7 +152,7 @@ try {
     state.initializedAt = checkedAt;
     state.baseline = enriched;
   } else if (enriched.length) {
-    await sendNewJobsEmail(enriched); // Do not save them until Gmail accepts the notification.
+    if (process.env.PERSONALIZED !== 'yes' && state.searchCursor > 2) await sendNewJobsEmail(enriched);
     state.newOpenings = [...enriched, ...state.newOpenings].slice(0, 500);
   }
   for (const job of enriched) state.knownIds[job.id] = checkedAt;
