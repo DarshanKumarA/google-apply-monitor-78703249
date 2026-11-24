@@ -382,7 +382,17 @@
     "141716489966101190": "2026-11-24T16:05:23.118Z",
     "141748810937180870": "2026-11-24T16:05:23.118Z",
     "104682552488272582": "2026-11-24T16:05:23.118Z",
-    "97630282760233670": "2026-11-24T16:05:23.118Z"
+    "97630282760233670": "2026-11-24T16:05:23.118Z",
+    "103809821576176326": "2026-11-24T16:09:55.593Z",
+    "125423735539671750": "2026-11-24T16:09:55.593Z",
+    "78620218489742022": "2026-11-24T16:09:55.593Z",
+    "136316541401473734": "2026-11-24T16:09:55.593Z",
+    "132296786214560454": "2026-11-24T16:09:55.593Z",
+    "107665861736571590": "2026-11-24T16:09:55.593Z",
+    "121790188106982086": "2026-11-24T16:09:55.593Z",
+    "120211620121977542": "2026-11-24T16:09:55.593Z",
+    "86733690079453894": "2026-11-24T16:09:55.593Z",
+    "129129141264884422": "2026-11-24T16:09:55.593Z"
   },
   "baseline": [
     {
@@ -936,6 +946,267 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "103809821576176326",
+      "title": "IP Design Verification Lead, Google Cloud",
+      "location": "Tel Aviv, Israel",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/103809821576176326-ip-design-verification-lead-google-cloud",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering or a related field, or equivalent practical experience.",
+        "10 years of experience working with hardware verification languages (e.g., System Verilog/Specman), design verification methodologies (e.g., Universal Verification Methodology (UVM)) and chip design flow.",
+        "Experience in leading chip verification teams through the full life-cycle from concept to delivery.",
+        "Experience in creating chip or subsystem design verification strategies and plans."
+      ],
+      "preferred": [
+        "15 years of experience in verification of complex SoC/ASIC.",
+        "10 years of experience managing verification teams.",
+        "Experience in chip design/verification of high performance AI/ML accelerators.",
+        "Experience with industry verification techniques, including complementary techniques such as formal verification, and emulation.",
+        "Experience in low power verification."
+      ],
+      "duties": [
+        "Lead the verification of an edge AI IP, to be used in Google edge-AI products.",
+        "Lead a team of chip verification engineers. Plan tasks, allocate people, hold verification design/code reviews, and drive verification execution.",
+        "Plan the verification of digital design blocks, including writing test plans, and other verification documents.",
+        "Code development of verification features and capabilities, and participate in RTL debug.",
+        "Work closely with Architecture, Software, Design, and Physical Design stakeholders to make technical decisions and represent project status throughout the development process."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.986Z",
+      "source": "Google"
+    },
+    {
+      "id": "125423735539671750",
+      "title": "Student Researcher, 2027",
+      "location": "India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/125423735539671750-student-researcher-2027",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently enrolled in a degree program (e.g., Bachelor's, Master's or PhD) in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences.",
+        "Experience in one area of computer science (e.g., Natural Language, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or a related area)."
+      ],
+      "preferred": [
+        "Currently enrolled in a full-time degree program and returning to the program after completion of the internship.",
+        "Experience as a researcher (e.g., internships, full-time, or at a lab).",
+        "Experience contributing to research communities or efforts, including publishing papers in major conferences or journals.",
+        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.)."
+      ],
+      "duties": [
+        "Participate in research to develop solutions for real-world, large-scale problems."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.952Z",
+      "source": "Google"
+    },
+    {
+      "id": "78620218489742022",
+      "title": "MBA Intern, 2027 (English, Bahasa Indonesia)",
+      "location": "Jakarta, Indonesia",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/78620218489742022-mba-intern-2027-english-bahasa-indonesia",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently enrolled in a MBA program.",
+        "Experience in sales, advertising, consulting, analysis, customer service, marketing, finance, technical sales and operations, or a related field.",
+        "Ability to communicate in English and Bahasa Indonesia fluently to support client relationship management in this region."
+      ],
+      "preferred": [
+        "Experience working in the Southeast Asian region.",
+        "Experience in project management.",
+        "Excellent organizational skills, with the ability to navigate, innovate, and implement ideas.",
+        "Interest in the internet and Google's technology and business."
+      ],
+      "duties": [
+        "Intern projects will be determined based on experience, skills and interests. If you are interested in a particular area, please make sure to include it in your resume."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.965Z",
+      "source": "Google"
+    },
+    {
+      "id": "136316541401473734",
+      "title": "Business Intern, 2027 (English, Bahasa Indonesia)",
+      "location": "Jakarta, Indonesia",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136316541401473734-business-intern-2027-english-bahasa-indonesia",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently enrolled in a Bachelor's or Master's program.",
+        "Penultimate academic year of the bachelor’s or master’s degree.",
+        "Ability to communicate in English and Bahasa Indonesia fluently to support client relationship management in this region."
+      ],
+      "preferred": [
+        "Knowledge of the internet and Google’s technology and business.",
+        "Ability to complete a 10-12 week internship at the assigned office.",
+        "Ability to navigate, innovate, and implement ideas.",
+        "Ability to apply problem-solving skills to business-centric intern projects.",
+        "Excellent project management and organizational skills."
+      ],
+      "duties": [
+        "Job responsibilities and detailed projects will be determined based on educational background, interests, and skills."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.905Z",
+      "source": "Google"
+    },
+    {
+      "id": "132296786214560454",
+      "title": "Business Intern, 2027 (English)",
+      "location": "Shanghai, China",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/132296786214560454-business-intern-2027-english",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently enrolled in a Bachelor's or Master's program.",
+        "Penultimate academic year of the bachelor’s or master’s degree.",
+        "Ability to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders."
+      ],
+      "preferred": [
+        "Knowledge of the internet and Google’s technology and business.",
+        "Ability to complete a 10-12 week internship at the assigned office.",
+        "Ability to navigate, innovate, and implement ideas.",
+        "Ability to apply problem-solving skills to business-centric intern projects.",
+        "Excellent project management and organizational skills."
+      ],
+      "duties": [
+        "Job responsibilities and detailed projects will be determined based on educational background, interests and skills."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.975Z",
+      "source": "Google"
+    },
+    {
+      "id": "107665861736571590",
+      "title": "Account Executive, Business Intern, 2027 (English)",
+      "location": "Singapore",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107665861736571590-account-executive-business-intern-2027-english",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently enrolled in a Bachelor's or Master's program.",
+        "Penultimate academic year of the Bachelor’s or Master’s degree.",
+        "Ability to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders."
+      ],
+      "preferred": [
+        "Knowledge of the internet and Google’s technology and business.",
+        "Ability to navigate, innovate, and implement ideas.",
+        "Ability to apply problem-solving skills to business-centric intern projects.",
+        "Ability to complete a 10-14 week internship at the assigned office.",
+        "Ability to communicate in English and Southeast Asia local language (e.g. Bahasa Indonesia, Vietnamese, Thai, Tagalog) to engage with clients in the region.",
+        "Excellent project management and organizational skills."
+      ],
+      "duties": [
+        "Job responsibilities and detailed projects will be determined based on educational background, interests and skills."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.891Z",
+      "source": "Google"
+    },
+    {
+      "id": "121790188106982086",
+      "title": "Account Executive, MBA Intern, 2027",
+      "location": "Singapore",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121790188106982086-account-executive-mba-intern-2027",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently enrolled in a MBA program."
+      ],
+      "preferred": [
+        "1–2 years of work experience in the Australia or Southeast Asia (SEA) markets.",
+        "Experience prior to the MBA program in sales, advertising, consulting, analysis, customer service, marketing, finance, technical sales and operations, or related fields.",
+        "Ability to complete a 10-12 week internship at the assigned office and to return to a MBA degree program after completion of the internship.",
+        "Ability to take initiative and be an independent thinker. Excellent problem-solving skills, with the ability to manage strategic and challenging business problems.",
+        "Excellent project management and organizational skills, with the ability to drive and implement ideas in a changing environment.",
+        "Interest in the internet and Google's technology and Ads business."
+      ],
+      "duties": [
+        "Responsibilities and detailed projects will be determined based on your educational background, interest, and skills."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.918Z",
+      "source": "Google"
+    },
+    {
+      "id": "120211620121977542",
+      "title": "Student Researcher, 2027",
+      "location": "Tel Aviv, Israel",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/120211620121977542-student-researcher-2027",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience in Israel.",
+        "Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas)."
+      ],
+      "preferred": [
+        "Currently enrolled in a full-time degree program in EMEA and returning to the program after completion of the internship.",
+        "Experience as a researcher, including internships, full-time, or at a lab.",
+        "Experience contributing to research communities or efforts, including publishing papers in major conferences or journals.",
+        "Experience with one or more general purpose programming languages (e.g., C/C++, Java, MATLAB, Go, Python, etc.)."
+      ],
+      "duties": [
+        "Participate in research to develop solutions for real-world, large-scale problems."
+      ],
+      "verifiedAt": "2026-11-24T16:09:56.929Z",
+      "source": "Google"
+    },
+    {
+      "id": "86733690079453894",
+      "title": "Student Researcher, 2027",
+      "location": "Zürich, Switzerland",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/86733690079453894-student-researcher-2027",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.",
+        "Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas)."
+      ],
+      "preferred": [
+        "Currently enrolled in a full-time degree program in EMEA and returning to the program after completion of the internship.",
+        "Experience as a researcher, including internships, full-time, or at a lab.",
+        "Experience contributing to research communities or efforts, including publishing papers in major conferences or journals.",
+        "Experience with one or more general purpose programming languages (e.g., C/C++, Java, MATLAB, Go, Python, etc.)."
+      ],
+      "duties": [
+        "Participate in research to develop solutions for real-world, large-scale problems."
+      ],
+      "verifiedAt": "2026-11-24T16:09:57.277Z",
+      "source": "Google"
+    },
+    {
+      "id": "129129141264884422",
+      "title": "Post-Doctoral Researcher, PhD, DeepMind, 2026 Start (Fixed-Term Contract)",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129129141264884422-post-doctoral-researcher-phd-deepmind-2026-start-fixed-term-contract",
+      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "PhD degree in a STEM field (e.g., Computer Science, Mathematics, or Statistics) or equivalent practical experience.",
+        "Experience with one or more general purpose programming languages: Python, C/C++, or Java, etc. and training deep learning models in frameworks such as JAX, TensorFlow, or PyTorch.",
+        "Research experience in machine learning or AI techniques (e.g., open source project(s), campus lab experience, research internship(s), or publication(s)).",
+        "One or more scientific publication submission(s) in AI conferences (e.g., NeurIPS, CVPR, ICCV, ICLR)."
+      ],
+      "preferred": [],
+      "duties": [],
+      "verifiedAt": "2026-11-24T16:09:57.242Z",
+      "source": "Google"
+    },
     {
       "id": "130593924828799686",
       "title": "Staff Software Engineer, Full Stack",
@@ -4363,10 +4634,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-29T20:23:13.769Z",
-      "result": "Found 79 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-30T00:04:56.840Z",
       "result": "Found 79 matching roles; 0 new opening(s)"
     },
@@ -4761,7 +5028,11 @@
     {
       "checkedAt": "2026-11-24T16:05:23.118Z",
       "result": "Found 69 matching roles; 49 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-24T16:09:55.593Z",
+      "result": "Found 72 matching roles; 10 new opening(s)"
     }
   ],
-  "searchCursor": 2
+  "searchCursor": 4
 }
