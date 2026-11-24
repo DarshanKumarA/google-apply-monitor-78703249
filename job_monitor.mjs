@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import { publishFolders } from "./render-jobs.mjs";
 import nodemailer from "nodemailer";
 
 const careersBase = "https://www.google.com/about/careers/applications/jobs/results/";
@@ -24,14 +25,7 @@ function publish(data) {
   // A plain script works even in browsers that restrict JavaScript fetch(),
   // while jobs.json remains available for diagnostics and integrations.
   fs.writeFileSync("public/jobs-data.js", `window.GOOGLE_CAREERS_TRACKER_DATA=${JSON.stringify(data)};\n`);
-  // Embed the same snapshot in the page itself. This avoids an extra network
-  // request entirely for restrictive mobile/in-app browsers.
-  const pagePath = "public/jobs.html";
-  const page = fs.readFileSync(pagePath, "utf8").replace(
-    'id="snapshot" type="application/json">{}</script>',
-    () => 'id="snapshot" type="application/json">' + JSON.stringify(data).replaceAll('<', '\\u003c') + '</script>',
-  );
-  fs.writeFileSync(pagePath, page);
+  publishFolders(data);
 }
 
 function repairStoredLinks(state) {
