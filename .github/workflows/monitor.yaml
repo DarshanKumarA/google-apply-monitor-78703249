@@ -45,11 +45,26 @@ jobs:
           if [[ -n "$(find matchroom -maxdepth 1 -type f -iname '*.pdf' -printf x -quit)" ]]; then
             echo "PERSONALIZED=yes" >> "$GITHUB_ENV"
           fi
+      - name: Verify alert email with Gmail
+        if: inputs.test_email == true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          node --input-type=module <<'JS'
+          import nodemailer from 'nodemailer';
+          const transport = nodemailer.createTransport({service:'gmail', auth:{user:process.env.GMAIL_USER, pass:process.env.GMAIL_APP_PASSWORD}});
+          await transport.verify();
+          JS
+          python3 - <<'PY'
+          from recommend import mail
+          mail("Opening Notes — email delivery test", "This is your requested test of the India job tracker email alerts.")
+          print("Gmail accepted the test through the recommendation mail sender.")
+          PY
       - run: node monitor.mjs
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          TEST_EMAIL: ${{ inputs.test_email || 'false' }}
       - run: node job_monitor.mjs
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
