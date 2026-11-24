@@ -20,6 +20,7 @@ function loadState() {
 }
 function saveState(state) { fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`); }
 function publish(data) {
+  data = {...data, initial: data.initial.filter(inIndia), newOpenings: data.newOpenings.filter(inIndia)};
   fs.mkdirSync("public", { recursive: true });
   fs.writeFileSync("public/jobs.json", `${JSON.stringify(data, null, 2)}\n`);
   // A plain script works even in browsers that restrict JavaScript fetch(),
@@ -50,6 +51,8 @@ async function fetchText(url) {
   throw lastError;
 }
 
+const inIndia = job => /\bIndia\b/i.test(job.location ?? '');
+
 function parseResults(html) {
   const jobs = [];
   const pattern = /<li class="lLd3Je" ssk='([^']+)'>([\s\S]*?)(?=<li class="lLd3Je"|<\/ul>)/g;
@@ -59,7 +62,10 @@ function parseResults(html) {
     const id = normalizeId(match[1]); const block = match[2];
     const title = decode(block.match(/<h3 class="QJPWVe">([\s\S]*?)<\/h3>/)?.[1]);
     if (!title) continue;
-    const location = decode(block.match(/class="r0wTof[^>]*">([\s\S]*?)<\/span>/)?.[1]) || "Location not listed";
+    const locations = [...block.matchAll(/class="r0wTof[^>]*">([\s\S]*?)<\/span>/g)]
+      .map(m => decode(m[1]).replace(/^;\s*/, '')).filter(location => inIndia({location}));
+    const location = [...new Set(locations)].join('; ');
+    if (!location) continue;
     const experience = /\bEarly\b/i.test(block) ? "Early career" : "See job details";
     jobs.push({ id, title, location, experience, jobUrl: `${careersBase}${id}-${slug(title)}` });
   }
@@ -95,6 +101,7 @@ async function keepLiveStoredJobs(jobs) {
   const live = [];
   for (let index = 0; index < jobs.length; index += 8) {
     const batch = await Promise.all(jobs.slice(index, index + 8).map(async (job) => {
+      if (!inIndia(job)) return job;
       if (Date.now() - Date.parse(job.verifiedAt) < 12 * 3600000) return job;
       return enrich(job, job.firstDetectedAt);
     }));
@@ -119,7 +126,7 @@ try {
   // link: revalidate saved cards before publishing them.
   state.baseline = await keepLiveStoredJobs((state.baseline ?? []).filter(isEligible));
   state.newOpenings = await keepLiveStoredJobs((state.newOpenings ?? []).filter(isEligible));
-  const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?q=${encodeURIComponent(query)}&sort_by=date`)));
+  const pages = await Promise.all(queries.map((query) => fetchText(`${careersBase}?location=India&q=${encodeURIComponent(query)}&sort_by=date`)));
   // Discover deeper results incrementally while always checking the newest page.
   const cursor = state.searchCursor ?? 0;
   for (let offset = 0; offset < 2; offset++) {
@@ -128,13 +135,16 @@ try {
     const total = Number(pages[idx].match(/Showing [\d,]+ to [\d,]+ of ([\d,]+) rows/i)?.[1]?.replaceAll(',', ''));
     if (total > 20) {
       const page = 2 + Math.floor(n / queries.length) % (Math.ceil(total / 20) - 1);
-      pages.push(await fetchText(careersBase + '?sort_by=date&q=' + encodeURIComponent(queries[idx]) + '&page=' + page));
+      pages.push(await fetchText(careersBase + '?location=India&sort_by=date&q=' + encodeURIComponent(queries[idx]) + '&page=' + page));
     }
   }
   state.searchCursor = cursor + 2;
   const candidates = new Map();
   for (const page of pages) for (const job of parseResults(page)) if (isEligible(job)) candidates.set(job.id, job);
-  if (!candidates.size) throw new Error('No recognizable eligible search results. Review the search parser.');
+  if (!pages.some(page => /class="QJPWVe"|no matching jobs|no jobs found/i.test(page))) throw new Error('Unrecognized search pages.');
+  for (const job of [...state.baseline, ...state.newOpenings]) {
+    if (candidates.has(job.id)) job.location = candidates.get(job.id).location;
+  }
   const discovered = [];
   for (const job of candidates.values()) {
     if (!state.knownIds[job.id]) discovered.push(job);

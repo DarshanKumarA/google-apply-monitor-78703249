@@ -25,11 +25,19 @@ SKILL = re.compile(r"(?<!\w)(?:" + SKILLS + r")(?!\w)", re.I)
 IST = timezone(timedelta(hours=5, minutes=30))
 
 
+def uploaded_pdfs():
+    return {p.name: p for p in ROOM.iterdir()
+            if p.suffix.lower() == ".pdf" and not p.is_symlink() and p.is_file()}
+
+
 def active_file():
-    choices = [p for p in ROOM.glob("resume.*") if p.suffix.lower() in {".pdf", ".docx", ".txt"} and not p.is_symlink() and p.is_file()]
-    def modified(path):
-        return subprocess.check_output(["git", "-C", str(ROOM), "log", "-1", "--format=%ct", "--", path.name]).strip()
-    return max(choices, key=lambda p: (modified(p), p.name), default=None)
+    choices = uploaded_pdfs()
+    if len(choices) < 2:
+        return next(iter(choices.values()), None)
+    # Commit traversal also resolves uploads made in the same second.
+    changed = subprocess.check_output(["git", "-C", str(ROOM), "--literal-pathspecs", "log",
+                                       "--topo-order", "--name-only", "--format=", "-z", "--", *choices])
+    return next(choices[name] for name in changed.decode("utf8").split("\0") if name in choices)
 
 
 def resume_text(path):
@@ -141,17 +149,18 @@ def run():
         if len(raw.strip()) < 40:
             raise ValueError("Resume has too little selectable text.")
     except Exception:
-        RANKINGS.write_text("# Résumé needs attention\n\nUpload a text-based PDF, DOCX or UTF-8 text file under 10 MB. The current file could not be read.\n", encoding="utf8")
+        RANKINGS.write_text("# Résumé needs attention\n\nUpload a PDF under 10 MB with selectable text. Any filename works. The latest upload could not be read.\n", encoding="utf8")
         return
     lines = [re.sub(r"\s+", " ", line.strip()) for line in raw.splitlines() if line.strip()]
     snapshot = json.loads(Path("public/jobs.json").read_text(encoding="utf8"))
     ledger = json.loads(LEDGER.read_text()) if LEDGER.exists() else {}
     history = set(ledger.get("seen", []))
     pending = set(ledger.get("pending", []))
-    jobs = {j["id"]:j for j in snapshot["initial"] + snapshot["newOpenings"]}
+    jobs = {j["id"]:j for j in snapshot["initial"] + snapshot["newOpenings"]
+            if re.search(r"\bIndia\b", j.get("location", ""), re.I)}
     rows = [assess(j, lines) for j in jobs.values()]
     rows.sort(key=lambda r: ({"Strong":0,"Borderline":1,"Stretch":2}[r["tier"]], -len(r["shared"]),r["job"]["title"]))
-    cards = ["# Your recommendations", f"Experience used: {MONTHS} months. Latest scan: {snapshot['checkedAt']}.",
+    cards = ["# Your recommendations · India", f"Experience used: {MONTHS} months. Latest scan: {snapshot['checkedAt']}.",
              "Review eligibility, location and the original posting before applying."]
     cards.append("| Role | Fit | Matching skills |\n| --- | --- | --- |\n" + "\n".join(
         f"| [{r['job']['title'].replace('|', '/')} ]({r['job']['jobUrl']}) | {r['tier']} | {', '.join(r['shared']) or 'Review JD'} |"
@@ -159,6 +168,9 @@ def run():
     for row in rows:
         cards.extend(["## "+row["tier"]+" · "+row["job"]["title"], description(row).replace("\n","\n\n")])
     RANKINGS.write_text("\n\n".join(cards)+"\n", encoding="utf8")
+    superseded = [name for name in uploaded_pdfs() if name != path.name]
+    if superseded:
+        subprocess.run(["git", "-C", str(ROOM), "--literal-pathspecs", "rm", "-q", "--", *superseded], check=True)
     today = datetime.now(IST).date().isoformat()
     new = [r for r in rows if ledger and r["job"]["id"] not in history]
     strong = [r for r in new if r["tier"] == "Strong"]

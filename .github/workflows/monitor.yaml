@@ -42,7 +42,7 @@ jobs:
           ssh-key: ${{ secrets.MATCHROOM_DEPLOY_KEY }}
       - name: Select alert mode
         run: |
-          if compgen -G 'matchroom/resume.pdf' || compgen -G 'matchroom/resume.docx' || compgen -G 'matchroom/resume.txt'; then
+          if [[ -n "$(find matchroom -maxdepth 1 -type f -iname '*.pdf' -printf x -quit)" ]]; then
             echo "PERSONALIZED=yes" >> "$GITHUB_ENV"
           fi
       - run: node monitor.mjs
@@ -71,7 +71,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          if [[ -f matchroom/resume.pdf ]] && ! command -v pdftotext >/dev/null; then
+          if ! command -v pdftotext >/dev/null; then
             sudo apt-get -qq update && sudo apt-get -qq install -y poppler-utils
           fi
           python3 recommend.py
