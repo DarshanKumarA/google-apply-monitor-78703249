@@ -332,7 +332,8 @@
     "136501832733074118": "2026-11-23T12:34:04.921Z",
     "134577198026629830": "2026-11-23T12:34:04.921Z",
     "119669220244890310": "2026-11-23T12:34:04.921Z",
-    "77680133900509894": "2026-11-24T00:19:41.568Z"
+    "77680133900509894": "2026-11-24T00:19:41.568Z",
+    "119242841661547206": "2026-11-24T10:09:16.548Z"
   },
   "baseline": [
     {
@@ -527,6 +528,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "119242841661547206",
+      "title": "Thermal Engineering Intern, PhD, Summer 2027",
+      "location": "Taipei, Taiwan",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119242841661547206-thermal-engineering-intern-phd-summer-2027",
+      "firstDetectedAt": "2026-11-24T10:09:16.548Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "77680133900509894",
       "title": "Software Engineer, Health Frontier",
@@ -738,16 +749,6 @@
       "expiryDate": "Not listed"
     },
     {
-      "id": "109920679570088646",
-      "title": "Software Engineer, System UI",
-      "location": "Shanghai, China",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109920679570088646-software-engineer-system-ui",
-      "firstDetectedAt": "2026-11-13T18:42:45.098Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
-    },
-    {
       "id": "106999002297180870",
       "title": "Strategy and Operations Principal Lead, Global Partnerships, Third-Party Data and DeepMind",
       "location": "New York, NY, USA",
@@ -826,16 +827,6 @@
       "firstDetectedAt": "2026-11-03T20:38:41.986Z",
       "postingDate": "Not published by Google",
       "expiryDate": "\\u003cb\\u003eNovember 27th, 2026\\u003c/b\\u003e"
-    },
-    {
-      "id": "113828324567851718",
-      "title": "Software Engineer lll, Cloud Machine Learning Compute Services",
-      "location": "Tel Aviv, Israel",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/113828324567851718-software-engineer-lll-cloud-machine-learning-compute-services",
-      "firstDetectedAt": "2026-10-28T18:30:02.783Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "October 29, 2026"
     },
     {
       "id": "119716248828158662",
@@ -1206,23 +1197,9 @@
       "firstDetectedAt": "2026-08-17T03:10:12.697Z",
       "postingDate": "Not published by Google",
       "expiryDate": "Not listed"
-    },
-    {
-      "id": "127602843300307654",
-      "title": "Software Engineer, AI/ML, PhD, Early Career, 2026",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127602843300307654-software-engineer-ai-ml-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T12:35:19.381Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed"
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-29T08:20:42.220Z",
-      "result": "Found 80 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-29T15:20:21.623Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
@@ -1617,6 +1594,10 @@
     },
     {
       "checkedAt": "2026-11-24T00:19:41.568Z",
+      "result": "Found 70 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-24T10:09:16.548Z",
       "result": "Found 70 matching roles; 1 new opening(s)"
     }
   ]
