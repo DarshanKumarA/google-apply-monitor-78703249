@@ -410,7 +410,8 @@
     "118416391169548998": "2026-11-24T16:22:57.555Z",
     "78185965083861702": "2026-11-24T16:22:57.555Z",
     "81088695108543174": "2026-11-24T16:22:57.555Z",
-    "102333046463570630": "2026-11-24T16:22:57.555Z"
+    "102333046463570630": "2026-11-24T16:22:57.555Z",
+    "111448128854336198": "2026-11-24T20:39:46.992Z"
   },
   "baseline": [
     {
@@ -964,6 +965,39 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "111448128854336198",
+      "title": "Data Engineer",
+      "location": "Pune, Maharashtra, India; Gurugram, Haryana, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111448128854336198-data-engineer",
+      "firstDetectedAt": "2026-11-24T20:39:46.992Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Computer Science, Engineering, Mathematics, or equivalent practical experience.",
+        "Experience in data engineering, cloud data migrations, and building distributed production data pipelines using Python, SQL, and Apache Spark/PySpark.",
+        "Experience with data lakes and lakehouse platforms (specifically Databricks) and cloud data warehouses and analytical or transactional data stores (BigQuery, AlloyDB, Cloud SQL, Snowflake, or Oracle).",
+        "Experience in generative AI and agentic AI workflows, including RAG pipelines and vector embeddings.",
+        "Experience in Google Cloud Platform (GCP)."
+      ],
+      "preferred": [
+        "Google Cloud Professional Data Engineer or Professional Machine Learning Engineer certification (or equivalent Databricks/cloud certifications).",
+        "Experience executing migrations from Databricks, Snowflake, or Oracle to Google Cloud.",
+        "Experience with AI agent frameworks (Google ADK, Vertex AI, LangChain, or LangGraph).",
+        "Experience building and evaluating tool-using AI agents connected to enterprise data using Google ADK, Vertex AI, or Model Context Protocol (MCP).",
+        "Experience with open table formats (Apache Iceberg, Delta Lake), orchestration tools (Airflow/Cloud Composer), and transformation or semantic tools (dbt, Dataform, Looker)."
+      ],
+      "duties": [
+        "Interact with stakeholders to translate business requirements into technical designs, implementation plans, and advisory recommendations.",
+        "Collaborate with technical leads, customers, and partners to execute high-velocity workload migrations and modernizations from enterprise and third-party platforms (Databricks, Snowflake, Oracle) to Google Cloud.",
+        "Design, build, and optimize scalable batch and streaming pipelines using Python, complex SQL, and Apache Spark/PySpark across GCP data services (BigQuery, Dataproc, BigLake, AlloyDB, Cloud Spanner).",
+        "Establish data cataloging, quality, and governance procedures using Databricks Unity Catalog, Collibra, or Dataplex Knowledge Catalog covering automated metadata harvesting, data lineage, business glossaries, data quality checks, PII tagging, and fine-grained row/column-level security.",
+        "Build, test, and integrate practical, data-connected AI agents using Google ADK, Vertex AI, or LangGraph."
+      ],
+      "verifiedAt": "2026-11-24T20:39:47.552Z",
+      "source": "Google"
+    },
     {
       "id": "81112877921903302",
       "title": "Staff Software Engineer, Networking",
@@ -5230,10 +5264,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-31T01:01:27.852Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-31T06:55:12.773Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -5628,7 +5658,11 @@
     {
       "checkedAt": "2026-11-24T16:38:05.751Z",
       "result": "Found 24 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-24T20:39:46.992Z",
+      "result": "Found 24 matching roles; 1 new opening(s)"
     }
   ],
-  "searchCursor": 14
+  "searchCursor": 16
 }
