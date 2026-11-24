@@ -17,7 +17,7 @@ function card(job) {
     <p>Application window · ${escape(job.expiryDate || 'Unavailable')}</p>${link}</article>`;
 }
 export function publishFolders(data, destination = 'public') {
-  const template = fs.readFileSync(new URL('./templates/jobs.html', import.meta.url), 'utf8');
+  const template = fs.readFileSync(new URL('./templates/jobs.tpl', import.meta.url), 'utf8');
   for (const archive of [false, true]) {
     const jobs = archive ? data.initial : data.newOpenings;
     const values = {
@@ -33,4 +33,6 @@ export function publishFolders(data, destination = 'public') {
     });
     fs.writeFileSync(destination + (archive ? '/jobs-archive.html' : '/jobs.html'), html);
   }
+  fs.mkdirSync(destination + '/templates', { recursive: true });
+  fs.copyFileSync(new URL('./templates/jobs.html', import.meta.url), destination + '/templates/jobs.html');
 }
