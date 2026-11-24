@@ -392,7 +392,25 @@
     "121790188106982086": "2026-11-24T16:09:55.593Z",
     "120211620121977542": "2026-11-24T16:09:55.593Z",
     "86733690079453894": "2026-11-24T16:09:55.593Z",
-    "129129141264884422": "2026-11-24T16:09:55.593Z"
+    "129129141264884422": "2026-11-24T16:09:55.593Z",
+    "81112877921903302": "2026-11-24T16:22:57.555Z",
+    "125395708730581702": "2026-11-24T16:22:57.555Z",
+    "94935603098854086": "2026-11-24T16:22:57.555Z",
+    "121120463924404934": "2026-11-24T16:22:57.555Z",
+    "132341804719579846": "2026-11-24T16:22:57.555Z",
+    "113095953186988742": "2026-11-24T16:22:57.555Z",
+    "124960405205197510": "2026-11-24T16:22:57.555Z",
+    "72472477464175302": "2026-11-24T16:22:57.555Z",
+    "120800233310298822": "2026-11-24T16:22:57.555Z",
+    "75356771341738694": "2026-11-24T16:22:57.555Z",
+    "88827534686200518": "2026-11-24T16:22:57.555Z",
+    "123521561096266438": "2026-11-24T16:22:57.555Z",
+    "104937753002549958": "2026-11-24T16:22:57.555Z",
+    "101867916537799366": "2026-11-24T16:22:57.555Z",
+    "118416391169548998": "2026-11-24T16:22:57.555Z",
+    "78185965083861702": "2026-11-24T16:22:57.555Z",
+    "81088695108543174": "2026-11-24T16:22:57.555Z",
+    "102333046463570630": "2026-11-24T16:22:57.555Z"
   },
   "baseline": [
     {
@@ -535,7 +553,7 @@
     {
       "id": "107018346561446598",
       "title": "Software Engineer, PhD, Early Career, 2026",
-      "location": "Bengaluru, Karnataka, India",
+      "location": "Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
       "experience": "Early career",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026",
       "firstDetectedAt": "2026-08-10T10:28:35.973Z",
@@ -946,6 +964,584 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "81112877921903302",
+      "title": "Staff Software Engineer, Networking",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/81112877921903302-staff-software-engineer-networking",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience.",
+        "8 years of experience with one or more general purpose programming languages, including Java, C/C++, eBPF, etc.",
+        "Experience in software development, and designing, implementing distributed systems or cloud-native infrastructure."
+      ],
+      "preferred": [
+        "Experience with eBPF.",
+        "Experience in-kernel networking, Layer 7 Load Balancer (L7LB) , data plane and control plane elements along with experience in managing a small team."
+      ],
+      "duties": [
+        "Design and develop network connectivity solution for hybrid/multi cloud, involving data plane and control plane elements.",
+        "Design and develop network virtualization solutions for Container/VM workloads running on kubernetes platforms.",
+        "Engage with the open source community to help shape the direction of networking in Kubernetes.",
+        "Help external GDC customers who hit issues in production clusters.",
+        "Lead the technology you work on at Meetups/Forums/Slack and engage with consumers/community in public."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.580Z",
+      "source": "Google"
+    },
+    {
+      "id": "125395708730581702",
+      "title": "Data Engineer",
+      "location": "Gurugram, Haryana, India; Pune, Maharashtra, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/125395708730581702-data-engineer",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree in Computer Science, Engineering, Maths or equivalent experience.",
+        "3 years of experience in data engineering, cloud migrations, and distributed pipelines (Python, SQL, Spark/PySpark).",
+        "Experience with Databricks lakehouses and data stores including BigQuery, AlloyDB, Cloud SQL, Snowflake, or Oracle.",
+        "Experience with cataloging and governance tools like Unity Catalog, Dataplex, Collibra, or Purview.",
+        "Experience with RAG pipelines, vector embeddings, and agent frameworks (Google ADK, Vertex AI, LangChain, LangGraph).",
+        "Ability to travel up to 30% of the time as required."
+      ],
+      "preferred": [
+        "Experience migrating Databricks, Snowflake, or Oracle to GCP, backed by Google Cloud Professional Data/ML Engineer or equivalent certifications.",
+        "Experience in machine learning, information retrieval, and building/evaluating enterprise data-connected AI agents using Google ADK, Vertex AI, or MCP.",
+        "Proficiency with open table formats (Iceberg, Delta Lake), orchestration (Airflow/Cloud Composer), transformation/semantic tools (dbt, Dataform, Looker), and NoSQL/analytical stores.",
+        "Familiarity with encryption techniques (symmetric/asymmetric, envelope, KMS/CMEK) and IaC/CI/CD tools (Terraform, Ansible, Jenkins, Cloud Build)."
+      ],
+      "duties": [
+        "Partner with stakeholders and engineering teams to structure project goals and milestones, translating business requirements into technical designs, implementation plans, workshops, and working demos that accelerate platform adoption.",
+        "Lead high-velocity workload migrations from Databricks, Snowflake, and Oracle to Google Cloud, executing code conversions, performance tuning, and automated data validation (DVT).",
+        "Design and optimize scalable batch and streaming pipelines using Python, complex SQL, and Spark/PySpark across BigQuery, Dataproc, BigLake, AlloyDB, and Cloud Spanner.",
+        "Establish cataloging, lineage, business glossaries, PII tagging, data quality checks, and row/column-level security using Dataplex, Unity Catalog, or Collibra.",
+        "Build curated Medallion/dimensional models, semantic layers, and GenAI pipelines (document parsing, embeddings, vector search) for BI and AI workloads.Develop data-connected AI agents (Google ADK, Vertex AI, LangGraph) while troubleshooting Spark/SQL bottlenecks and building reusable automation accelerators"
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.593Z",
+      "source": "Google"
+    },
+    {
+      "id": "94935603098854086",
+      "title": "Silicon Validation Lead, Google Cloud",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/94935603098854086-silicon-validation-lead-google-cloud",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field, or equivalent practical experience.",
+        "10 years of experience in bringing-up and validating SoCs.",
+        "10 years of experience in bringing-up high-speed serial or parallel interfaces (e.g., PCIe, UCIe, DDR, HBM, Ethernet).",
+        "5 years of experience in people management, developing employees.",
+        "Experience in analyzing board schematics and working with scopes, logic analyzers, protocol analyzers, etc."
+      ],
+      "preferred": [
+        "Master's degree or PhD in Electrical Engineering/Computer Engineering with an emphasis on computer architecture.",
+        "3 years of experience in leading a post-silicon validation team and bringing-up and validating SoCs.",
+        "Experience co-working with firmware/software teams to debug issues and using emulation or prototyping platforms.",
+        "Experience bringing-up high-speed serial or parallel interfaces (PCIe, UCIe, DDR, Ethernet, etc.) and analyzing board schematics and working with scopes, logic analyzers, protocol analyzers, etc.",
+        "Experience in programming/scripting in C, C++, Python, Perl, or TCL.",
+        "Understanding of SoC architecture and interfaces (e.g., AXI, DDR, PCIe, etc.)."
+      ],
+      "duties": [
+        "Build, manage and lead the team responsible for post silicon validation of complex server SoCs.",
+        "Lead and enable the team to power-on server SoC silicon and bring it up through reset, boot and bare metal content or OS.",
+        "Collaborate with architecture, design and verification teams to propose, implement and enable DFV (Design for Validation) and DFD (Design for Debug) features on silicon.",
+        "Work with architects, designers, verification and software engineers to develop and review post silicon test plans, coverage and debug.",
+        "Drive the enablement of all key subsystems and high-speed serial & parallel interfaces in server silicon. Drive all the people management functions including, but not limited to, hiring, people development, prioritizing and managing resources to achieve project execution timelines."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.512Z",
+      "source": "Google"
+    },
+    {
+      "id": "121120463924404934",
+      "title": "Principal Chipset Project Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121120463924404934-principal-chipset-project-engineer",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering, Computer Science, or a related field, or equivalent practical experience.",
+        "15 years of experience with custom silicon design, SoC/ASIC implementation, or hardware-software co-design.",
+        "10 years of technical leadership experience.",
+        "Experience managing global, cross-functional engineering deliverables and aligning schedules/dependencies across matrixed organizations.",
+        "Experience directing SoC development programs from concept to mass production."
+      ],
+      "preferred": [
+        "Master's degree or PhD in Electrical Engineering, Computer Science, or a related field.",
+        "Demonstrated change-management and operational leadership skills, with experience coordinating teams across global sites.",
+        "Demonstrated change-management and operational leadership skills, with experience coordinating teams across global sites (Mountain View, Bengaluru, Taipei).",
+        "Deep technical understanding of custom IP integration, physical design flows, and hardware-software co-design principles.",
+        "Exceptional communication and stakeholder management skills, with a proven ability to collaborate across massive matrixed organizations and secure buy-in from senior engineering and product leaders.",
+        "Demonstrated expertise in driving complex hardware and software system-level debug and root-cause analysis."
+      ],
+      "duties": [
+        "Direct the execution of the entire SoC lifecycle, from initial chip definition and top-level architecture through tape-out, silicon bring-up, and final mass production.",
+        "Partner with specialized teams to lead the integration of proprietary gCPU and high-performance custom IPs, optimizing physical design layout to maximize hardware efficiency.",
+        "Collaborate across DSPG silicon groups and software, ensuring hardware innovations land seamlessly in production with day-one software sponsorship.",
+        "Coordinate deliverables across a matrixed global workforce, aligning schedules, managing dependencies, and actively resolving complex technical blockers.",
+        "Lead critical debug forums to drive complex system failure signatures to rapid root-cause closure by driving actions across multi-disciplinary teams."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.435Z",
+      "source": "Google"
+    },
+    {
+      "id": "132341804719579846",
+      "title": "Physical Design and Implementation Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/132341804719579846-physical-design-and-implementation-engineer",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field, or equivalent practical experience.",
+        "4 years of experience in physical design."
+      ],
+      "preferred": [
+        "Master's degree or PhD in Electrical Engineering, Computer Engineering or Computer Science, with an emphasis on computer architecture.",
+        "Experience in high performance designs (CPUs , GPUs etc.).",
+        "Experience with advanced power optimization techniques.",
+        "Participated in 3 or more chip tape outs."
+      ],
+      "duties": [
+        "Develop all aspects of ASIC RTL2GDS implementation for the central processing unit (CPU) for the Tensor SOC.",
+        "Signoff convergence including static timing analysis (STA), physical design verification (PDV), IR and Electo-Migration (EM).",
+        "Manage block and subsystem level physical implementation and QoR (power, timing, area).",
+        "Optimize power, performance and area (PPA) to achieve exceptional performance and cost.",
+        "Reduce time to market and improve PPA through deployment of Artificial Intelligence (AI) physical design tools and workflows."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.449Z",
+      "source": "Google"
+    },
+    {
+      "id": "113095953186988742",
+      "title": "Data Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/113095953186988742-data-engineer",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "3 years of experience coding in one or more programming languages.",
+        "3 years of experience designing data pipelines, and dimensional data modeling for synch and asynch system integration and implementation using internal (e.g., Flume, etc.) and external stacks (DataFlow, Spark, etc.).",
+        "3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts."
+      ],
+      "preferred": [
+        "Master’s degree in a Quantitative discipline (e.g. Computer Science, Engineering, Statistics, Math).",
+        "Experience with data warehouses, large-scale distributed data platforms, and data lakes.",
+        "Ability to navigate ambiguity and grow in a fast paced environment with multiple stakeholders.",
+        "Structured thinking with the ability to break down complex, multi-dimensional problems.",
+        "Excellent business and technical communication, organizational, and analytical skills."
+      ],
+      "duties": [
+        "Develop deep understanding of Cloud data.",
+        "Collect, aggregate, cleanse, and analyze data from various sources. Translate complex data sets into actionable insights and present them in a clear and understandable manner.",
+        "Develop and maintain data pipelines to ensure the reliable and efficient flow of data from source systems to the analytics application and reporting tools.",
+        "Implement data governance and security best practices to protect sensitive data and ensure compliance with relevant regulations.",
+        "Evaluate and adopt new technologies and tools to enhance the capabilities of the analytics platform and improve data management processes."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.425Z",
+      "source": "Google"
+    },
+    {
+      "id": "124960405205197510",
+      "title": "RTL Design Engineer, Silicon Engineering",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/124960405205197510-rtl-design-engineer-silicon-engineering",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field, or equivalent practical experience.",
+        "4 years of experience with multiple IPs/SoCs with silicon success and chip design flow."
+      ],
+      "preferred": [
+        "Master's degree or PhD in Electrical Engineering, Computer Engineering or Computer Science, with an emphasis on computer architecture."
+      ],
+      "duties": [
+        "Work on IP/Sub-system microarchitecture, design, and integration.",
+        "Interact closely with the Architecture team and developing implementation strategies to meet quality, schedule, power performance and area targets for sub-system/chip-level integration.",
+        "Interact closely with the Subsystem team and plan SOC milestones, plan quality checks as part of SOC milestones, and guide subsystem teams with SOC level requirements (e.g., IPXACT, CSR, Lint, CDC, SDC, UPF, etc.).",
+        "Work closely with the cross-functional team of verification, design for test, physical design, emulation, and software teams to make design decisions and represent project status throughout the development process."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.413Z",
+      "source": "Google"
+    },
+    {
+      "id": "72472477464175302",
+      "title": "Staff Software Engineer, Google Global Infrastructure",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/72472477464175302-staff-software-engineer-google-global-infrastructure",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.",
+        "Experience in a technical leadership role, managing a team of engineers.",
+        "Experience designing, building, and operating large-scale distributed systems, with a focus on scalability, fault tolerance, and reliability.",
+        "Experience with enterprise software architecture, design, and full-cycle implementations."
+      ],
+      "preferred": [
+        "Master’s degree or PhD in Engineering, Computer Science, or a related technical field.",
+        "8 years of experience with data structures and algorithms.",
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction.",
+        "3 years of experience working in a complex organization involving cross-functional, or cross-business projects.",
+        "Experience designing, building, and operating large-scale distributed systems, with a focus on scalability, fault tolerance, and reliability."
+      ],
+      "duties": [
+        "Lead the design and evolution of highly distributed, fault-tolerant software infrastructure capable of handling exponential growth in Google’s global network topology and traffic demand.",
+        "Drive the long-term technical roadmap and system architecture for NetSoft Design ecosystem, ensuring scalability, reliability, and maintainability across distributed network modeling, planning, and delivery systems.",
+        "Establish standards, guidelines, and unifying architectural principles across multiple complex software stacks to eliminate redundancy, simplify abstractions, and reduce systemic technical debt.",
+        "Apply a systemic focus to architectural decisions, optimizing for global performance, high availability, strict security boundary enforcement, and operational simplicity.",
+        "Provide technical leadership on high-impact projects."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.660Z",
+      "source": "Google"
+    },
+    {
+      "id": "120800233310298822",
+      "title": "Platform Customer Engineer, Manufacturing and Conglomerates",
+      "location": "Mumbai, Maharashtra, India; Gurugram, Haryana, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/120800233310298822-platform-customer-engineer-manufacturing-and-conglomerates",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "4 years of experience with cloud native architecture in a customer-facing or support role.",
+        "Experience with cloud engineering, on-premise engineering, virtualization, or containerization platforms.",
+        "Experience engaging with, and presenting to, technical stakeholders and executive leaders.",
+        "Experience in programming languages, debugging, systems design, prototyping, demos, or customer workshops.",
+        "Experience translating customer objectives into integrated cloud solutions across multiple domains."
+      ],
+      "preferred": [
+        "Experience selling technical solutions in one or more of the following: infrastructure modernization, application modernization, data management, data analytics, Cloud AI, networking, migrations, security.",
+        "Experience managing the entire business cycle (e.g., defining the delivery and consumption plan and transitioning it for execution).",
+        "Experience building long-term technical strategies to uncover new workloads with customers.",
+        "Experience with security concepts (e.g., encryption, identity management, access control, attack vectors, or penetration testing)."
+      ],
+      "duties": [
+        "Develop and own the technical account plan and strategy, participating in planning and supporting specific sales motions.",
+        "Combine sales, programming, and solutions architecture to show the value of Google Cloud Platform across the portfolio through demos, pilots, and in-depth workshops.",
+        "Architect cross-pillar solutions, drive technical wins, and define initial delivery plans for customers; continue to lead the technical engagement in the solution phase.",
+        "Facilitate the post-sales transition by supporting pricing activities and transitioning the final delivery plan to implementation teams.",
+        "Maintain awareness of progress against the delivery plan, providing support to cross-functional teams during ramp, delivery, migration, or implementation phases."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.946Z",
+      "source": "Google"
+    },
+    {
+      "id": "75356771341738694",
+      "title": "Software Engineer, AI/ML, GeminiApp, DeepMind",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/75356771341738694-software-engineer-ai-ml-geminiapp-deepmind",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Computer Science, Machine Learning, a related technical field, or equivalent practical experience.",
+        "2 years of experience in software development and machine learning engineering using Python or C++.",
+        "Experience with Machine Learning (ML), Natural Language Processing, Large Language Models (LLMs), or ML evaluation infrastructure."
+      ],
+      "preferred": [
+        "Master's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related technical field.",
+        "Experience with Generative AI, LLM fine-tuning, prompt engineering, agentic workflows, automated evaluation, or multilingual Natural Language Processing (NLP).",
+        "Experience building and launching end-to-end machine learning features in production systems."
+      ],
+      "duties": [
+        "Design, implement, and launch improvements in LLM quality, multilingual fluency, grounding, and agentic workflows for the Gemini app.",
+        "Build scalable automated evaluation frameworks, benchmarks, and data pipelines to measure naturalness, factuality, and helpfulness.",
+        "Collaborate with research, product, and User Experience (UX) teams across DeepMind to prototype and ship production Artificial Intelligence (AI) features at scale."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.934Z",
+      "source": "Google"
+    },
+    {
+      "id": "88827534686200518",
+      "title": "Silicon Micro Architecture and IP Design Lead, Google Cloud",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88827534686200518-silicon-micro-architecture-and-ip-design-lead-google-cloud",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field, or equivalent practical experience.",
+        "10 years of experience in ASIC development with Verilog/SystemVerilog, and Vhsic Hardware Description Language (VHDL).",
+        "Experience in micro-architecture and design of IPs and Subsystems.",
+        "Experience in ASIC design verification, synthesis, timing/power analysis, and Design for Testing (DFT)."
+      ],
+      "preferred": [
+        "Master's degree or PhD in Electrical Engineering, Computer Engineering or Computer Science, with an emphasis on computer architecture.",
+        "15 years of experience in leading micro-architecture and design of complex IPs and Subsystems.",
+        "Experience in SoC designs and integration flows.",
+        "Knowledge of business architectures, fabrics/NoC, processor design, accelerators, or memory hierarchies.",
+        "Knowledge of high-performance and low-power design techniques."
+      ],
+      "duties": [
+        "Drive development of complex IPs and subsystems along with a team of engineers.",
+        "Own micro-architecture and implementation of IPs and subsystems.",
+        "Work with architecture, firmware and software teams to drive feature closure and develop micro-architecture specifications.",
+        "Drive design methodology, libraries, debug, code review in coordination with other IPs Design Verification (DV) teams and physical design teams.",
+        "Identify and drive power, performance and area improvements for the domains owned."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.889Z",
+      "source": "Google"
+    },
+    {
+      "id": "123521561096266438",
+      "title": "Staff Software Engineer, Search ML Infrastructure",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/123521561096266438-staff-software-engineer-search-ml-infrastructure",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.",
+        "Experience leading technical project strategy, machine learning design, and optimizing machine learning infrastructure (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).",
+        "Experience designing, building, and operating large-scale distributed systems, with scalability, fault tolerance, and reliability.",
+        "Experience in Search and information retrieval."
+      ],
+      "preferred": [
+        "Master’s degree or PhD in Engineering, Computer Science, or a related technical field.",
+        "8 years of experience with data structures and algorithms.",
+        "6 years of experience building distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.",
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction.",
+        "3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects.",
+        "Experience in distributed machine learning and machine learning infrastructure, distributed systems and with machine learning algorithms at scale."
+      ],
+      "duties": [
+        "Design, develop, and evolve the major components of our next-generation Search Serving Infrastructure.",
+        "Own critical areas of the platform to ensure it provides the expected scalability, reliability, and latency of Google Search.",
+        "Work collaboratively with Associate Team Leads (ATLs), other engineers, (e.g., Team Leads (TLs)), and cross-functional teams to align platform evolution with broader architectural efforts.",
+        "Lead and mentor junior engineers within the team.",
+        "Uphold and maintain a high bar for code quality and robustness of production systems."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.901Z",
+      "source": "Google"
+    },
+    {
+      "id": "104937753002549958",
+      "title": "Staff Software Engineer, Machine Learning, Geo",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104937753002549958-staff-software-engineer-machine-learning-geo",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience with ML design and end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging).",
+        "5 years of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML infrastructure, or specialization in another ML field.",
+        "Experience in a technical leadership role, managing a team of engineers.",
+        "Experience with Generative AI (e.g., Large Language Models (LLMs), diffusion models), development workflows, and use cases."
+      ],
+      "preferred": [
+        "Master's degree or PhD in Machine Learning, Artificial Intelligence, Computer Science, or a related quantitative field.",
+        "8 years of experience with data structures and algorithms.",
+        "Experience designing automated evaluation frameworks and experimentation for generative AI and ML systems.",
+        "Experience in one or more adjacent domains including Content Moderation, Conversational AI, Multimodal Fusion, or Truth Synthesis systems.",
+        "Experience in people management within cross-functional environments.",
+        "Ability to align and influence stakeholders across multiple engineering, product, and operations organizations."
+      ],
+      "duties": [
+        "Define the multi-year ML direction, modeling roadmap, and shared objectives and key results with partners while leading, mentoring, and growing a team of engineers.",
+        "Architect and optimize sub-second ML/Large Language Models (LLM) inference and agentic reasoning loops enabling real-time intent resolution, adaptive follow-up questioning, and moderation transparency.",
+        "Lead the transition from fragmented models to unified joint-modeling architectures.",
+        "Advocate scalable evaluation frameworks spanning structured facts and unstructured claims, active learning pipelines, and synthetic data generation to maximize model performance.",
+        "Cultivate engineering excellence across the organization."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.878Z",
+      "source": "Google"
+    },
+    {
+      "id": "101867916537799366",
+      "title": "Staff Software Engineer, Core, Code Search",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/101867916537799366-staff-software-engineer-core-code-search",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.",
+        "Experience with computer science (e.g., data structures, algorithms, software design).",
+        "Experience in Search and information retrieval.",
+        "Experience with low-level systems programming languages (e.g., C++ or C)."
+      ],
+      "preferred": [
+        "Master’s degree or PhD in Engineering, Computer Science, or a related technical field.",
+        "Experience architecting high-throughput, low-latency search, retrieval, or applied AI/ML systems.",
+        "Experience in information retrieval and search infrastructure, including inverted or trigram indices, learning-to-rank, and real-time incremental indexing.",
+        "Experience building retrieval and context-selection systems for LLM-powered coding agents using retrieval evaluation.",
+        "Experience driving technical strategy and alignment across developer infrastructure, machine learning, and product teams.",
+        "Experience exploring technical directions, rapidly prototyping, and evaluating opportunities across latency, freshness, relevance, and token efficiency."
+      ],
+      "duties": [
+        "Define and drive the multi-year architectural goal and technical roadmap for Google’s Code Search platform across lexical search, real-time incremental indexing, and agentic code discovery.",
+        "Architect, scale, and evolve high-throughput, low-latency indexing and query-serving infrastructure capable of supporting massive repository scale, near-real-time freshness, and rapidly growing workloads from autonomous AI agents.",
+        "Drive technical alignment across organizational boundaries (Developer Infrastructure, AI Agent platforms, Integrated Development Environment (IDE) surfaces, and Research) to land complex, cross-cutting architectural initiatives.",
+        "Mentor and grow senior and junior engineers, setting a high bar for system reliability, performance engineering, and experimental excellence across the team.",
+        "Provide technical leadership on high-impact projects."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.843Z",
+      "source": "Google"
+    },
+    {
+      "id": "118416391169548998",
+      "title": "Staff Software Engineer, Multimodal Search",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/118416391169548998-staff-software-engineer-multimodal-search",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience with full stack development, across back-end such as Java, Python, Golang, or C++ codebases, and front-end experience including JavaScript or TypeScript, HTML, CSS or equivalent.",
+        "Experience in technical leadership.",
+        "Experience designing and implementing full-stack, enterprise-grade applications and distributed systems (e.g., microservices, containerization).",
+        "Experience leading projects through the full Software Development Life Cycle (SDLC), including design, development, testing, deployment, and maintenance."
+      ],
+      "preferred": [
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction.",
+        "3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects.",
+        "Experience in software design and architecture.",
+        "Experience in distributed systems/data analysis and ML.",
+        "Experience with designing AI native solutions."
+      ],
+      "duties": [
+        "Provide technical leadership on high-impact projects, l ead the technical architecture and roadmap to scale Song Search in the AI era, build systems that transform it into an indispensable, habit-forming music discovery experience served reliably and efficiently at Google Scale.",
+        "Design, develop, test, deploy, maintain, and enhance large-scale software solutions.",
+        "Drive technical direction and engineering excellence within the pod, mentoring junior and mid-level engineers, guiding architectural designs, and fostering a culture of innovation.",
+        "Facilitate alignment and clarity across teams on goals, outcomes, and timelines.",
+        "Manage project priorities, deadlines, and deliverables."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.912Z",
+      "source": "Google"
+    },
+    {
+      "id": "78185965083861702",
+      "title": "Staff Software Engineer, GCBP CORE (Customer/Ordering/Revenue Engineering)",
+      "location": "Hyderabad, Telangana, India; Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/78185965083861702-staff-software-engineer-gcbp-core-customer-ordering-revenue-engineering",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience testing, and launching software products.",
+        "3 years of experience with software design and architecture."
+      ],
+      "preferred": [
+        "Master’s degree or PhD in Engineering, Computer Science, or a related technical field.",
+        "8 years of experience with data structures and algorithms.",
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction.",
+        "3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects."
+      ],
+      "duties": [
+        "Define and drive the multi-year technical goal and system architecture for subscriptions booking and post-booking entitlements.",
+        "Direct the technical onboarding and system boundary integrations for strategic programs across Order-to-Cash (O2C) systems.",
+        "Future-proof Online Renewal and Entitlement Engine's (OREO’s) services to effortlessly scale for Google Cloud’s hyper-growth, managing millions of active subscriptions, auto-renewals, and real-time entitlement mutations.",
+        "Establish zero-compromise automated invariant verifications and agreement test-motivated development (Agreement-TDD) pipelines, ensuring data quality, Sarbanes-Oxley Act (SOX) compliance, and financial controllership balance for month-end and quater close.",
+        "Eliminate systemic technical debt, and serve as the ultimate technical escalation authority for complex production anomalies, and cross-system drifts."
+      ],
+      "verifiedAt": "2026-11-24T16:22:58.864Z",
+      "source": "Google"
+    },
+    {
+      "id": "81088695108543174",
+      "title": "Staff Software Engineer, Search Production Intelligence",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/81088695108543174-staff-software-engineer-search-production-intelligence",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience building and developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage, or hardware architecture.",
+        "Experience designing, building, and operating large-scale distributed systems, with scalability, fault tolerance, and reliability.",
+        "Experience in software engineering, software infrastructure engineering, security, Big Data and analytics, or cloud networking.",
+        "Experience building with LLMs, agents, tools or AI-assisted developer workflows. Experience with AI solutions with real production or operational use."
+      ],
+      "preferred": [
+        "8 years of experience with data structures and algorithms.",
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction.",
+        "3 years of experience working in a complex, matrixed organization involving cross-functional, or cross-business projects.",
+        "Experience with monitoring, alerting, anomaly detection, incident management or Site Reliability Engineering (SRE) practices, including defining Service Level Indicator/Service Level Objective (SLIs/SLOs).",
+        "Experience evaluating non-deterministic, Machine Learning (ML) or generative systems.",
+        "Proficiency in one or more of C++, Java, Go or Python, and experience working in large production codebases."
+      ],
+      "duties": [
+        "Lead the way on reliability for Search's newest product experiences (e.g., Artificial Intelligence (AI) Mode, AI Overviews, multimodal and agentic journeys).",
+        "Own the technical direction for one or more production intelligence areas: agentic operations, real-time feature monitoring, user-perceived reliability and reliability insights. Set a multi-quarter roadmap.",
+        "Influence and coach a distributed team of engineers.",
+        "Scale agentic operations across Search binaries and rotations. Author and evolve reusable skills, measure agent quality in production, and close the loop so the system gets better with every incident.",
+        "Manage project priorities, deadlines, and deliverables. Design AI-native solutions by default. Treat Large Language Models (LLMs), agents and skills as first-class building blocks for detection, noise reduction, triage, root-causing, culprit-finding and remediation."
+      ],
+      "verifiedAt": "2026-11-24T16:22:59.180Z",
+      "source": "Google"
+    },
+    {
+      "id": "102333046463570630",
+      "title": "Data Analytics Sales Specialist, Google Cloud",
+      "location": "Mumbai, Maharashtra, India",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/102333046463570630-data-analytics-sales-specialist-google-cloud",
+      "firstDetectedAt": "2026-11-24T16:22:57.555Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "10 years of experience in quota-carrying enterprise sales.",
+        "Experience building business cases through workshops or product demos to business executives.",
+        "Experience developing partnerships with technical stakeholders (e.g., enterprise architects, data engineers, data scientists).",
+        "Experience positioning and selling technical solutions in data management, analytics, infrastructure, or AI/ML."
+      ],
+      "preferred": [
+        "Experience positioning modern cloud data platforms, lakehouses, real-time streaming, or GenAI platforms against legacy or other proprietary enterprise systems.",
+        "Experience working with global system integrators, hyperscalers, or Independent Software Vendors (ISVs) to co-sell and accelerate pipeline.",
+        "Experience closing large-scale data and AI transformation agreements within specific regulated or high-growth enterprise verticals (e.g., financial services, healthcare/life sciences, retail, or manufacturing).",
+        "Practical understanding of how modern cloud architectures, data governance (e.g., cataloging, lineage, compliance), and clean data estates enable AI and real-time analytics."
+      ],
+      "duties": [
+        "Deliver against quota and achieve or exceed business and growth goals. Drive net-new greenfield logos and workloads in existing accounts through proactive campaigns.",
+        "Run complex, multi-threaded business cycles from initial discovery and value hypothesis to Return on Investment (ROI) business case creation and commercial close.",
+        "Engage business leaders, Chief Data Officer, Chief Financial Officer, Chief Marketing Officer, Chief AI Officer, through value-selling, tying modern data and AI capabilities to quantified business outcomes.",
+        "Align cross-functionally with Field Sales Representatives (FSRs) and partners to execute joint Data+AI plays, driving platform standardization and co-sell motions.",
+        "Illustrate modern architectures (BigQuery, Spark, Spanner, AlloyDB) to demonstrate how unified data foundations power high-performance, hallucination-free AI agents."
+      ],
+      "verifiedAt": "2026-11-24T16:22:59.192Z",
+      "source": "Google"
+    },
     {
       "id": "103809821576176326",
       "title": "IP Design Verification Lead, Google Cloud",
@@ -4011,7 +4607,7 @@
     {
       "id": "109976286780105414",
       "title": "Software Engineering PhD Intern, Summer 2027",
-      "location": "Bengaluru, Karnataka, India",
+      "location": "Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414-software-engineering-phd-intern-summer-2027",
       "firstDetectedAt": "2026-09-07T12:17:20.862Z",
@@ -4040,7 +4636,7 @@
     {
       "id": "109375266236572358",
       "title": "Silicon Engineering Intern, PhD, Summer 2027",
-      "location": "Bengaluru, Karnataka, India",
+      "location": "Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
       "experience": "0–1 year experience mentioned",
       "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027",
       "firstDetectedAt": "2026-09-07T12:17:20.862Z",
@@ -4634,10 +5230,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-30T17:14:09.411Z",
-      "result": "Found 78 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-30T21:33:59.025Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -5032,7 +5624,11 @@
     {
       "checkedAt": "2026-11-24T16:15:29.674Z",
       "result": "Found 62 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-24T16:22:57.555Z",
+      "result": "Found 33 matching roles; 18 new opening(s)"
     }
   ],
-  "searchCursor": 10
+  "searchCursor": 12
 }
