@@ -331,7 +331,8 @@
     "109319139335512774": "2026-11-19T23:17:18.014Z",
     "136501832733074118": "2026-11-23T12:34:04.921Z",
     "134577198026629830": "2026-11-23T12:34:04.921Z",
-    "119669220244890310": "2026-11-23T12:34:04.921Z"
+    "119669220244890310": "2026-11-23T12:34:04.921Z",
+    "77680133900509894": "2026-11-24T00:19:41.568Z"
   },
   "baseline": [
     {
@@ -526,6 +527,16 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "77680133900509894",
+      "title": "Software Engineer, Health Frontier",
+      "location": "Mountain View, CA, USA",
+      "experience": "0–1 year experience mentioned",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77680133900509894-software-engineer-health-frontier",
+      "firstDetectedAt": "2026-11-24T00:19:41.568Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed"
+    },
     {
       "id": "136501832733074118",
       "title": "Product Design Engineering Intern, 2027",
@@ -1209,10 +1220,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-29T01:58:07.778Z",
-      "result": "Found 80 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-29T08:20:42.220Z",
       "result": "Found 80 matching roles; 0 new opening(s)"
     },
@@ -1607,6 +1614,10 @@
     {
       "checkedAt": "2026-11-23T12:34:04.921Z",
       "result": "Found 70 matching roles; 3 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-24T00:19:41.568Z",
+      "result": "Found 70 matching roles; 1 new opening(s)"
     }
   ]
 }
