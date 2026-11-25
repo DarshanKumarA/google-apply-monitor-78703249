@@ -417,7 +417,10 @@
     "108487064583840454": "2026-11-25T13:36:55.971Z",
     "123542917821145798": "2026-11-25T13:36:55.971Z",
     "85570429057409734": "2026-11-25T13:36:55.971Z",
-    "82108273099973318": "2026-11-25T13:36:55.971Z"
+    "82108273099973318": "2026-11-25T13:36:55.971Z",
+    "85646978259526342": "2026-11-25T14:04:54.489Z",
+    "130401499556520646": "2026-11-25T14:04:54.489Z",
+    "108715629858431686": "2026-11-25T14:04:54.489Z"
   },
   "baseline": [
     {
@@ -528,283 +531,6 @@
       "source": "Google"
     },
     {
-      "id": "111711283144729286",
-      "title": "Design Verification Engineer, PhD, Early Career",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111711283144729286-design-verification-engineer-phd-early-career",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Electronics and Communication Engineering, Electrical Engineering, Computer Engineering or related technical field, or equivalent practical experience.",
-        "Experience in programming languages (e.g., C++, Python, Verilog), Synopsys, Cadence tools.",
-        "Experience with accelerator architectures and data center workloads."
-      ],
-      "preferred": [
-        "2 years of experience in Silicon domain post PhD.",
-        "Experience with performance modeling tools.",
-        "Knowledge of arithmetic units, bus architectures, accelerators, or memory hierarchies.",
-        "Knowledge of high performance and low power design techniques."
-      ],
-      "duties": [
-        "Revolutionize Machine Learning (ML) workload characterization and benchmarking, and propose capabilities and optimizations for next-generation TPUs.",
-        "Develop architecture specifications that meet current and future computing requirements for AI/ML roadmap. Develop architectural and microarchitectural power/performance models, microarchitecture and RTL designs and evaluate quantitative and qualitative performance and power analysis.",
-        "Partner with hardware design, software, compiler, Machine Learning (ML) model and research teams for effective hardware/software codesign, creating high performance hardware/software interfaces.",
-        "Develop and adopt advanced AI/ML capabilities, drive accelerated and efficient design verification strategies and implementations.",
-        "Use AI techniques for faster and optimal physical design convergence -timing, floor planning, power grid and clock tree design etc. Investigate, validate, and optimize DFT, post-silicon test, and debug strategies, contributing to the advancement of silicon bring-up and qualification processes."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.360Z",
-      "source": "Google"
-    },
-    {
-      "id": "107018346561446598",
-      "title": "Software Engineer, PhD, Early Career, 2026",
-      "location": "Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Electrical Engineering, or a related technical field.",
-        "Experience in software development, with a focus on areas such as large-scale distributed systems, AI/ML, networking, data storage, or security.",
-        "Experience in architecture or development of distributed systems, including concurrency, multi-threading, or synchronization.",
-        "Experience in algorithms, complexity analysis, and system design.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang."
-      ],
-      "preferred": [
-        "Experience in areas such as algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or general systems.",
-        "Expertise in designing and implementing complex systems for either production or experimental use.",
-        "Proficiency in performance analysis or the analysis of systems data.",
-        "Demonstrated success in publishing peer-reviewed articles in prestigious conferences or journals (e.g., ACL, KDD, SOSP, Nature).",
-        "Availability to commence a full-time position in 2026.",
-        "Exceptional engineering capabilities."
-      ],
-      "duties": [
-        "Define and drive the technical goal for next-generation distributed systems.",
-        "Design, develop, and implement scalable, reliable, and high-performance large-scale distributed systems.",
-        "Apply specialized research expertise to the design, analysis, and development of complex systems across the stack.",
-        "Investigate, diagnose, and resolve technical issues by analyzing root causes and impact.",
-        "Write and review code, ensuring adherence to best practices in style, accuracy, testability, and efficiency."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.383Z",
-      "source": "Google"
-    },
-    {
-      "id": "120415858164933318",
-      "title": "Software Engineer, PhD, Early Career, 2026",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/120415858164933318-software-engineer-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Electrical Engineering, or a related technical field.",
-        "Experience in software development, with a focus on areas such as large-scale distributed systems, AI/ML, networking, data storage, or security.",
-        "Experience in architecture or development of distributed systems, including concurrency, multi-threading, or synchronization.",
-        "Experience in algorithms, complexity analysis, and system design.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang."
-      ],
-      "preferred": [
-        "PhD degree in Computer Science or related technical field with coding experience in C++/Go.",
-        "Experience architecting and developing large-scale distributed systems.",
-        "Experience in concurrency, multithreading and synchronization and good understanding of networking concepts, protocols (e.g., TCP/IP, BGP).",
-        "Strong problem-solving skills and understanding of algorithms and their level of complexity.",
-        "Strong software and systems troubleshooting and debugging skills.",
-        "Good written and verbal communication skills."
-      ],
-      "duties": [
-        "Be responsible for design, development, and delivery of product features and components within Google Cloud Platform (GCP) hybrid connectivity products. Drive projects from design to launch with limited oversight.",
-        "Design, and implement highly scalable, reliable, and secure distributed systems for hybrid cloud networking. Make sound technical judgments in ambiguity and proactively identify opportunities for system improvements or new tool development.",
-        "Collaborate across multiple Engineering teams, including Product Management, Site Reliability Engineering (SRE), and other Networking teams within GCP.",
-        "Contribute to team-level technical decisions and participate in broader engineering community efforts such as interviewing and knowledge sharing.",
-        "Ensure the production health, monitoring, and on-call support for hybrid connectivity services. Drive initiatives to improve system reliability, observability, and supportability, potentially leveraging AI/ML for enhanced operational insights."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.307Z",
-      "source": "Google"
-    },
-    {
-      "id": "108281679147082438",
-      "title": "Software Engineer, PhD, Early Career, 2026",
-      "location": "Hyderabad, Telangana, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/108281679147082438-software-engineer-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Electrical Engineering, or a related technical field.",
-        "Experience in software development, with a focus on areas such as large-scale distributed systems, AI/ML, networking, data storage, or security.",
-        "Experience in architecture or development of distributed systems, including concurrency, multi-threading, or synchronization.",
-        "Experience in algorithms, complexity analysis, and system design.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang."
-      ],
-      "preferred": [
-        "Experience in areas such as algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or general systems.",
-        "Expertise in designing and implementing complex systems for either production or experimental use.",
-        "Proficiency in performance analysis or the analysis of systems data.",
-        "Demonstrated success in publishing peer-reviewed articles in prestigious conferences or journals (e.g., ACL, KDD, SOSP, Nature).",
-        "Availability to commence a full-time position in 2026.",
-        "Exceptional engineering capabilities."
-      ],
-      "duties": [
-        "Define and drive the technical goal for next-generation distributed systems.",
-        "Design, develop, and implement scalable, reliable, and high-performance large-scale distributed systems.",
-        "Apply specialized research expertise to the design, analysis, and development of complex systems across the stack.",
-        "Investigate, diagnose, and resolve technical issues by analyzing root causes and impact.",
-        "Write and review code, ensuring adherence to best practices in style, accuracy, testability, and efficiency."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.333Z",
-      "source": "Google"
-    },
-    {
-      "id": "95785531123606214",
-      "title": "Software Engineer, Persistent Disk, PhD, Early Career, 2026",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/95785531123606214-software-engineer-persistent-disk-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Electrical Engineering, or a related technical field.",
-        "Experience with research and development of data storage, backup, or disaster recovery technologies.",
-        "Experience conducting research on storage systems, including publishing findings.",
-        "Experience in architecture or development of distributed systems, including concurrency, multi-threading, or synchronization.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang."
-      ],
-      "preferred": [
-        "Experience with data management tools and technologies including data pipelines frameworks, database engines, and file and object stores.",
-        "Experience contributing to research communities including publishing at conferences (e.g., CVPR, NeurIPS, ICCV/ECCV, BMVC).",
-        "Expertise in designing and implementing complex systems for either production or experimental use.",
-        "Proficiency in performance analysis or the analysis of systems data.",
-        "Excellent engineering capabilities.",
-        "Availability to commence a full-time position in 2026."
-      ],
-      "duties": [
-        "Drive research initiatives to explore next-generation storage architectures, prototype novel backup/replication algorithms, and evaluate emerging technologies.",
-        "Improve the reliability, scale, and performance of backup and replication solutions while maintaining healthy release cycles.",
-        "Work closely with partners and internal stakeholders to translate complex engineering and research efforts into enhanced customer satisfaction and tangible business growth."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.563Z",
-      "source": "Google"
-    },
-    {
-      "id": "126485952255140550",
-      "title": "Software Engineer, PhD, Early Career, Networking, 2026 Start",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/126485952255140550-software-engineer-phd-early-career-networking-2026-start",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Electrical Engineering, or a related technical field.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Java or Golang.",
-        "Experience in software development, with a focus on areas such as large-scale distributed systems and networking.",
-        "Experience in algorithms, complexity analysis, and system design."
-      ],
-      "preferred": [
-        "Experience working with SmartNIC technologies.",
-        "Ability to act as a generalist software engineer blending technical execution with program management and process optimization.",
-        "Ability to lead multiple workstreams with attention to detail.",
-        "Ability to write and review code, ensuring adherence to best practices in style, accuracy, testability, and efficiency.",
-        "Ability to investigate, diagnose, and resolve technical issues by analyzing root causes and impact."
-      ],
-      "duties": [
-        "Develop kernel drivers for the various Infrastructure Processing Units (IPUs)/Network Interface Cards (NICs) in our portfolio, and ensuring that end-to-end systems built with these devices achieve the scale, reliability, performance expected of networking, and that such systems interact well within the Google Cloud ecosystem."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.610Z",
-      "source": "Google"
-    },
-    {
-      "id": "141496697866855110",
-      "title": "Software Engineer, Fleet Analytics, PhD, Early Career, 2026",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/141496697866855110-software-engineer-fleet-analytics-phd-early-career-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Electrical Engineering, or a related technical field, or equivalent practical experience.",
-        "Experience applying mathematical techniques to solve large-scale, intractable problems.",
-        "Experience conducting advanced research in Computer Science, Applied Mathematics, or relevant experience."
-      ],
-      "preferred": [
-        "PhD in Statistics, Applied Mathematics, Operation Research, or a related field.",
-        "Experience with mathematical optimization (e.g., LP, IP, MIP, NLP).",
-        "Understanding of private and public cloud design considerations and limitations in the areas of virtualization and global infrastructure, distributed systems, load balancing and networking."
-      ],
-      "duties": [
-        "Design, develop, and maintain advanced optimization models (e.g., mixed integer programming).",
-        "Design and develop other platform capabilities.",
-        "Experiment and prototype for foundational tech stacks comparison and selection.",
-        "Implement, deploy, and rollout features following safe rollout practices.",
-        "Interact with users, partner teams for feature scoping, rollout support, and training."
-      ],
-      "verifiedAt": "2026-11-25T13:36:56.594Z",
-      "source": "Google"
-    },
-    {
-      "id": "76908711519363782",
-      "title": "Software Engineer, Systems Research, PhD, Early Career",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/76908711519363782-software-engineer-systems-research-phd-early-career",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, or a related technical field, or equivalent practical experience.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.",
-        "Research experience in an area of computer systems design and implementation."
-      ],
-      "preferred": [
-        "PhD degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field.",
-        "Experience in Research areas such as storage systems, memory systems, distributed systems and networks, novel I/O systems, computer architecture and accelerators, databases and analytics, cloud computing, sustainability, privacy, or other emerging technologies.",
-        "Experience in authoring/co-authoring of papers in venues in the systems field (e.g., SOSP, OSDI, ISCA, ASPLOS, MICRO, ASPLOS, PLDI, SIGCOMM, NSDI, SIGMOD, etc.).",
-        "Experience in systems for Machine Learning (ML).",
-        "Experience designing and implementing an experimental system in a research or product development environment."
-      ],
-      "duties": [
-        "Explore emerging technologies and systems as an individual contributor in the research and development team.",
-        "Participate in team projects to carry out system design, analysis, and building of prototypes to demonstrate advantages and reveal challenges of these technologies for a broad range of applications in the data center and modern Cloud environments, including machine learning.",
-        "Create strategies that will lead to innovative projects and follow-on products for the future.",
-        "Operate across research and engineering teams in order to influence products or integrate research results into products."
-      ],
-      "verifiedAt": "2026-11-24T16:05:23.925Z",
-      "source": "Google"
-    },
-    {
-      "id": "83535564552184518",
-      "title": "Student Researcher, PhD, Fall 2026",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518-student-researcher-phd-fall-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural Sciences, or a related technical field.",
-        "Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas)."
-      ],
-      "preferred": [
-        "Currently enrolled in a full-time degree program and returning to the program after completion of the internship.",
-        "Currently attending a degree program in the United States.",
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing to research communities or efforts, including publishing papers in major conferences or journals.",
-        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.)."
-      ],
-      "duties": [
-        "Participate in research to develop solutions for real-world, large-scale problems."
-      ],
-      "verifiedAt": "2026-11-24T16:05:23.910Z",
-      "source": "Google"
-    },
-    {
       "id": "132362676918461126",
       "title": "Student Researcher, BS/MS, Fall 2026",
       "location": "Mountain View, CA, USA",
@@ -828,32 +554,6 @@
         "Participate in research to develop solutions for real-world, large-scale problems."
       ],
       "verifiedAt": "2026-11-24T16:05:24.000Z",
-      "source": "Google"
-    },
-    {
-      "id": "128430823337534150",
-      "title": "Student Researcher, PhD, Fall 2026",
-      "location": "Waterloo, ON, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/128430823337534150-student-researcher-phd-fall-2026",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural Sciences, or a related technical field.",
-        "Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Developing, or similar areas)."
-      ],
-      "preferred": [
-        "Currently enrolled in a full-time degree program and returning to the program after completion of the internship.",
-        "Currently attending a degree program in Canada.",
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.).",
-        "Experience in contributing research communities or efforts, including publishing papers in major conferences or journals."
-      ],
-      "duties": [
-        "Participate in research to develop solutions for real-world, large-scale problems."
-      ],
-      "verifiedAt": "2026-11-24T16:05:23.895Z",
       "source": "Google"
     },
     {
@@ -911,34 +611,6 @@
       "source": "Google"
     },
     {
-      "id": "114836903953343174",
-      "title": "Signal/Power Integrity Engineer, PhD Graduate",
-      "location": "Haifa, Israel",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/114836903953343174-signal-power-integrity-engineer-phd-graduate",
-      "firstDetectedAt": "2026-08-10T10:28:35.973Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Electrical Engineering, Computer Engineering, Physics, Materials Engineering, or Computer Science.",
-        "Relevant practical or internship experience, or personal project experience in hardware or electrical engineering."
-      ],
-      "preferred": [
-        "Working knowledge of physical layer requirements for PCIe, Ethernet (IEEE 802.3).",
-        "Advanced proficiency in Python (NumPy, Pandas) for data analysis and instrument control.",
-        "Ability to correlate lab measurements with pre-silicon SI simulations (HSPICE, ADS, or Sigrity)."
-      ],
-      "duties": [
-        "Simulate high speed interface electrical behavior using HSPICE or other circuit simulators.",
-        "Generate precise electrical models (e.g., S-parameters, SPICE models) for components such as packages, PCBs, and connectors for use in simulations.",
-        "Collaborate extensively with cross-functional teams, including ASIC architects, digital/analog designers, physical design/layout engineers, and system engineers, to define specifications and resolve integration challenges.",
-        "Execute lab measurements utilizing test equipment like oscilloscopes, Vector Network Analyzers (VNA), Time Domain Reflectometers (TDR) , Spectrum analyzers to validate simulation outcomes and debug signal and power-related issues on silicon prototypes and boards.",
-        "Establish robust design rules and guidelines for optimal signal/power integrity during PCB and package layout, ensuring high production yield and reliability."
-      ],
-      "verifiedAt": "2026-11-24T16:05:24.276Z",
-      "source": "Google"
-    },
-    {
       "id": "121628144896484038",
       "title": "Customer Growth Associate, Google Customer Solutions, University Graduate, 2027 Start (English)",
       "location": "San Francisco, CA, USA",
@@ -971,6 +643,104 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "85646978259526342",
+      "title": "Forward Deployed Engineer V, GenAI, Google Cloud",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85646978259526342-forward-deployed-engineer-v-genai-google-cloud",
+      "firstDetectedAt": "2026-11-25T14:04:54.489Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+        "2 years of experience in software engineering, data engineering, solution architecture, machine learning, or technical consulting, including coding experience in Python and SQL.",
+        "Experience with data cloud ecosystem products, technologies, or languages (e.g., Apache Spark, PySpark, BigQuery, Spanner, Data Catalog, and AlloyDB).",
+        "Experience taking production-grade data cloud solutions from conception to launch, including architecting data systems on cloud platforms (e.g., GCP) and building structured/unstructured pipelines.",
+        "Experience training, evaluating, and deploying machine learning models in production."
+      ],
+      "preferred": [
+        "Experience implementing multi-agent systems using frameworks (e.g., LangGraph, CrewAI, ADK) and complex patterns (e.g., ReAct, self-reflection, hierarchical delegation).",
+        "Experience in prompt developing, model evaluation, and the creative application of AI.",
+        "Experience building applications on large language models (LLM) over enterprise data (e.g., Gemini, agents, RAG, vector search) and evaluating them for quality, latency and cost.",
+        "Experience migrating analytics, Spark or database workloads between platforms with measured cost or performance outcomes.",
+        "Knowledge of LLM-native metrics (e.g., tokens/sec, cost-per-request) and techniques for optimizing state management and granular tracing."
+      ],
+      "duties": [
+        "Build and ship production data and machine learning workloads with customers, writing, testing, and performance-tuning PySpark, SQL and Python on BigQuery, Managed Spark, Spanner and AlloyDB.",
+        "Present working proofs with customers’ data, including de-identifying sensitive data (e.g., PCI, PHI).",
+        "Build the data foundation for agentic solutions, including lakehouse architectures, metadata, semantic context, and the access controls that let custom agents act on trusted data.",
+        "Train, evaluate and deploy machine learning and agentic components where they improve the customer’s business metric, with evaluation and monitoring in place.",
+        "Refactor and migrate high-cost analytics, Spark and operational database workloads from other platforms onto Google Cloud engines, with measured price-performance results."
+      ],
+      "verifiedAt": "2026-11-25T14:04:55.362Z",
+      "source": "Google"
+    },
+    {
+      "id": "130401499556520646",
+      "title": "Forward Deployed Engineer, Data Cloud, Google Cloud",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/130401499556520646-forward-deployed-engineer-data-cloud-google-cloud",
+      "firstDetectedAt": "2026-11-25T14:04:54.489Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+        "5 years of experience in software engineering, data engineering, solution architecture, machine learning, or technical consulting, including coding experience in Python and SQL.",
+        "Experience with data cloud ecosystem products, technologies, or languages (e.g., Apache Spark, PySpark, BigQuery, Spanner, Data Catalog, and AlloyDB).",
+        "Experience taking production-grade data cloud solutions from conception to launch, including architecting data systems on cloud platforms (e.g., GCP) and building structured/unstructured pipelines.",
+        "Experience training, evaluating, and deploying machine learning models in production."
+      ],
+      "preferred": [
+        "Experience implementing multi-agent systems using frameworks (e.g., LangGraph, CrewAI, ADK) and complex patterns (e.g., ReAct, self-reflection, hierarchical delegation).",
+        "Knowledge of large language model (LLM)-native metrics (e.g., tokens/sec, cost-per-request) and techniques for optimizing state management and granular tracing.",
+        "Experience in prompt developing, model evaluation, and the creative application of AI.",
+        "Experience building applications on LLM over enterprise data (e.g., Gemini, agents, RAG, vector search) and evaluating them for quality, latency and cost.",
+        "Experience migrating analytics, Spark or database workloads between platforms with measured cost or performance outcomes."
+      ],
+      "duties": [
+        "Build and ship production data and machine learning workloads with customers, writing, testing, and performance-tuning PySpark, SQL and Python on BigQuery, Managed Spark, Spanner and AlloyDB.",
+        "Present working proofs with customers’ data, including de-identifying sensitive data (e.g., PCI, PHI).",
+        "Build the data foundation for agentic solutions, including lakehouse architectures, metadata, semantic context, and the access controls that let custom agents act on trusted data.",
+        "Train, evaluate and deploy machine learning and agentic components where they improve the customer’s business metric, with evaluation and monitoring in place.",
+        "Refactor and migrate high-cost analytics, Spark and operational database workloads from other platforms onto Google Cloud engines, with measured price-performance results."
+      ],
+      "verifiedAt": "2026-11-25T14:04:55.387Z",
+      "source": "Google"
+    },
+    {
+      "id": "108715629858431686",
+      "title": "Cloud Engineer, Data and AI",
+      "location": "Gurgaon, Haryana, India; Hyderabad, Telangana, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/108715629858431686-cloud-engineer-data-and-ai",
+      "firstDetectedAt": "2026-11-25T14:04:54.489Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Computer Science or equivalent practical experience.",
+        "Experience architecting and deploying enterprise-grade cloud data platforms, incorporating both streaming and batch processing workflows.",
+        "Experience writing software in Python, Scala, R, or similar.",
+        "Experience with Gemini models, ADK, Gemini Enterprise, and other google AI products."
+      ],
+      "preferred": [
+        "5 years of experience working with recommendation engines, data pipelines, or distributed machine learning.",
+        "Experience with data analytics, data visualization techniques and software, and deep learning frameworks.",
+        "Experience with core data science techniques.",
+        "Knowledge of data warehousing concepts, including data warehouse technical architectures, infrastructure components, ETL/ELT and reporting/analytic tools and environments.",
+        "Knowledge of cloud computing, including virtualization, hosted services, multi-tenant cloud infrastructures, storage systems, and content delivery networks."
+      ],
+      "duties": [
+        "Provide expert advisory on architectural frameworks and operational best practices for comprehensive Agentic platforms, encompassing deployment, monitoring, evaluation, governance, and security protocols.",
+        "Lead comprehensive artificial intelligence initiatives through strategic thought leadership, while identifying agentic workflows and designing robust architectural solutions for advanced agentic implementations.",
+        "Deliver effective big data and machine learning solutions and solve complex technical customer challenges.",
+        "Identify new product features and feature gaps, provide guidance on existing product challenges, and collaborate with Product Managers and Engineers to influence the roadmap of Google Cloud Platform.",
+        "Provide expert guidance on architectural data strategies to ensure optimized utilization across different AI models. Deliver best practices recommendations, tutorials, blog articles, and technical presentations adapting to different levels of key business and technical stakeholders."
+      ],
+      "verifiedAt": "2026-11-25T14:04:55.417Z",
+      "source": "Google"
+    },
     {
       "id": "107622429685097158",
       "title": "Design Verification Engineer, TPU, Silicon, Google Cloud",
@@ -2015,26 +1785,6 @@
       "source": "Google"
     },
     {
-      "id": "129129141264884422",
-      "title": "Post-Doctoral Researcher, PhD, DeepMind, 2026 Start (Fixed-Term Contract)",
-      "location": "Bengaluru, Karnataka, India",
-      "experience": "See job details",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/129129141264884422-post-doctoral-researcher-phd-deepmind-2026-start-fixed-term-contract",
-      "firstDetectedAt": "2026-11-24T16:09:55.593Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in a STEM field (e.g., Computer Science, Mathematics, or Statistics) or equivalent practical experience.",
-        "Experience with one or more general purpose programming languages: Python, C/C++, or Java, etc. and training deep learning models in frameworks such as JAX, TensorFlow, or PyTorch.",
-        "Research experience in machine learning or AI techniques (e.g., open source project(s), campus lab experience, research internship(s), or publication(s)).",
-        "One or more scientific publication submission(s) in AI conferences (e.g., NeurIPS, CVPR, ICCV, ICLR)."
-      ],
-      "preferred": [],
-      "duties": [],
-      "verifiedAt": "2026-11-25T13:36:57.820Z",
-      "source": "Google"
-    },
-    {
       "id": "130593924828799686",
       "title": "Staff Software Engineer, Full Stack",
       "location": "San Jose, CA, USA",
@@ -2909,31 +2659,6 @@
       "source": "Google"
     },
     {
-      "id": "91531850106708678",
-      "title": "Business Data Scientist, Legal and Global Affairs",
-      "location": "Chicago, IL, USA",
-      "experience": "See job details",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91531850106708678-business-data-scientist-legal-and-global-affairs",
-      "firstDetectedAt": "2026-11-24T16:05:23.118Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.",
-        "3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.",
-        "Experience developing generative AI solutions at a law firm, in-house legal/compliance department, or within government."
-      ],
-      "preferred": [
-        "4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree."
-      ],
-      "duties": [
-        "Support the development and implementation of data-driven solutions, with a focus on large language models (LLMs) and AI, to address business problems in Global Affairs, including providing trusted advice to policymakers, building an industry-leading regulatory and compliance system, and protecting our ability to provide high-quality products.",
-        "Work with cross-functional teams to address AI/ML challenges and opportunities, specifically leveraging LLMs for text analysis and knowledge extraction, and translating business needs into actionable analyses and evaluation metrics.",
-        "Stay current on emerging trends and best practices in data science and business analytics, with guidance."
-      ],
-      "verifiedAt": "2026-11-24T16:05:30.263Z",
-      "source": "Google"
-    },
-    {
       "id": "99496377330868934",
       "title": "Head of Product AM Hub (English, Portuguese)",
       "location": "São Paulo, Brazil",
@@ -3527,32 +3252,6 @@
       "source": "Google"
     },
     {
-      "id": "119242841661547206",
-      "title": "Thermal Engineering Intern, PhD, Summer 2027",
-      "location": "Taipei, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119242841661547206-thermal-engineering-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-11-24T10:09:16.548Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Mechanical Engineering, Thermal Engineering, or a related technical field."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience in one or more of the following areas: heat transfer, thermal management, liquid cooling.",
-        "Thermal measurements experience including the use of thermocouples, thermal test vehicles, wind tunnels, velocity probes, heat balance assessments."
-      ],
-      "duties": [
-        "Design thermal management system and subsystem board, selecting materials and collaborating with manufacturing teams and fabrication vendors.",
-        "Provide sustaining engineering support and optimize hardware design on existing products.",
-        "Work with Google platform teams and cross-functional teams on new technology and solutions."
-      ],
-      "verifiedAt": "2026-11-24T16:05:24.563Z",
-      "source": "Google"
-    },
-    {
       "id": "77680133900509894",
       "title": "Software Engineer, Health Frontier",
       "location": "Mountain View, CA, USA",
@@ -3604,38 +3303,6 @@
         "Responsibilities may vary based on specific team"
       ],
       "verifiedAt": "2026-11-24T16:05:24.645Z",
-      "source": "Google"
-    },
-    {
-      "id": "134577198026629830",
-      "title": "Business Data Scientist Intern, PhD, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-11-23T12:34:04.921Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in a quantitative discipline (e.g., statistics, biostatistics, physics, applied mathematics, operations research, economics).",
-        "Experience with statistical methods (i.e., linear models, multivariate analysis, stochastic processes, sampling methods, etc.).",
-        "Experience with statistical software (e.g., R, Python, MATLAB) and database languages (i.e., SQL)."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.",
-        "In their penultimate academic year or returning to a degree program after completion of the internship.",
-        "Proven track record of research published in ML/AI venues (e.g., NeurIPS, ICML, ICLR, KDD), with a focus on LLMs, generative AI, model evaluations, or related applied machine learning domains.",
-        "Hands-on experience designing, training, and optimizing deep learning models, with prior research or internship experience applying ML/LLMs to real-world business challenges (e.g., recommendation systems, revenue forecasting, or agent development).",
-        "Practical experience parsing, cleaning, and extracting structured insights from messy, unstructured text data (e.g., conversational transcripts, emails) and utilizing modern AI coding tools and agentic workflows (e.g., Antigravity, Cursor, Codex, Claude Code).",
-        "Practical experience with time-series forecasting, standard econometric models, and analyzing experimental data using both frequentist and Bayesian statistical techniques."
-      ],
-      "duties": [
-        "Work with large complex data sets, solve difficult non-routine analysis problems, and apply advanced analytical methods. Conduct analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.",
-        "Build and prototype analysis pipelines iteratively to provide insights at scale. Develop a comprehensive understanding of Google data structures and metrics, advocating for changes.",
-        "Interact cross-functionally, making business recommendations (e.g., cost-benefit, forecasting, experiment analysis) with effective presentations of findings at multiple levels of stakeholders through visual displays of quantitative information.",
-        "Develop and automate reports, and iteratively build and prototype dashboards to provide insights at scale, solving for business priorities.",
-        "Design and analyze controlled experiments or counterfactual causal inference studies to examine the incremental impact of business, product, or go-to-market initiatives."
-      ],
-      "verifiedAt": "2026-11-24T16:05:24.658Z",
       "source": "Google"
     },
     {
@@ -4067,34 +3734,6 @@
       "source": "Google"
     },
     {
-      "id": "98194553416098502",
-      "title": "Mechanical Engineer Intern, PhD, Summer 2027",
-      "location": "Taipei, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/98194553416098502-mechanical-engineer-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Mechanical Engineering, Applied Mechanics, Civil Engineering or a related technical field."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience in product design, validation, and CAD/CAE tools (Creo/Ansys).",
-        "Skilled in dynamic modal testing using shakers and DAQ hardware, combined with spectral analysis and signal processing in MATLAB, Python, or LabVIEW.",
-        "Excellent analytical, problem-solving, written communication, and cross-functional collaboration skills."
-      ],
-      "duties": [
-        "Perform high-fidelity simulation modeling (CAD cleanup, meshing) on complex 3D assemblies to quantify stress, deformation, and strain energy under extreme loads.",
-        "Predict natural frequencies and mode shapes. Conduct harmonic response, random vibration, and transient dynamics analyses to evaluate structural integrity under operational and shipping vibration profiles.",
-        "Plan physical vibration tests and execute Experimental Modal Analyses (EMA) using shakers, modal hammers, accelerometers, and DAQ hardware to extract Frequency Response Functions (FRFs).",
-        "Correlate simulation models with physical test data (e.g., MAC matrices). Calibrate boundary stiffness, damping, and material properties to maximize FEA accuracy."
-      ],
-      "verifiedAt": "2026-11-24T16:05:25.273Z",
-      "source": "Google"
-    },
-    {
       "id": "73308226560369350",
       "title": "Hardware Engineering Intern, 2027",
       "location": "Taipei, Taiwan",
@@ -4118,35 +3757,6 @@
         "Responsibilities may vary based on specific team."
       ],
       "verifiedAt": "2026-11-24T16:05:25.340Z",
-      "source": "Google"
-    },
-    {
-      "id": "82387470938710726",
-      "title": "Hardware Reliability Intern, PhD, Summer 2027",
-      "location": "Taipei, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82387470938710726-hardware-reliability-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-11-16T18:15:56.527Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Reliability Engineering, Mechanical Engineering, Materials Science, Electrical Engineering, or a related technical field."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience with hardware engineering concepts, specifically microelectronics packaging or printed circuit board assembly (PCBA) manufacturing.",
-        "Experience with data analysis, 3D modeling, or mechanical simulation tools.",
-        "Experience using Ansys (APDL, Workbench, Icepak) for thermomechanical modeling and simulation.",
-        "Familiarity with test, validation, and materials characterization tools such as Shadow Moiré, TMA, or DMA."
-      ],
-      "duties": [
-        "Responsibilities may vary based on specific teams.",
-        "Synthesize findings to accelerate BGA rework process optimization, supporting ML ramp expansion and ensuring hardware product reliability.",
-        "Develop localized PCB warpage modeling and identify options for optimizing the simulation meshing process.",
-        "Work with Google platform teams and cross-functional teams on new technology and solutions."
-      ],
-      "verifiedAt": "2026-11-24T16:05:25.247Z",
       "source": "Google"
     },
     {
@@ -4421,32 +4031,6 @@
       "source": "Google"
     },
     {
-      "id": "119716248828158662",
-      "title": "Software Engineer, GCE Control Plane, Early Careers, PhD",
-      "location": "Warsaw, Poland",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/119716248828158662-software-engineer-gce-control-plane-early-careers-phd",
-      "firstDetectedAt": "2026-10-26T16:56:55.806Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Electrical Engineering, Computer Engineering, Computer Science, a related field, or equivalent practical experience.",
-        "Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).",
-        "Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding)."
-      ],
-      "preferred": [
-        "2 years of experience related to infrastructure automation, cloud platforms (particularly Google Cloud/GCE), CI/CD systems, or building/maintaining large-scale testing/staging environments.",
-        "Experience in leveraging AI/ML in solving Developer Experience/DevOps related problems."
-      ],
-      "duties": [
-        "Manage API test coverage gaps discovery and test auto generation for complex compute workloads.",
-        "Create and run virtual machines on Google infrastructure.",
-        "Develop tools, frameworks, and release processes that empower Control Plane developers to efficiently release software to meet ongoing demand for new Compute feature for Google Cloud customers."
-      ],
-      "verifiedAt": "2026-11-24T16:05:25.742Z",
-      "source": "Google"
-    },
-    {
       "id": "139608513574773446",
       "title": "Junior CAD Engineer, University Graduate, Google Cloud",
       "location": "Tel Aviv, Israel",
@@ -4557,200 +4141,6 @@
       "source": "Google"
     },
     {
-      "id": "81809776362562246",
-      "title": "People Analytics Intern, PhD, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246-people-analytics-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-10-12T17:50:41.820Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD program in Industrial/Organizational Psychology, Organizational Behavior, Personality Psychology, Social Psychology or a related field.",
-        "Experience designing, developing, and conducting survey or experimental research.",
-        "Experience analyzing and manipulating data in R, Python, SQL, or other statistical programming languages."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.",
-        "Experience conducting applied research in organizations.",
-        "Topical experience in one of the following areas: performance management, individual and team-level performance and productivity, individual differences (e.g., personality traits, behaviors, well-being), selection and assessment (including relevant psychometric methods), decision science and behavior change, or quantitative text analysis.",
-        "Experience using R for statistical analysis and data visualization.",
-        "Experience in SQL or other scripting languages and experience with future-proofing code to be long-lasting (e.g., detailed documentation).",
-        "Experience with statistical analyses, including fundamentals (e.g., ANOVAs or regressions) and with one or more advanced approaches (e.g., factor analysis, network analysis, HLM, SEM)."
-      ],
-      "duties": [
-        "Work with the People Analytics team to design and implement new studies, analyze data and report on results of research initiatives to a business audience.",
-        "Communicate findings and recommendations to influence leaders to take action on the results.",
-        "Write research briefs.",
-        "Conduct statistical analysis (e.g., correlation, regression, factor analysis, T-test, ANOVA) using survey and archival data with analyses conducted in R."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.276Z",
-      "source": "Google"
-    },
-    {
-      "id": "97352132356645574",
-      "title": "Hardware Engineering Intern, PhD, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-28T16:05:35.302Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Electrical Engineering, Mechanical Engineering, Computer Engineering, Computer Science, or a related technical field."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.",
-        "In their penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience working with data center systems.",
-        "Experience with consumer electronics or device manufacturing.",
-        "Experience in one or more of the following areas: hardware system integration (board design, board bring-up), signal and power integrity, system validation, product design (mechanical/thermal), computer architecture, FPGAs, embedded systems, or memory systems (FEA or CFD), modeling or simulation for power/thermal analysis, or prototyping, testing, and debugging of data center systems in a lab environment."
-      ],
-      "duties": [
-        "Responsibilities may vary based on specific teams."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.249Z",
-      "source": "Google"
-    },
-    {
-      "id": "127950560631366342",
-      "title": "Silicon Engineer, PhD, University Graduate, 2027 Start",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/127950560631366342-silicon-engineer-phd-university-graduate-2027-start",
-      "firstDetectedAt": "2026-09-28T16:05:35.302Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Electrical Engineering, Computer Engineering, Computer Science, a related field, or equivalent practical experience.",
-        "Experience in any one domain of silicon engineering through internships, academic research, or publications: architecture and RTL, verification and validation, physical design and circuits, systems, test or CAD.",
-        "Experience with one of the hardware description languages (e.g., Verilog, SystemVerilog) or programming (e.g., Python, Tcl, Perl, or C++)."
-      ],
-      "preferred": [
-        "Research experience in specialized areas such as high-performance/low-power architectures, domain-specific accelerators (DSAs/TPUs), memory hierarchies, coherent interconnects (e.g., CXL, PCIe, UCIe, NoC), or advanced packaging/chiplets.",
-        "Experience developing and maintaining CAD/EDA design flows, methodology infrastructure, or applying ML for chip design automation.",
-        "Understanding of advanced ML/DL model architectures (e.g., Transformers, LLMs) with experience in performance modeling, cycle-accurate simulation, or custom AI accelerator evaluation.",
-        "Familiarity with industry-standard EDA tools (e.g., from Synopsys, Cadence, Siemens EDA, or emulation/formal platforms).",
-        "Demonstrated research track record and ability to work on complex, open-ended problems, with publications in conferences (e.g., ISCA, MICRO, HPCA, ASPLOS, DAC, ICCAD, ISSCC, NeurIPS, MLSys)."
-      ],
-      "duties": [
-        "Responsibilities and projects will be determined based on your background, interest, and skills.",
-        "Collaborate cross-functionally across hardware and software teams to research, design, and model custom silicon solutions and AI accelerators.",
-        "Develop, simulate, and verify architectural features, digital blocks, or subsystem interfaces targeting performance, power, and area optimizations.",
-        "Contribute to EDA design automation flows, tooling infrastructure, or post-silicon bring-up and characterization."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.304Z",
-      "source": "Google"
-    },
-    {
-      "id": "136529930677560006",
-      "title": "Silicon Engineering Intern, PhD, Summer 2027",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Electrical Engineering, Computer Engineering, Computer Science, or a related technical field.",
-        "Project or coursework experience in any one of the silicon engineering areas: architecture and RTL, verification and validation, physical design and circuits, systems, test and CAD.",
-        "Experience with scripting and programming languages such as Python, Tcl, Perl, or C++."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university terms, and also in penultimate academic year or returning to a degree program after completion of the internship.",
-        "Research experience in specialized areas such as high-performance/low-power architectures, domain-specific accelerators (DSAs/TPUs), memory hierarchies, coherent interconnects (e.g., CXL, PCIe, UCIe, NoC), or advanced packaging/chiplets.",
-        "Experience developing and maintaining CAD/EDA design flows, methodology infrastructure, or applying ML for chip design automation.",
-        "Understanding of advanced ML/DL model architectures (e.g., Transformers, LLMs) with experience in performance modeling, cycle-accurate simulation, or custom AI accelerator evaluation.",
-        "Familiarity with industry-standard EDA tools (e.g., from Synopsys, Cadence, Siemens EDA, or emulation/formal platforms).",
-        "Demonstrated research track record and ability to work on complex, open-ended problems, with publications in conferences (e.g., ISCA, MICRO, HPCA, ASPLOS, DAC, ICCAD, ISSCC, NeurIPS, MLSys)."
-      ],
-      "duties": [
-        "Responsibilities and detailed projects will be determined based on your educational background, interest, and skills."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.213Z",
-      "source": "Google"
-    },
-    {
-      "id": "117572151191446214",
-      "title": "User Experience Engineer Intern, PhD, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Computer Science, HCI, Design, or related technical field.",
-        "Experience with JavaScript, HTML, and CSS.",
-        "Experience in designing and implementing user interfaces (UIs)."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term.",
-        "In penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience with modern frontend frameworks and libraries (e.g., React, TypeScript, Angular, Vue, etc.).",
-        "Experience developing high-fidelity interactive prototypes, multimodal AI interfaces, or novel interaction models.",
-        "Experience coding in Python, TypeScript, Go, C++, Java, Swift, or Kotlin."
-      ],
-      "duties": [
-        "Work closely with UX designers, project managers and back-end engineers to implement versatile front-end solutions to web development issues.",
-        "Launch, iterate and make a difference. Provide front-end coding expertise, and help make our products better for users.",
-        "Manage your own time, and work well both independently and as part of a team.",
-        "Design, architect, and implement high-fidelity interactive prototypes exploring novel interface paradigms (e.g., multimodal AI, conversational/agentic systems, adaptive UIs)."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.261Z",
-      "source": "Google"
-    },
-    {
-      "id": "137409539979780806",
-      "title": "User Experience Research Intern, PhD, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/137409539979780806-user-experience-research-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Human Factors, Psychology, Human Computer Interaction, Cognitive Science, Computer Science, Information Science, or related field.",
-        "Internship, work, or project experience with research design utilizing various methods (e.g., usability studies, contextual inquiry, surveys, etc.)."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.",
-        "In their penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience integrating user research into product designs and design practices.",
-        "Knowledge of statistics and experimental design.",
-        "Excellent communication, negotiation, and collaboration skills."
-      ],
-      "duties": [],
-      "verifiedAt": "2026-11-24T16:05:26.541Z",
-      "source": "Google"
-    },
-    {
-      "id": "134313315235963590",
-      "title": "Student Researcher, PhD, Winter-Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher-phd-winter-summer-2027",
-      "firstDetectedAt": "2026-09-14T14:05:16.001Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural Sciences, or a related technical field.",
-        "Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas)."
-      ],
-      "preferred": [
-        "Currently enrolled in a full-time degree program and returning to the program after completion of the internship.",
-        "Currently attending a degree program in the United States.",
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing to research communities or efforts, including publishing papers in major conferences or journals.",
-        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.)."
-      ],
-      "duties": [
-        "Participate in research to develop solutions for real-world, large-scale problems."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.648Z",
-      "source": "Google"
-    },
-    {
       "id": "131518356678156998",
       "title": "Student Researcher, BS/MS, Winter-Summer 2027",
       "location": "Mountain View, CA, USA",
@@ -4809,286 +4199,6 @@
       "source": "Google"
     },
     {
-      "id": "131287072689267398",
-      "title": "Research Intern, PhD, Summer 2027",
-      "location": "Montreal, QC, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-08T11:07:25.503Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural Sciences, or related technical field.",
-        "Experience in one area of computer science (e.g., Natural Language Understanding, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Developing, or similar areas)."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Canada and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing research communities or efforts, including publishing papers in major conferences or journals.",
-        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.)."
-      ],
-      "duties": [
-        "Develop and execute a research agenda.",
-        "Contribute to a productive and innovative team, including working with peers, managers, and partner teams."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.560Z",
-      "source": "Google"
-    },
-    {
-      "id": "109976286780105414",
-      "title": "Software Engineering PhD Intern, Summer 2027",
-      "location": "Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414-software-engineering-phd-intern-summer-2027",
-      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Pursuing a PhD program with a focus in software development or other technical related field.",
-        "Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.).",
-        "Experience working in Unix/Linux environments.",
-        "Experience with data structures, algorithms, and software design."
-      ],
-      "preferred": [
-        "Research experience in algorithms, architecture, artificial intelligence, compilers, database, data mining, distributed systems, machine learning, networking, or systems.",
-        "Programming experience in one or more of the following: C/C++, C#, Java, JavaScript, Python Objective C, Go or similar.",
-        "Experience in computer science, with competencies in data structures, algorithms and software design."
-      ],
-      "duties": [
-        "Foster a culture of productivity and innovation by actively supporting your peers and managers. Collaborate across teams to ensure the continued success and evolution of the AI-driven software and large-scale systems that define our technical landscape.",
-        "Develop scalable engineering solutions for Google products.",
-        "Analyze information and evaluate results to choose the best solution to effectively solve issues.",
-        "Apply knowledge gained in computer science courses to real world challenges."
-      ],
-      "verifiedAt": "2026-11-25T13:36:58.985Z",
-      "source": "Google"
-    },
-    {
-      "id": "109375266236572358",
-      "title": "Silicon Engineering Intern, PhD, Summer 2027",
-      "location": "Bengaluru, Karnataka, India; Hyderabad, Telangana, India",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358-silicon-engineering-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-09-07T12:17:20.862Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently pursuing a PhD degree in Computer Engineering, Computer Science, Electronics and Communication Engineering, Electrical Engineering, or a related technical field.",
-        "Experience in programming languages (e.g., C++, Python, Verilog, UVM), Synopsys, and Cadence tools.",
-        "Experience in one or more of the following areas: hardware system integration, product design, computer architecture, digital design verification, digital circuits, ASIC physical design, FPGAs, embedded systems, memory systems."
-      ],
-      "preferred": [
-        "Currently attending a degree program in India and available to work full time for 12 weeks outside of university term time.",
-        "Experience with performance modeling tools, C++, Python or silicon design tools in front end/design verification/physical design.",
-        "Knowledge of arithmetic units, bus architectures, accelerators or memory hierarchies, computer architecture, linear algebra, or ML/DL background.",
-        "Knowledge of high performance and low power design techniques."
-      ],
-      "duties": [
-        "Responsibilities may vary based on specific teams."
-      ],
-      "verifiedAt": "2026-11-25T13:36:59.012Z",
-      "source": "Google"
-    },
-    {
-      "id": "74389446190867142",
-      "title": "Data Science PhD Intern, 2027",
-      "location": "Warsaw, Poland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/74389446190867142-data-science-phd-intern-2027",
-      "firstDetectedAt": "2026-09-03T13:35:22.947Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD program in statistics, biostatistics, computer science, mathematics, operations research, or a related technical field involving experimental design and quantitative analysis of experimental data, and in your penultimate year of study.",
-        "Experience working with datasets using Python, R, SAS, MATLAB, or other statistical software.",
-        "Experience with methods of statistical data analysis (e.g., linear models, hypothesis testing, multi-level models, Bayesian methods, etc.)."
-      ],
-      "preferred": [
-        "Experience with causal inference methods.",
-        "Experience developing intellectual capital such as peer-reviewed publications.",
-        "Ability to complete an internship of 13 weeks in Poland starting between May-July 2027."
-      ],
-      "duties": [
-        "Provide research on topics including Google's business model and search techniques.",
-        "Produce quantitative and qualitative modeling of business dynamics, user behavior, and more.",
-        "Identify areas for further investigation as well as creating innovative methods of analysis."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.617Z",
-      "source": "Google"
-    },
-    {
-      "id": "91436104816698054",
-      "title": "Software Engineering Intern, PhD, Summer 2026",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026",
-      "firstDetectedAt": "2026-08-24T09:57:40.810Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Pursuing a PhD program in Computer Science or a related technical field.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Java, or Python."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.",
-        "In their penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience conducting research in Algorithms, Architecture, Artificial Intelligence, Compilers, Database, Data Mining, Distributed Systems, Machine Learning, Networking, or Systems.",
-        "Experience in computer science, data structures, algorithms, and software design."
-      ],
-      "duties": [
-        "Develop scripts to automate routine tasks.",
-        "Analyze information and evaluate results to choose the best solution to effectively solve issues.",
-        "Apply knowledge gained in computer science courses to real world challenges.",
-        "Create and support a productive and innovative team including working with peers, managers, and teams."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.056Z",
-      "source": "Google"
-    },
-    {
-      "id": "84680705375642310",
-      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
-      "firstDetectedAt": "2026-08-24T09:00:12.751Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, a related field, or equivalent practical experience.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.",
-        "Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization."
-      ],
-      "preferred": [
-        "Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems.",
-        "Experience in designing and implementing a complex system, for production or experimental use.",
-        "Experience with performance, reliability, systems data analysis, visualization tools, or debugging.",
-        "Experience coding in Rust.",
-        "Availability to start in a full-time role in 2027."
-      ],
-      "duties": [
-        "Participate in or lead team projects to carry out design, analysis, and development of advanced systems across the stack, using your research expertise.",
-        "Write documents that set new technical directions. Contribute to existing documentation or educational content, and adapt content based on product/program updates and user feedback.",
-        "Study, diagnose and resolve complex technical issues by analyzing the sources of the issues and the impact on software, hardware, network, or service operations and quality.",
-        "Develop code, review code developed by other developers, and provide feedback to ensure best practices (e.g., style guidelines, accuracy, testability, and efficiency)."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.920Z",
-      "source": "Google"
-    },
-    {
-      "id": "112518690523488966",
-      "title": "Software Developer Intern, PhD, Summer 2027",
-      "location": "Waterloo, ON, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-08-24T09:00:12.751Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Pursuing a PhD program with a focus on subjects in software development or other technical related fields.",
-        "Experience coding in one of the following programming languages including but not limited to: C, C++, Java, or Python."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Canada and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience conducting research in algorithms, architecture, artificial intelligence, compilers, database, data mining, distributed systems, machine learning, networking, or systems.",
-        "Experience in computer science, data structures, algorithms, and software design."
-      ],
-      "duties": [
-        "Create and support a productive and innovative team, including working with peers, managers, and teams.",
-        "Develop scripts to automate routine tasks.",
-        "Apply knowledge gained in computer science courses to real world issues.",
-        "Analyze information and evaluate results to choose the best solution to effectively solve problems."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.997Z",
-      "source": "Google"
-    },
-    {
-      "id": "123087196289671878",
-      "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-      "location": "Sunnyvale, CA, USA",
-      "experience": "Early career",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
-      "firstDetectedAt": "2026-08-24T08:03:06.229Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "PhD degree in Computer Science, Artificial Intelligence, Machine Learning, or related technical field, or equivalent practical experience.",
-        "Experience coding in one of the following programming languages including but not limited to: Python, C, C++, Java, JavaScript or Golang.",
-        "Experience in Machine Learning or Artificial Intelligence."
-      ],
-      "preferred": [
-        "Research experience in designing, developing, or applying ML/AI systems or applications in a large-scale distributed environment.",
-        "Experience in designing, training, or refining complex ML/AI models.",
-        "Experience in building a stack for an AI-powered application, including data ingestion and processing pipelines, building APIs, and connecting the model to a user-facing interface.",
-        "Familiarity with model architectures (CNNs, NLP Transformers, Diffusion/Vision Transformers).",
-        "Experience developing with Rust and modern deep learning frameworks such as PyTorch, JAX, or TensorFlow.",
-        "Availability to start in a full-time role in 2027."
-      ],
-      "duties": [
-        "Collaborate or lead on team projects to carry out design, analysis, and development of advanced ML systems across the stack using your research expertise.",
-        "Support building end-to-end ML Systems that involves working across the full stack, from low-level hardware acceleration and compiler optimizations to high-level model architecture and production APIs, transforming your research expertise into robust, scalable products.",
-        "Optimize complex system performance by analyzing and fixing performance bottlenecks, memory inefficiencies, and errors in production systems to meet stringent customer goals.",
-        "Elevate engineering excellence by writing well-tested code, conducting code reviews and fostering a culture of quality by advocating best engineering practices."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.907Z",
-      "source": "Google"
-    },
-    {
-      "id": "86701057991680710",
-      "title": "Research Intern, PhD, Summer 2027",
-      "location": "Mountain View, CA, USA",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-08-24T08:03:06.229Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural Sciences, or related technical field.",
-        "Experience in one area of computer science (e.g., Natural Language Understanding, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas)."
-      ],
-      "preferred": [
-        "Currently attending a degree program in the US and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing research communities or efforts, including publishing papers in major conferences or journals.",
-        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.)."
-      ],
-      "duties": [
-        "Develop and execute a research agenda.",
-        "Contribute to a productive and innovative team, including working with peers, managers, and partner teams."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.947Z",
-      "source": "Google"
-    },
-    {
-      "id": "104496653687235270",
-      "title": "Research Intern, PhD, Summer 2027",
-      "location": "Montreal, QC, Canada",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104496653687235270-research-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-08-24T08:03:06.229Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, Natural Sciences, or related technical field.",
-        "Experience in one area of computer science (e.g., Natural Language Understanding, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Developing, or similar areas)."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Canada and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing research communities or efforts, including publishing papers in major conferences or journals.",
-        "Experience with one or more general purpose programming languages (e.g., Python, Java, JavaScript, C/C++, etc.)."
-      ],
-      "duties": [
-        "Develop and execute a research agenda.",
-        "Contribute to a productive and innovative team, including working with peers, managers, and partner teams."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.976Z",
-      "source": "Google"
-    },
-    {
       "id": "121178240002728646",
       "title": "Software Engineer, People with Disabilities",
       "location": "Belo Horizonte, State of Minas Gerais, Brazil",
@@ -5112,67 +4222,6 @@
       "source": "Google"
     },
     {
-      "id": "104551723757904582",
-      "title": "Software Engineering Intern, PhD, Summer 2027",
-      "location": "Taipei, Taiwan",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/104551723757904582-software-engineering-intern-phd-summer-2027",
-      "firstDetectedAt": "2026-08-20T07:52:36.952Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD program with a focus on subjects in software development or other technical related fields.",
-        "Experience in software development and coding in one or more of the following: Python or C++.",
-        "Experience with data structures or algorithms gathered from inside or outside of school or work."
-      ],
-      "preferred": [
-        "Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.",
-        "Penultimate academic year or returning to a degree program after completion of the internship.",
-        "Programming experience in one or more of the following: C/C++, Python, CUDA.",
-        "Research experience in computer architecture, embedded systems, accelerators, artificial intelligence, computer vision, distributed systems, machine learning, data science, LLM, rule base or systems.",
-        "Experience in computer science, with competencies in data structures, algorithms and software design."
-      ],
-      "duties": [
-        "Develop software for Google Cloud’s infrastructure to empower Google service and external cloud customers, with hardware platforms including compute, storage, or AI-accelerators like TPUs and GPUs.",
-        "Create and support a productive and innovative team including working with peers, managers, and teams.",
-        "Analyze data and evaluate results to choose the best solution to effectively solve issues.",
-        "Develop scripts or use AI to automate routine tasks and manual processes.",
-        "Apply knowledge gained in computer science courses to real world issues."
-      ],
-      "verifiedAt": "2026-11-24T16:05:26.935Z",
-      "source": "Google"
-    },
-    {
-      "id": "93078491720753862",
-      "title": "Software Engineering PhD Intern, 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/93078491720753862-software-engineering-phd-intern-2027",
-      "firstDetectedAt": "2026-08-18T09:57:48.753Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.",
-        "Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).",
-        "Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.)."
-      ],
-      "preferred": [
-        "Relevant practical or internship experience (e.g., research assistant, teaching assistant, personal projects, etc) with programming in either: C++, Java, Python, or Go.",
-        "Research experience in algorithms, architecture, artificial intelligence, compilers, database, data mining, distributed systems, machine learning, networking, or systems.",
-        "Relevant practical or internship experience with one or more of the following: web application development, Unix/Linux, mobile application development, distributed and parallel systems, machine learning, information retrieval, NLP, networking, developing large software systems, or security software development.",
-        "Ability to complete a 13-17 week full-time internship in Switzerland or Germany starting in either May, June or July 2027."
-      ],
-      "duties": [
-        "Research, conceive and develop software applications to extend and improve on Google's product offering.",
-        "Contribute to a wide variety of projects using natural language processing, artificial intelligence, data compression, machine learning, and search technologies.",
-        "Collaborate on scalability issues involing access to data and information.",
-        "Utilise exposure to large-scale production software troubleshooting.",
-        "Help maintain mission critical services."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.349Z",
-      "source": "Google"
-    },
-    {
       "id": "135157584154763974",
       "title": "Software Engineer (For Women in Tech Candidates)",
       "location": "Belo Horizonte, State of Minas Gerais, Brazil",
@@ -5193,235 +4242,6 @@
         "Provide technical leadership and team development."
       ],
       "verifiedAt": "2026-11-24T16:05:27.631Z",
-      "source": "Google"
-    },
-    {
-      "id": "107087730147500742",
-      "title": "Software Engineering PhD Intern, 2027",
-      "location": "Warsaw, Poland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107087730147500742-software-engineering-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T14:04:39.039Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.",
-        "Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).",
-        "Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.)."
-      ],
-      "preferred": [
-        "Relevant practical or internship experience (e.g., research assistant, teaching assistant, personal projects, etc) with programming in either: C++, Java, Python, or Go.",
-        "Research experience in algorithms, architecture, artificial intelligence, compilers, database, data mining, distributed systems, machine learning, networking, or systems.",
-        "Relevant practical or internship experience with one or more of the following: web application development, Unix/Linux, mobile application development, distributed and parallel systems, machine learning, information retrieval, NLP, networking, developing large software systems, or security software development.",
-        "Ability to complete a 13-17 week full-time internship in the Poland starting in either May, June or July 2027."
-      ],
-      "duties": [
-        "Research, conceive and develop software applications to extend and improve on Google's product offering.",
-        "Contribute to a wide variety of projects using natural language processing, artificial intelligence, data compression, machine learning, and search technologies",
-        "Collaborate on scalability issues involing access to data and information.",
-        "Utilise exposure to large-scale production software troubleshooting.",
-        "Help maintain mission critical services."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.366Z",
-      "source": "Google"
-    },
-    {
-      "id": "74922616988541638",
-      "title": "Part-Time Software Engineering PhD Intern, 2027",
-      "location": "Tel Aviv, Israel",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/74922616988541638-part-time-software-engineering-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.",
-        "Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding)",
-        "Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.)"
-      ],
-      "preferred": [
-        "Relevant practical or internship experience (e.g., research assistant, teaching assistant, personal projects, etc) with programming in either: C++, Java, Python, or Go.",
-        "Research experience in algorithms, architecture, artificial intelligence, compilers, database, data mining, distributed systems, machine learning, networking, or systems.",
-        "Relevant practical or internship experience with one or more of the following: web application development, Unix/Linux, mobile application development, distributed and parallel systems, machine learning, information retrieval, NLP, networking, developing large software systems, or security software development.",
-        "Ability to complete a minimum 26 week internship in Israel starting between March - May 2027."
-      ],
-      "duties": [
-        "Research, conceive and develop software applications to extend and improve on Google's product offering.",
-        "Contribute to a wide variety of projects using natural language processing, artificial intelligence, data compression, machine learning, and search technologies",
-        "Collaborate on scalability issues involing access to data and information.",
-        "Utilise exposure to large-scale production software troubleshooting.",
-        "Help maintain mission critical services."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.313Z",
-      "source": "Google"
-    },
-    {
-      "id": "88486192428786374",
-      "title": "Part-Time Research Scientist PhD Intern, 2027",
-      "location": "Tel Aviv, Israel",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/88486192428786374-part-time-research-scientist-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science or a related technical field in Israel, and in your penultimate/final year of education.",
-        "Experience in one or more Research areas; Natural Language Understanding/Processing, Computer Vision, LLMs, Machine Learning, Algorithmic Foundations of Optimization, Data Mining, Machine Intelligence, AI/ML Algorithms, Deep Learning or Image Processing, multimodal, multilingual and reinforcement learning.",
-        "Experience and profiency in one or more general purpose programming languages: Java, C++, Python, or Go.",
-        "Experience with research from previous internships, full-time industry experience, personal projects, lab work, or published papers (being listed as author)."
-      ],
-      "preferred": [
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing to research communities or efforts, including publishing papers in conferences or journals.",
-        "Ability to design and execute on research agendas.",
-        "Ability to complete a 26 week internship in Israel starting between March to May 2027."
-      ],
-      "duties": [
-        "Participate in research to develop solutions for real-world, large-scale problems.",
-        "Research, conceive, and develop software applications to extend and improve on Google's product offering.",
-        "Contribute to a wide variety of projects utilising natural language processing, artificial intelligence, data compression, machine learning, and search technologies."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.298Z",
-      "source": "Google"
-    },
-    {
-      "id": "73321728058499782",
-      "title": "Data Science PhD Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782-data-science-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD program in Statistics, Biostatistics, Computer Science, Mathematics, Operations Research, or a related technical field involving experimental design and quantitative analysis of experimental data, and in your penultimate year of study.",
-        "Experience working with datasets using Python, R, SAS, MATLAB, or other statistical software.",
-        "Experience with methods of statistical data analysis (e.g., linear models, hypothesis testing, multi-level models, Bayesian methods, etc.)."
-      ],
-      "preferred": [
-        "Experience with causal inference methods.",
-        "Experience developing intellectual capital such as peer-reviewed publications.",
-        "Ability to complete a minimum internship 13 weeks in the UK starting between May-July 2027."
-      ],
-      "duties": [
-        "Provide research on topics including Google's business model and search techniques.",
-        "Produce quantitative and qualitative modeling of business dynamics, user behavior, and more.",
-        "Identify areas for further investigation as well as creating innovative methods of analysis."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.336Z",
-      "source": "Google"
-    },
-    {
-      "id": "77684590197514950",
-      "title": "Data Science PhD Intern, 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/77684590197514950-data-science-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T13:36:17.880Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD program in Statistics, Biostatistics, Computer Science, Mathematics, Operations Research, or a related technical field involving experimental design and quantitative analysis of experimental data, and in your penultimate year of study.",
-        "Experience working with datasets using Python, R, SAS, MATLAB, or other statistical software.",
-        "Experience with methods of statistical data analysis (e.g., linear models, hypothesis testing, multi-level models, Bayesian methods, etc.)."
-      ],
-      "preferred": [
-        "Experience with causal inference methods.",
-        "Experience developing intellectual capital such as peer-reviewed publications.",
-        "Ability to complete a minimum 13 weeks internship in Switzerland starting between May-July 2027."
-      ],
-      "duties": [
-        "Provide research on topics including Google's business model and search techniques.",
-        "Produce quantitative and qualitative modeling of business dynamics, user behavior, and more.",
-        "Identify areas for further investigation as well as creating innovative methods of analysis."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.379Z",
-      "source": "Google"
-    },
-    {
-      "id": "133355062935069382",
-      "title": "Hardware/Silicon Engineering PhD Intern, 2027",
-      "location": "Tel Aviv, Israel",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/133355062935069382-hardware-silicon-engineering-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T12:52:43.696Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Electrical Engineering, Computer Engineering or a related technical field in Israel, and in your second or final year of education.",
-        "Relevant practical or internship experience working in C++ programming.",
-        "Relevant practical research or internship experience with one or more of the following: architectural modeling, simulation, or developing software for high-performance computing.",
-        "Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).",
-        "Ability to communicate in English fluently, to support client relationship management in this region."
-      ],
-      "preferred": [
-        "Relevant practical or internship experience, or personal project experience in hardware or electrical engineering.",
-        "Coding experience in one or more of the following programming languages: Python, C, C++, Java, JavaScript.",
-        "Ability to complete a 13-17 week full-time internship in Israel starting in either May, June or July 2027."
-      ],
-      "duties": [
-        "Responsibilities and detailed projects will be determined based on your educational background, interest, and skills."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.390Z",
-      "source": "Google"
-    },
-    {
-      "id": "111285665542349510",
-      "title": "Research Scientist PhD Intern, 2027",
-      "location": "Zürich, Switzerland",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/111285665542349510-research-scientist-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T12:52:43.696Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.",
-        "Experience in one or more Research areas: Natural Language Understanding/Processing, Computer Vision, LLMs, Algorithmic Foundations of Optimization, Data Mining, Machine Intelligence, AI/ML Algorithms, Deep Learning or Image Processing, multimodal, multilingual and reinforcement learning.",
-        "Experience and profiency in one or more general purpose programming languages: Java, C++, Python, or Go.",
-        "Experience with research from previous internships, full-time industry experience, personal projects, lab work, or published papers (being listed as author)."
-      ],
-      "preferred": [
-        "Experience as a researcher, including internships, full-time, or at a lab.",
-        "Experience contributing to research communities or efforts, including publishing papers in conferences or journals.",
-        "Ability to design and execute on research agendas.",
-        "Ability to complete a 13-17 week full-time internship in Switzerland, France or Germany starting in either May, June or July 2027."
-      ],
-      "duties": [
-        "Participate in research to develop solutions for real-world, large-scale problems.",
-        "Research, conceive, and develop software applications to extend and improve on Google's product offering.",
-        "Contribute to a wide variety of projects utilizing natural language processing, artificial intelligence, data compression, machine learning, and search technologies."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.893Z",
-      "source": "Google"
-    },
-    {
-      "id": "80037545080955590",
-      "title": "Software Engineering or SRE, PhD Intern, 2027",
-      "location": "London, UK",
-      "experience": "0–1 year experience mentioned",
-      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590-software-engineering-or-sre-phd-intern-2027",
-      "firstDetectedAt": "2026-08-17T12:52:43.696Z",
-      "postingDate": "Not published by Google",
-      "expiryDate": "Not listed",
-      "required": [
-        "Currently enrolled in a PhD degree in Computer Science or a related technical field in the EMEA region, and in your penultimate/final year of education.",
-        "Experience working with data structures and algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).",
-        "Experience with one or more general purpose programming languages (e.g., Java, C/C++, Python, JavaScript, Go, etc.)."
-      ],
-      "preferred": [
-        "Relevant practical or internship experience (e.g., research assistant, teaching assistant, personal projects, etc.) with programming in either: C++, Java, Python, or Go.",
-        "Research experience in algorithms, architecture, artificial intelligence, compilers, database, data mining, distributed systems, machine learning, networking, or systems.",
-        "Relevant practical or internship experience with one or more of the following: web application development, Unix/Linux, mobile application development, distributed and parallel systems, machine learning, information retrieval, NLP, networking, developing large software systems, or security software development.",
-        "Ability to complete a 13-17 week full-time internship in the UK starting in either May, June or July 2027."
-      ],
-      "duties": [
-        "Research, conceive and develop software applications to extend and improve on Google's product offering.",
-        "Contribute to a wide variety of projects using natural language processing, artificial intelligence, data compression, machine learning, and search technologies.",
-        "Collaborate on scalability issues involving access to data and information.",
-        "Utilize exposure to large-scale production software troubleshooting.",
-        "Help maintain mission critical services."
-      ],
-      "verifiedAt": "2026-11-24T16:05:27.927Z",
       "source": "Google"
     },
     {
@@ -5460,10 +4280,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-10-31T17:52:49.407Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-10-31T20:56:37.964Z",
       "result": "Found 78 matching roles; 0 new opening(s)"
@@ -5859,7 +4675,11 @@
     {
       "checkedAt": "2026-11-25T13:36:55.971Z",
       "result": "Found 34 matching roles; 6 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-25T14:04:54.489Z",
+      "result": "Found 21 matching roles; 3 new opening(s)"
     }
   ],
-  "searchCursor": 20
+  "searchCursor": 22
 }
