@@ -4,3 +4,4 @@ article[hidden]{display:none}
 .match{font-size:.82rem;font-weight:650;border:1px solid var(--rule);color:var(--muted);border-radius:1rem;padding:.12rem .65rem}
 .match[data-tier="Strong"]{background:#203e2c;color:#b4f0c7}.match[data-tier="Borderline"]{background:#3b3221;color:#f6d591}.match[data-tier="Stretch"]{background:#392b39;color:#edbde2}
 #match-note{font-size:.88rem}
+#remember-matches,#forget-matches{font:inherit;font-size:.88rem;color:var(--mint);background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:.35rem .7rem;cursor:pointer}

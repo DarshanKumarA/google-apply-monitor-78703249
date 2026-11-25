@@ -19,12 +19,16 @@ After the secrets are set, open your repository on GitHub, choose **Actions**, a
 
 ## Local testing
 
-The India openings tracker filters senior titles and doctoral requirements before ranking.
+The India openings tracker excludes senior titles, postgraduate-only paths and
+experience minimums over twelve months before ranking. Preferred qualifications
+are not hard exclusions. No numeric minimum stated is not a promise of zero experience.
 On the public site, résumé badges are locked. In the private matchroom, open
 `Rankings.md` and select **Open tracker with my match statuses**. The personal link
 unlocks Strong, Borderline and Stretch badges for that scan in both folders.
-Treat it as a password; share the ordinary dashboard URL instead. The browser
-does not save the key. Reopen the personal link after refreshing or closing the tab.
+Treat it as a password; share the ordinary dashboard URL instead. Optionally choose
+**Remember on this device** after unlocking. A non-exportable decryption key is
+stored in this browser's IndexedDB. Anyone using the same browser profile can
+see the ratings until you choose **Forget this device**. Without opt-in, access is per visit.
 Only encrypted ID-to-tier data goes into the public Pages artifact, not résumé text.
 To revoke a leaked link, replace the private room's `.match-key` with a freshly generated
 32-byte base64url key (or delete it there) and run the monitor to republish.

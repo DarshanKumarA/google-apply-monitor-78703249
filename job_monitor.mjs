@@ -20,7 +20,7 @@ function loadState() {
 }
 function saveState(state) { fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`); }
 function publish(data) {
-  const visible = job => inIndia(job) && isEligible(job);
+  const visible = job => inIndia(job) && job.required?.length && isEligible(job);
   data = {...data, initial: data.initial.filter(visible), newOpenings: data.newOpenings.filter(visible)};
   fs.mkdirSync("public", { recursive: true });
   fs.writeFileSync("public/jobs.json", `${JSON.stringify(data, null, 2)}\n`);
@@ -153,7 +153,7 @@ try {
   const enriched = [];
   for (let index = 0; index < discovered.length; index += 8) {
     const batch = await Promise.all(discovered.slice(index, index + 8).map(job => enrich(job, checkedAt)));
-    enriched.push(...batch.filter(job => job && isEligible(job)));
+    enriched.push(...batch.filter(job => job?.required?.length && isEligible(job)));
   }
 
   if (!state.initializedAt) {

@@ -12,7 +12,9 @@
     <a href="https://github.com/DarshanKumarA/google-careers-matchroom/upload/main">Upload résumé PDF ↗</a><small>Any filename. Your latest PDF is used.</small></aside></section>
   <div class="toolbar"><div class="tabs"><a id="new" href="jobs.html" {{newTab}}>New openings</a><a id="baseline" href="jobs-archive.html" {{archiveTab}}>Initial archive</a></div>
     <label>Search roles <input type="search" id="search" placeholder="Title, location or skill"></label></div>
-  <p id="match-note" role="status">To see your résumé match on each opening, open “My recommendations” and choose “Open tracker with my match statuses”.</p>
+  <p id="match-note" role="status">Cards show the experience minimum from the JD. For personal ratings, open “My recommendations” → “Open tracker with my match statuses”.</p>
+  <button id="remember-matches" type="button" hidden>Remember on this device</button>
+  <button id="forget-matches" type="button" hidden>Forget this device</button>
   <p id="count" role="status" data-folder="{{label}}">{{count}} of {{count}} openings {{label}}</p><section class="grid" id="jobs" aria-label="Job openings">{{cards}}</section><p id="empty" {{hidden}}>No openings in this collection yet.</p>
   <details id="scan-history"><summary>India scan history</summary><ol id="history">{{history}}</ol></details>
 </main>

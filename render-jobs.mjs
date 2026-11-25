@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {experienceLabel} from './eligibility.mjs';
 
 const stamp = new Intl.DateTimeFormat('en-IN', {timeZone:'Asia/Kolkata', year:'numeric', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'});
 const escape = value => String(value ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[ch]));
@@ -12,7 +13,8 @@ function card(job) {
     ? `<a href="${escape(job.jobUrl)}">View Google posting ↗</a>` : '';
   return `<article data-search="${escape([job.title, job.location, skills].join(' '))}">
     <h2>${escape(job.title)}</h2><p>${escape(job.location)}</p>
-    <span class="match" data-job-id="${escape(job.id)}">Résumé match · Private</span>
+    <span class="match">${escape(experienceLabel(job))}</span>
+    <span class="match" data-job-id="${escape(job.id)}" hidden></span>
     <time>First found ${localTime(job.firstDetectedAt)}</time>
     <p>Posted · ${escape(job.postingDate || 'Unavailable')}</p>
     <p>Application window · ${escape(job.expiryDate || 'Unavailable')}</p>${link}</article>`;
