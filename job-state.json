@@ -411,7 +411,13 @@
     "78185965083861702": "2026-11-24T16:22:57.555Z",
     "81088695108543174": "2026-11-24T16:22:57.555Z",
     "102333046463570630": "2026-11-24T16:22:57.555Z",
-    "111448128854336198": "2026-11-24T20:39:46.992Z"
+    "111448128854336198": "2026-11-24T20:39:46.992Z",
+    "107622429685097158": "2026-11-25T13:36:55.971Z",
+    "85187811895845574": "2026-11-25T13:36:55.971Z",
+    "108487064583840454": "2026-11-25T13:36:55.971Z",
+    "123542917821145798": "2026-11-25T13:36:55.971Z",
+    "85570429057409734": "2026-11-25T13:36:55.971Z",
+    "82108273099973318": "2026-11-25T13:36:55.971Z"
   },
   "baseline": [
     {
@@ -548,7 +554,7 @@
         "Develop and adopt advanced AI/ML capabilities, drive accelerated and efficient design verification strategies and implementations.",
         "Use AI techniques for faster and optimal physical design convergence -timing, floor planning, power grid and clock tree design etc. Investigate, validate, and optimize DFT, post-silicon test, and debug strategies, contributing to the advancement of silicon bring-up and qualification processes."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.613Z",
+      "verifiedAt": "2026-11-25T13:36:56.360Z",
       "source": "Google"
     },
     {
@@ -582,7 +588,7 @@
         "Investigate, diagnose, and resolve technical issues by analyzing root causes and impact.",
         "Write and review code, ensuring adherence to best practices in style, accuracy, testability, and efficiency."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.587Z",
+      "verifiedAt": "2026-11-25T13:36:56.383Z",
       "source": "Google"
     },
     {
@@ -616,7 +622,7 @@
         "Contribute to team-level technical decisions and participate in broader engineering community efforts such as interviewing and knowledge sharing.",
         "Ensure the production health, monitoring, and on-call support for hybrid connectivity services. Drive initiatives to improve system reliability, observability, and supportability, potentially leveraging AI/ML for enhanced operational insights."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.600Z",
+      "verifiedAt": "2026-11-25T13:36:56.307Z",
       "source": "Google"
     },
     {
@@ -650,7 +656,7 @@
         "Investigate, diagnose, and resolve technical issues by analyzing root causes and impact.",
         "Write and review code, ensuring adherence to best practices in style, accuracy, testability, and efficiency."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.567Z",
+      "verifiedAt": "2026-11-25T13:36:56.333Z",
       "source": "Google"
     },
     {
@@ -682,7 +688,7 @@
         "Improve the reliability, scale, and performance of backup and replication solutions while maintaining healthy release cycles.",
         "Work closely with partners and internal stakeholders to translate complex engineering and research efforts into enhanced customer satisfaction and tangible business growth."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.977Z",
+      "verifiedAt": "2026-11-25T13:36:56.563Z",
       "source": "Google"
     },
     {
@@ -710,7 +716,7 @@
       "duties": [
         "Develop kernel drivers for the various Infrastructure Processing Units (IPUs)/Network Interface Cards (NICs) in our portfolio, and ensuring that end-to-end systems built with these devices achieve the scale, reliability, performance expected of networking, and that such systems interact well within the Google Cloud ecosystem."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.963Z",
+      "verifiedAt": "2026-11-25T13:36:56.610Z",
       "source": "Google"
     },
     {
@@ -739,7 +745,7 @@
         "Implement, deploy, and rollout features following safe rollout practices.",
         "Interact with users, partner teams for feature scoping, rollout support, and training."
       ],
-      "verifiedAt": "2026-11-24T16:05:23.951Z",
+      "verifiedAt": "2026-11-25T13:36:56.594Z",
       "source": "Google"
     },
     {
@@ -966,6 +972,197 @@
   ],
   "newOpenings": [
     {
+      "id": "107622429685097158",
+      "title": "Design Verification Engineer, TPU, Silicon, Google Cloud",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/107622429685097158-design-verification-engineer-tpu-silicon-google-cloud",
+      "firstDetectedAt": "2026-11-25T13:36:55.971Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Electrical Engineering or equivalent practical experience.",
+        "4 years of experience in verification, verifying digital logic at RTL level using SystemVerilog or Specman/E for Field Programmable Gate Arrays (FPGAs) or ASICs.",
+        "Experience verifying digital systems using standard IP components/interconnects (e.g., microprocessor cores, hierarchical memory subsystems).",
+        "Experience in verification and debug of IP/subsystem/SoCs in the networking domain such as packet processing, bandwidth management, congestion control."
+      ],
+      "preferred": [
+        "Master's degree in Electrical Engineering or a related field.",
+        "Experience with industry-standard simulators, revision control systems, and regression systems.",
+        "Experience in Artificial Intelligence/Machine Learning (AI/ML) accelerators or vector processing units.",
+        "Experience with the full verification life-cycle.",
+        "Excellent problem-solving and communication skills."
+      ],
+      "duties": [
+        "Plan the verification of digital design blocks and interact with design engineers to identify important verification scenarios.",
+        "Identify and write all types of coverage measures for stimulus and corner-cases.",
+        "Debug tests with design engineers to deliver functionally correct design blocks.",
+        "Measure to identify verification holes and to show progress towards tape-out.",
+        "Create a constrained-random verification environment using SystemVerilog and Universal Verification Methodology (UVM)."
+      ],
+      "verifiedAt": "2026-11-25T13:36:59.820Z",
+      "source": "Google"
+    },
+    {
+      "id": "85187811895845574",
+      "title": "Enforcement Detection Analyst, YouTube, Trust and Safety",
+      "location": "Hyderabad, Telangana, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85187811895845574-enforcement-detection-analyst-youtube-trust-and-safety",
+      "firstDetectedAt": "2026-11-25T13:36:55.971Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "2 years of experience in data analysis, including identifying trends, generating summary statistics, and drawing insights from quantitative and qualitative data.",
+        "2 years of experience managing projects and defining project scope, goals, and deliverables."
+      ],
+      "preferred": [
+        "Master's degree in Engineering, Computer Science, Mathematics, Statistics, a related technical field, or equivalent practical experience.",
+        "Experience or demonstrated interest in anti-abuse operations at scale.",
+        "Track record of leveraging Large Language Models (LLMs) and generative AI technologies to solve business problems.",
+        "Ability to work with a variety of stakeholders to gather requirements, explain models and iterate to make improvements.",
+        "Excellent problem-solving and analytical abilities with a history of going above and beyond to make operational improvements and solve tough problems.",
+        "Excellent written and verbal communication skills."
+      ],
+      "duties": [
+        "Develop and implement strategies and solutions to enforce YouTube policies at scale. Provide data-driven insights and recommendations for effective abuse prevention and enforcement. Leverage Machine Learning and AI, as appropriate.",
+        "Collaborate closely with stakeholders and partners in Engineering, Product, Policy and Operations to drive complex anti-abuse solutions involving and impacting various cross-functional areas.",
+        "Provide rapid incident response for abuse problems, operating independently. Analyze and draw conclusions on root-causes and define and implement mitigation steps.",
+        "Learn complex and technical concepts and systems and deliver meaningful results using them. Communicate technical results and methods clearly.",
+        "Design and refine LLM solutions and agents to improve accuracy of identifying and classifying abusive content and behavior."
+      ],
+      "verifiedAt": "2026-11-25T13:36:59.919Z",
+      "source": "Google"
+    },
+    {
+      "id": "108487064583840454",
+      "title": "Web Solutions Engineer, YouTube Business Technology",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/108487064583840454-web-solutions-engineer-youtube-business-technology",
+      "firstDetectedAt": "2026-11-25T13:36:55.971Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Computer Science, Electrical Engineering, Math or related quantitative field, or equivalent practical experience in software development.",
+        "4 years of experience in full-stack software development and system design.",
+        "Experience with front end languages (e.g., JavaScript or TypeScript).",
+        "Experience with backend languages (e.g., Java, Python, or C++).",
+        "Experience working with database technologies (e.g., SQL, NoSQL)."
+      ],
+      "preferred": [
+        "4 years of experience designing and optimizing databases.",
+        "4 years of experience with cloud, containerized, or microservice architectures.",
+        "Ability to manage ambiguous requirements and influence both technical and non-technical stakeholders",
+        "Strong systems fundamentals with experience working with agentic AI frameworks and LLM tooling (e.g., LLMs, Agentic harnesses, Vector Embeddings, and RAG)."
+      ],
+      "duties": [
+        "Design, build, deploy, and improve scalable, and modern full-stack web applications using software development tools. This may include ensuring reliable backends, building pipelines to aggregate data from multiple sources, implementing responsive and UX-rich front-ends, or enhancing performance of existing tools and services.",
+        "Analyze problems and develop solutions, while identifying dependencies and resolving issues to drive implementation.",
+        "Make technical contributions, including writing and reviewing design documents, tests, and code (e.g., JavaScript, Python, TypeScript, SQL).",
+        "Provide subject-matter expertise and utilize comprehensive knowledge of Google's relevant technologies, principles, practices, and coding standards.",
+        "Collaborate with cross-functional users and stakeholders to identify pain points and devise innovative technical solutions."
+      ],
+      "verifiedAt": "2026-11-25T13:36:59.904Z",
+      "source": "Google"
+    },
+    {
+      "id": "123542917821145798",
+      "title": "Staff Software Engineer, Cloud AI Gemini Enterprise",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/123542917821145798-staff-software-engineer-cloud-ai-gemini-enterprise",
+      "firstDetectedAt": "2026-11-25T13:36:55.971Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "8 years of experience in software development.",
+        "5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture.",
+        "5 years of experience leading ML design and optimizing end-to-end Machine Learning (e.g., model deployment, model evaluation, data processing, debugging, fine tuning).",
+        "2 years of experience with state of the art GenAI techniques (e.g., LLMs, Multi-Modal, Large Vision Models) or with GenAI-related concepts (language modeling, computer vision)."
+      ],
+      "preferred": [
+        "Master’s degree or PhD in Engineering, Computer Science, or a related technical field.",
+        "8 years of experience with data structures and algorithms.",
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction.",
+        "Experience building and understanding agentic AI, large language models (LLMs), and their application in customer-facing products.",
+        "Experience with generative AI and building agentic systems"
+      ],
+      "duties": [
+        "Collaborate with other gemini enterprise teams to build long term differentiation. Provide technical leadership on high-impact projects.",
+        "Design and implement frameworks/techniques to optimize for reliability, quality and configurability. Influence and coach a distributed team of engineers.",
+        "Help support customer issues and participate in on-call duties as needed. Facilitate alignment and clarity across teams on goals, outcomes, and timelines.",
+        "Manage project priorities, deadlines, and deliverables. Work on State of the art methods to enable agentic experiences for Google Cloud's enterprise customers.",
+        "Design, develop, test, deploy, maintain, and enhance large-scale software solutions."
+      ],
+      "verifiedAt": "2026-11-25T13:36:59.858Z",
+      "source": "Google"
+    },
+    {
+      "id": "85570429057409734",
+      "title": "Staff Software Engineer, Google Distributed Cloud, Compute",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "See job details",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/85570429057409734-staff-software-engineer-google-distributed-cloud-compute",
+      "firstDetectedAt": "2026-11-25T13:36:55.971Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree or equivalent practical experience.",
+        "8 years of experience programming in C++.",
+        "5 years of experience testing, and launching software products.",
+        "3 years leading technical architecture, cross-team roadmaps, and engineering teams as a Tech Lead or Staff Software Engineer.",
+        "Experience managing enterprise hardware by Distributed Management Task Force (DMTF) Redfish REST APIs, Intelligent Platform Management Interface (IPMI), or OEM out-of-band interfaces (e.g., Dell iDRAC/RACADM).",
+        "Experience with systems-level software development, bare-metal server bring-up, OS provisioning, or device drivers. Experience with platform security, including TPM 2.0 PCRs, UEFI Secure Boot, attestation, or cryptographic storage (e.g., TCG Opal SEDs)."
+      ],
+      "preferred": [
+        "Master’s degree or PhD in Engineering, Computer Science, or a related technical field.",
+        "8 years of experience with data structures and algorithms.",
+        "3 years of experience in a technical leadership role leading project teams and setting technical direction."
+      ],
+      "duties": [
+        "Direct architectural governance to qualify server platforms, GPUs/accelerators (e.g., NVIDIA B200, B300, H200), high-speed NICs, and storage across Google Distributed Cloud Connected (GDCc), Google Global Cache (GGC), and tactical edge deployments.",
+        "Architect bare-metal bootstrap workflows, including the RAM-resident GDC Bootstrapper Live OS, pre-turnup automation, host-to-BMC virtual USB network interfaces, and qualification suites.",
+        "Build decoupled firmware delivery and validation engines for Basic Input/Output System (BIOS), Integrated Dell Remote Access Controller/Baseboard Management Controller (iDRAC/BMC), CPLD/FPGA, and GPU VBIOS/NVSwitch, using attestation to prevent bootstrap failures and verify N-1 downgrades.",
+        "Manage node storage across Non-Volatile Memory Express (NVMe) namespaces, Self-Encrypting Drives (SED).",
+        "Partner with FedSec and OS teams to enforce hardware security controls, including UEFI Secure Boot, LinuxBoot, TPM 2.0 PCR measurements, BMC credential rotation, and various pre-boot containment strategies."
+      ],
+      "verifiedAt": "2026-11-25T13:36:59.842Z",
+      "source": "Google"
+    },
+    {
+      "id": "82108273099973318",
+      "title": "Network Implementation Engineer, Wireless",
+      "location": "Bengaluru, Karnataka, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/82108273099973318-network-implementation-engineer-wireless",
+      "firstDetectedAt": "2026-11-25T13:36:55.971Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Bachelor's degree in Network Engineering or Telecom Engineering, a related technical field, or equivalent practical experience.",
+        "2 years of experience in fundamental networking technologies and protocols (BGP, OSPF, ISIS, DHCP, IPSec, GRE, Wi-Fi standards, DNS, Radius)",
+        "2 years of experience with wireless technologies.",
+        "Experience with 802.11 Wi-Fi standards, 802.1X access control and DHCP/IPv6 SLAAC."
+      ],
+      "preferred": [
+        "Experience in one or more of the following disciplines: Layer 1 optical transmissions systems, layer 3 routing TCP/IP, wireless networking, network design, or operations.",
+        "Experience with the triage of network issues, identification of root causes, and generation of Methods of Procedure (MOP) for network repair.",
+        "Foundational skill set in network automation, scripting (e.g., Python, Go), and standard network operational tools."
+      ],
+      "duties": [
+        "Build and operate Google's network reliably and at scale.",
+        "Execute deployment, maintenance, and operations of private data networks worldwide.",
+        "Develop creative approaches and collaborate with cross-functional teams to keep operational costs low.",
+        "Monitor the network and repair issues while anticipating needs and escalating issues.",
+        "Own network documentation, update and maintain network designs and plans."
+      ],
+      "verifiedAt": "2026-11-25T13:36:59.875Z",
+      "source": "Google"
+    },
+    {
       "id": "111448128854336198",
       "title": "Data Engineer",
       "location": "Pune, Maharashtra, India; Gurugram, Haryana, India",
@@ -995,7 +1192,7 @@
         "Establish data cataloging, quality, and governance procedures using Databricks Unity Catalog, Collibra, or Dataplex Knowledge Catalog covering automated metadata harvesting, data lineage, business glossaries, data quality checks, PII tagging, and fine-grained row/column-level security.",
         "Build, test, and integrate practical, data-connected AI agents using Google ADK, Vertex AI, or LangGraph."
       ],
-      "verifiedAt": "2026-11-24T20:39:47.552Z",
+      "verifiedAt": "2026-11-25T13:36:56.844Z",
       "source": "Google"
     },
     {
@@ -1023,7 +1220,7 @@
         "Help external GDC customers who hit issues in production clusters.",
         "Lead the technology you work on at Meetups/Forums/Slack and engage with consumers/community in public."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.580Z",
+      "verifiedAt": "2026-11-25T13:36:56.934Z",
       "source": "Google"
     },
     {
@@ -1056,7 +1253,7 @@
         "Establish cataloging, lineage, business glossaries, PII tagging, data quality checks, and row/column-level security using Dataplex, Unity Catalog, or Collibra.",
         "Build curated Medallion/dimensional models, semantic layers, and GenAI pipelines (document parsing, embeddings, vector search) for BI and AI workloads.Develop data-connected AI agents (Google ADK, Vertex AI, LangGraph) while troubleshooting Spark/SQL bottlenecks and building reusable automation accelerators"
       ],
-      "verifiedAt": "2026-11-24T16:22:58.593Z",
+      "verifiedAt": "2026-11-25T13:36:56.810Z",
       "source": "Google"
     },
     {
@@ -1090,7 +1287,7 @@
         "Work with architects, designers, verification and software engineers to develop and review post silicon test plans, coverage and debug.",
         "Drive the enablement of all key subsystems and high-speed serial & parallel interfaces in server silicon. Drive all the people management functions including, but not limited to, hiring, people development, prioritizing and managing resources to achieve project execution timelines."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.512Z",
+      "verifiedAt": "2026-11-25T13:36:56.862Z",
       "source": "Google"
     },
     {
@@ -1124,7 +1321,7 @@
         "Coordinate deliverables across a matrixed global workforce, aligning schedules, managing dependencies, and actively resolving complex technical blockers.",
         "Lead critical debug forums to drive complex system failure signatures to rapid root-cause closure by driving actions across multi-disciplinary teams."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.435Z",
+      "verifiedAt": "2026-11-25T13:36:56.902Z",
       "source": "Google"
     },
     {
@@ -1153,7 +1350,7 @@
         "Optimize power, performance and area (PPA) to achieve exceptional performance and cost.",
         "Reduce time to market and improve PPA through deployment of Artificial Intelligence (AI) physical design tools and workflows."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.449Z",
+      "verifiedAt": "2026-11-25T13:36:56.959Z",
       "source": "Google"
     },
     {
@@ -1185,7 +1382,7 @@
         "Implement data governance and security best practices to protect sensitive data and ensure compliance with relevant regulations.",
         "Evaluate and adopt new technologies and tools to enhance the capabilities of the analytics platform and improve data management processes."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.425Z",
+      "verifiedAt": "2026-11-25T13:36:56.917Z",
       "source": "Google"
     },
     {
@@ -1210,7 +1407,7 @@
         "Interact closely with the Subsystem team and plan SOC milestones, plan quality checks as part of SOC milestones, and guide subsystem teams with SOC level requirements (e.g., IPXACT, CSR, Lint, CDC, SDC, UPF, etc.).",
         "Work closely with the cross-functional team of verification, design for test, physical design, emulation, and software teams to make design decisions and represent project status throughout the development process."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.413Z",
+      "verifiedAt": "2026-11-25T13:36:56.976Z",
       "source": "Google"
     },
     {
@@ -1244,7 +1441,7 @@
         "Apply a systemic focus to architectural decisions, optimizing for global performance, high availability, strict security boundary enforcement, and operational simplicity.",
         "Provide technical leadership on high-impact projects."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.660Z",
+      "verifiedAt": "2026-11-25T13:36:57.220Z",
       "source": "Google"
     },
     {
@@ -1277,7 +1474,7 @@
         "Facilitate the post-sales transition by supporting pricing activities and transitioning the final delivery plan to implementation teams.",
         "Maintain awareness of progress against the delivery plan, providing support to cross-functional teams during ramp, delivery, migration, or implementation phases."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.946Z",
+      "verifiedAt": "2026-11-25T13:36:57.299Z",
       "source": "Google"
     },
     {
@@ -1304,7 +1501,7 @@
         "Build scalable automated evaluation frameworks, benchmarks, and data pipelines to measure naturalness, factuality, and helpfulness.",
         "Collaborate with research, product, and User Experience (UX) teams across DeepMind to prototype and ship production Artificial Intelligence (AI) features at scale."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.934Z",
+      "verifiedAt": "2026-11-25T13:36:57.204Z",
       "source": "Google"
     },
     {
@@ -1336,7 +1533,7 @@
         "Drive design methodology, libraries, debug, code review in coordination with other IPs Design Verification (DV) teams and physical design teams.",
         "Identify and drive power, performance and area improvements for the domains owned."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.889Z",
+      "verifiedAt": "2026-11-25T13:36:57.250Z",
       "source": "Google"
     },
     {
@@ -1371,7 +1568,7 @@
         "Lead and mentor junior engineers within the team.",
         "Uphold and maintain a high bar for code quality and robustness of production systems."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.901Z",
+      "verifiedAt": "2026-11-25T13:36:57.285Z",
       "source": "Google"
     },
     {
@@ -1406,7 +1603,7 @@
         "Advocate scalable evaluation frameworks spanning structured facts and unstructured claims, active learning pipelines, and synthetic data generation to maximize model performance.",
         "Cultivate engineering excellence across the organization."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.878Z",
+      "verifiedAt": "2026-11-25T13:36:57.265Z",
       "source": "Google"
     },
     {
@@ -1441,7 +1638,7 @@
         "Mentor and grow senior and junior engineers, setting a high bar for system reliability, performance engineering, and experimental excellence across the team.",
         "Provide technical leadership on high-impact projects."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.843Z",
+      "verifiedAt": "2026-11-25T13:36:57.187Z",
       "source": "Google"
     },
     {
@@ -1475,7 +1672,7 @@
         "Facilitate alignment and clarity across teams on goals, outcomes, and timelines.",
         "Manage project priorities, deadlines, and deliverables."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.912Z",
+      "verifiedAt": "2026-11-25T13:36:57.236Z",
       "source": "Google"
     },
     {
@@ -1506,7 +1703,7 @@
         "Establish zero-compromise automated invariant verifications and agreement test-motivated development (Agreement-TDD) pipelines, ensuring data quality, Sarbanes-Oxley Act (SOX) compliance, and financial controllership balance for month-end and quater close.",
         "Eliminate systemic technical debt, and serve as the ultimate technical escalation authority for complex production anomalies, and cross-system drifts."
       ],
-      "verifiedAt": "2026-11-24T16:22:58.864Z",
+      "verifiedAt": "2026-11-25T13:36:57.544Z",
       "source": "Google"
     },
     {
@@ -1541,7 +1738,7 @@
         "Scale agentic operations across Search binaries and rotations. Author and evolve reusable skills, measure agent quality in production, and close the loop so the system gets better with every incident.",
         "Manage project priorities, deadlines, and deliverables. Design AI-native solutions by default. Treat Large Language Models (LLMs), agents and skills as first-class building blocks for detection, noise reduction, triage, root-causing, culprit-finding and remediation."
       ],
-      "verifiedAt": "2026-11-24T16:22:59.180Z",
+      "verifiedAt": "2026-11-25T13:36:57.595Z",
       "source": "Google"
     },
     {
@@ -1573,7 +1770,7 @@
         "Align cross-functionally with Field Sales Representatives (FSRs) and partners to execute joint Data+AI plays, driving platform standardization and co-sell motions.",
         "Illustrate modern architectures (BigQuery, Spark, Spanner, AlloyDB) to demonstrate how unified data foundations power high-performance, hallucination-free AI agents."
       ],
-      "verifiedAt": "2026-11-24T16:22:59.192Z",
+      "verifiedAt": "2026-11-25T13:36:57.527Z",
       "source": "Google"
     },
     {
@@ -1630,7 +1827,7 @@
       "duties": [
         "Participate in research to develop solutions for real-world, large-scale problems."
       ],
-      "verifiedAt": "2026-11-24T16:09:56.952Z",
+      "verifiedAt": "2026-11-25T13:36:57.491Z",
       "source": "Google"
     },
     {
@@ -1834,7 +2031,7 @@
       ],
       "preferred": [],
       "duties": [],
-      "verifiedAt": "2026-11-24T16:09:57.242Z",
+      "verifiedAt": "2026-11-25T13:36:57.820Z",
       "source": "Google"
     },
     {
@@ -2447,7 +2644,7 @@
         "Develop high-performance evaluation and debugging frameworks to guarantee system accuracy, safety, and low latency. Partner with client engineering teams to foster Google-grade development practices and ensure long-term adoption.",
         "Translate field insights and roadblocks into formal feature requests and reusable core modules. Drive full-stack project priorities and infrastructure challenges end-to-end with enthusiasm and accountability."
       ],
-      "verifiedAt": "2026-11-24T16:05:29.968Z",
+      "verifiedAt": "2026-11-25T13:36:58.056Z",
       "source": "Google"
     },
     {
@@ -2920,7 +3117,7 @@
         "Be a part of this different and collaborative team. Handle challenging distributed systems problems and contribute towards a significant impact to Google.",
         "Build critical features and advance their scalability, reliability, and availability, such as backups, restores, replication, copy, and so on."
       ],
-      "verifiedAt": "2026-11-24T16:05:30.673Z",
+      "verifiedAt": "2026-11-25T13:36:58.309Z",
       "source": "Google"
     },
     {
@@ -3659,7 +3856,7 @@
         "Identify and implement optimizations within the data infrastructure to enhance performance, cost-efficiency, and scalability.",
         "Develop and maintain dashboards and reports to provide actionable insights into data quality, pipeline status, and key operational metrics for the Overhead Imagery Operations and partner teams."
       ],
-      "verifiedAt": "2026-11-24T16:05:24.985Z",
+      "verifiedAt": "2026-11-25T13:36:58.552Z",
       "source": "Google"
     },
     {
@@ -4192,7 +4389,7 @@
         "Design and implement tests and experiments to evaluate and monitor the performance of the system. Interact and interface with PM/TPM for project planning and execution.",
         "Work effectively across boundaries in a distributed team setup to deliver on organizational goals. Use the full battery of tools and instrumentation to develop, test and rollout features. Work with customers to help find solutions to their blocking issues."
       ],
-      "verifiedAt": "2026-11-24T16:05:25.948Z",
+      "verifiedAt": "2026-11-25T13:36:58.788Z",
       "source": "Google"
     },
     {
@@ -4664,7 +4861,7 @@
         "Analyze information and evaluate results to choose the best solution to effectively solve issues.",
         "Apply knowledge gained in computer science courses to real world challenges."
       ],
-      "verifiedAt": "2026-11-24T16:05:26.605Z",
+      "verifiedAt": "2026-11-25T13:36:58.985Z",
       "source": "Google"
     },
     {
@@ -4690,7 +4887,7 @@
       "duties": [
         "Responsibilities may vary based on specific teams."
       ],
-      "verifiedAt": "2026-11-24T16:05:26.664Z",
+      "verifiedAt": "2026-11-25T13:36:59.012Z",
       "source": "Google"
     },
     {
@@ -5264,10 +5461,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-10-31T13:26:29.371Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-10-31T17:52:49.407Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -5662,7 +5855,11 @@
     {
       "checkedAt": "2026-11-25T03:45:32.790Z",
       "result": "Found 24 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-25T13:36:55.971Z",
+      "result": "Found 34 matching roles; 6 new opening(s)"
     }
   ],
-  "searchCursor": 18
+  "searchCursor": 20
 }
