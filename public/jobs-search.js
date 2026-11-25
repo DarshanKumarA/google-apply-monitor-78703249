@@ -2,6 +2,11 @@
 if (new URLSearchParams(location.search).get('folder') === 'baseline' && !location.pathname.endsWith('/jobs-archive.html')) {
   location.replace(new URL('jobs-archive.html', location.href));
 } else {
+  if (location.hash === '#scan-history') {
+    const history = document.getElementById('scan-history');
+    history.open = true;
+    history.scrollIntoView();
+  }
   const scan = document.getElementById('scan');
   if (Date.now() - Date.parse(scan.dataset.checked) > 20 * 60000) scan.append(' · Update delayed');
   const search = document.getElementById('search');

@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import { publishFolders } from "./render-jobs.mjs";
+import { isEligible } from "./eligibility.mjs";
 import nodemailer from "nodemailer";
 
 const careersBase = "https://www.google.com/about/careers/applications/jobs/results/";
@@ -12,7 +13,6 @@ const slug = (title) => title.toLowerCase().replace(/&/g, "and").replace(/[^a-z0
 const normalizeId = (value) => String(value).match(/(\d+)$/)?.[1] ?? String(value);
 // Junior/early-career focus: “Engineer I” remains eligible; II/III and roles
 // with senior or manager in their titles are explicitly excluded.
-const isEligible = (job) => !/\b(?:senior|manager|ii|iii)\b/i.test(job.title);
 
 function loadState() {
   try { return JSON.parse(fs.readFileSync(stateFile, "utf8")); }
@@ -20,7 +20,8 @@ function loadState() {
 }
 function saveState(state) { fs.writeFileSync(stateFile, `${JSON.stringify(state, null, 2)}\n`); }
 function publish(data) {
-  data = {...data, initial: data.initial.filter(inIndia), newOpenings: data.newOpenings.filter(inIndia)};
+  const visible = job => inIndia(job) && isEligible(job);
+  data = {...data, initial: data.initial.filter(visible), newOpenings: data.newOpenings.filter(visible)};
   fs.mkdirSync("public", { recursive: true });
   fs.writeFileSync("public/jobs.json", `${JSON.stringify(data, null, 2)}\n`);
   // A plain script works even in browsers that restrict JavaScript fetch(),
@@ -105,7 +106,7 @@ async function keepLiveStoredJobs(jobs) {
       if (Date.now() - Date.parse(job.verifiedAt) < 12 * 3600000) return job;
       return enrich(job, job.firstDetectedAt);
     }));
-    live.push(...batch.filter(Boolean));
+    live.push(...batch.filter(job => job && isEligible(job)));
   }
   return live;
 }
@@ -150,7 +151,10 @@ try {
     if (!state.knownIds[job.id]) discovered.push(job);
   }
   const enriched = [];
-  for (let index = 0; index < discovered.length; index += 8) enriched.push(...(await Promise.all(discovered.slice(index, index + 8).map((job) => enrich(job, checkedAt)))).filter(Boolean));
+  for (let index = 0; index < discovered.length; index += 8) {
+    const batch = await Promise.all(discovered.slice(index, index + 8).map(job => enrich(job, checkedAt)));
+    enriched.push(...batch.filter(job => job && isEligible(job)));
+  }
 
   if (!state.initializedAt) {
     state.initializedAt = checkedAt;
