@@ -96,7 +96,7 @@ jobs:
         run: |
           git config user.name 'Careers Tracker'
           git config user.email 'actions@github.com'
-          for file in Rankings.md delivery.json; do
+          for file in Rankings.md delivery.json .match-key; do
             if [[ -f "$file" ]]; then git add -- "$file"; fi
           done
           if ! git diff --cached --quiet; then

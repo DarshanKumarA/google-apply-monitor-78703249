@@ -19,6 +19,18 @@ After the secrets are set, open your repository on GitHub, choose **Actions**, a
 
 ## Local testing
 
+The India openings tracker filters senior titles and doctoral requirements before ranking.
+On the public site, résumé badges are locked. In the private matchroom, open
+`Rankings.md` and select **Open tracker with my match statuses**. The personal link
+unlocks Strong, Borderline and Stretch badges for that scan in both folders.
+Treat it as a password; share the ordinary dashboard URL instead. The browser
+does not save the key. Reopen the personal link after refreshing or closing the tab.
+Only encrypted ID-to-tier data goes into the public Pages artifact, not résumé text.
+To revoke a leaked link, replace the private room's `.match-key` with a freshly generated
+32-byte base64url key (or delete it there) and run the monitor to republish.
+
+Regression tests: `node --test test-matches.mjs` and `python -B -m unittest test_recommend`.
+
 ```powershell
 npm install
 node monitor.mjs

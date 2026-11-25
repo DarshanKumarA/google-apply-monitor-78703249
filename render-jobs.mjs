@@ -12,6 +12,7 @@ function card(job) {
     ? `<a href="${escape(job.jobUrl)}">View Google posting ↗</a>` : '';
   return `<article data-search="${escape([job.title, job.location, skills].join(' '))}">
     <h2>${escape(job.title)}</h2><p>${escape(job.location)}</p>
+    <span class="match" data-job-id="${escape(job.id)}">Résumé match · Private</span>
     <time>First found ${localTime(job.firstDetectedAt)}</time>
     <p>Posted · ${escape(job.postingDate || 'Unavailable')}</p>
     <p>Application window · ${escape(job.expiryDate || 'Unavailable')}</p>${link}</article>`;

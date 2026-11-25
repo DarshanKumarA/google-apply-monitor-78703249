@@ -131,7 +131,7 @@ def mail(subject, body):
 
 def description(row):
     j = row["job"]
-    lines = [j["title"] + " · " + j["location"], j["jobUrl"], *row["reasons"]]
+    lines = [j["title"] + " · " + j["location"], "Résumé match: " + row["tier"], j["jobUrl"], *row["reasons"]]
     if row["preferred"]:
         lines.append("Preferred skills you mention: " + ", ".join(row["preferred"]))
     lines.extend("Check: " + gap for gap in row["gaps"])
@@ -160,7 +160,13 @@ def run():
             if re.search(r"\bIndia\b", j.get("location", ""), re.I)}
     rows = [assess(j, lines) for j in jobs.values()]
     rows.sort(key=lambda r: ({"Strong":0,"Borderline":1,"Stretch":2}[r["tier"]], -len(r["shared"]),r["job"]["title"]))
+    matches = {"checkedAt": snapshot["checkedAt"], "tiers": {r["job"]["id"]: r["tier"] for r in rows}}
+    subprocess.run(["node", str(Path(__file__).resolve().with_name("seal-matches.mjs"))],
+                   input=json.dumps(matches).encode(), check=True)
+    unlock = (ROOM / ".match-key").read_text().strip()
+    tracker = "https://darshankumara.github.io/google-apply-monitor-78703249/jobs.html#matches=" + unlock
     cards = ["# Your recommendations · India", f"Experience used: {MONTHS} months. Latest scan: {snapshot['checkedAt']}.",
+             f"[Open tracker with my match statuses]({tracker}) — keep this personal link private.",
              "Review eligibility, location and the original posting before applying."]
     cards.append("| Role | Fit | Matching skills |\n| --- | --- | --- |\n" + "\n".join(
         f"| [{r['job']['title'].replace('|', '/')} ]({r['job']['jobUrl']}) | {r['tier']} | {', '.join(r['shared']) or 'Review JD'} |"
