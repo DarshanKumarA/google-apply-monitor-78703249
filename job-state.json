@@ -704,7 +704,7 @@
         "Identify new product features and feature gaps, provide guidance on existing product challenges, and collaborate with Product Managers and Engineers to influence the roadmap of Google Cloud Platform.",
         "Provide expert guidance on architectural data strategies to ensure optimized utilization across different AI models. Deliver best practices recommendations, tutorials, blog articles, and technical presentations adapting to different levels of key business and technical stakeholders."
       ],
-      "verifiedAt": "2026-11-26T04:31:09.572Z",
+      "verifiedAt": "2026-11-26T23:07:56.347Z",
       "source": "Google"
     },
     {
@@ -737,7 +737,7 @@
         "Establish data cataloging, quality, and governance procedures using Databricks Unity Catalog, Collibra, or Dataplex Knowledge Catalog covering automated metadata harvesting, data lineage, business glossaries, data quality checks, PII tagging, and fine-grained row/column-level security.",
         "Build, test, and integrate practical, data-connected AI agents using Google ADK, Vertex AI, or LangGraph."
       ],
-      "verifiedAt": "2026-11-26T04:31:09.477Z",
+      "verifiedAt": "2026-11-26T23:07:56.325Z",
       "source": "Google"
     },
     {
@@ -762,7 +762,7 @@
       "duties": [
         "Participate in research to develop solutions for real-world, large-scale problems."
       ],
-      "verifiedAt": "2026-11-26T04:31:09.596Z",
+      "verifiedAt": "2026-11-26T23:07:56.368Z",
       "source": "Google"
     },
     {
@@ -1183,7 +1183,7 @@
         "Identify and implement optimizations within the data infrastructure to enhance performance, cost-efficiency, and scalability.",
         "Develop and maintain dashboards and reports to provide actionable insights into data quality, pipeline status, and key operational metrics for the Overhead Imagery Operations and partner teams."
       ],
-      "verifiedAt": "2026-11-26T04:31:10.135Z",
+      "verifiedAt": "2026-11-26T23:07:56.579Z",
       "source": "Google"
     },
     {
@@ -1420,10 +1420,6 @@
     }
   ],
   "checks": [
-    {
-      "checkedAt": "2026-11-01T21:54:21.634Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
     {
       "checkedAt": "2026-11-02T01:18:45.574Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
@@ -1819,7 +1815,11 @@
     {
       "checkedAt": "2026-11-26T14:21:02.105Z",
       "result": "Found 12 matching roles; 1 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-26T23:07:56.009Z",
+      "result": "Found 11 matching roles; 0 new opening(s)"
     }
   ],
-  "searchCursor": 32
+  "searchCursor": 34
 }
