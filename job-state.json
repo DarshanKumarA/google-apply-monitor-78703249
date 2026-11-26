@@ -420,7 +420,8 @@
     "82108273099973318": "2026-11-25T13:36:55.971Z",
     "85646978259526342": "2026-11-25T14:04:54.489Z",
     "130401499556520646": "2026-11-25T14:04:54.489Z",
-    "108715629858431686": "2026-11-25T14:04:54.489Z"
+    "108715629858431686": "2026-11-25T14:04:54.489Z",
+    "124359162665542342": "2026-11-26T14:21:02.105Z"
   },
   "baseline": [
     {
@@ -643,6 +644,37 @@
     }
   ],
   "newOpenings": [
+    {
+      "id": "124359162665542342",
+      "title": "Data Center Technician, Server Operation",
+      "location": "Mumbai, Maharashtra, India",
+      "experience": "Early career",
+      "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/124359162665542342-data-center-technician-server-operation",
+      "firstDetectedAt": "2026-11-26T14:21:02.105Z",
+      "postingDate": "Not published by Google",
+      "expiryDate": "Not listed",
+      "required": [
+        "Experience with performing component-level repairs and troubleshooting on technical equipment.",
+        "Experience with diagnosing and troubleshooting operating systems, computer hardware and server hardware.",
+        "Experience with networking protocols."
+      ],
+      "preferred": [
+        "Bachelor's degree or equivalent practical experience.",
+        "4 years of experience in maintenance and monitoring of server systems.",
+        "Experience with performing component-level repairs and troubleshooting on IT equipment or in a similar role (e.g., Systems Administration, Network Deployment Engineer, Help Desk Technician, etc.).",
+        "Experience working within a data center or network operation center environment.",
+        "Experience with Linux operating systems."
+      ],
+      "duties": [
+        "Deploy and operate new data center infrastructure across projects or teams (e.g., machine learning platforms, network architecture).",
+        "Report issues and follow data center procedures to troubleshoot and diagnose moderately complex issues with equipment or infrastructure as they arise, and identify the resources needed to resolve identified issues.",
+        "Diagnose, repair, and perform preventative maintenance on equipment, servers, machines, and infrastructure based on identified issues with multiple solutions, independently.",
+        "Execute advanced operational procedures as part of daily work activities and follow security policies and processes.",
+        "Work in shift pattern to meet evolving business needs and operational schedules."
+      ],
+      "verifiedAt": "2026-11-26T14:21:02.989Z",
+      "source": "Google"
+    },
     {
       "id": "108715629858431686",
       "title": "Cloud Engineer, Data and AI",
@@ -1389,10 +1421,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-11-01T17:56:16.196Z",
-      "result": "Found 77 matching roles; 0 new opening(s)"
-    },
-    {
       "checkedAt": "2026-11-01T21:54:21.634Z",
       "result": "Found 77 matching roles; 0 new opening(s)"
     },
@@ -1787,7 +1815,11 @@
     {
       "checkedAt": "2026-11-26T04:31:09.170Z",
       "result": "Found 14 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-26T14:21:02.105Z",
+      "result": "Found 12 matching roles; 1 new opening(s)"
     }
   ],
-  "searchCursor": 30
+  "searchCursor": 32
 }
