@@ -672,7 +672,7 @@
         "Execute advanced operational procedures as part of daily work activities and follow security policies and processes.",
         "Work in shift pattern to meet evolving business needs and operational schedules."
       ],
-      "verifiedAt": "2026-11-27T05:01:21.616Z",
+      "verifiedAt": "2026-11-27T23:18:40.529Z",
       "source": "Google"
     },
     {
@@ -1421,10 +1421,6 @@
   ],
   "checks": [
     {
-      "checkedAt": "2026-11-02T17:28:10.624Z",
-      "result": "Found 76 matching roles; 1 new opening(s)"
-    },
-    {
       "checkedAt": "2026-11-03T00:01:27.876Z",
       "result": "Found 75 matching roles; 0 new opening(s)"
     },
@@ -1819,7 +1815,11 @@
     {
       "checkedAt": "2026-11-27T14:56:20.701Z",
       "result": "Found 9 matching roles; 0 new opening(s)"
+    },
+    {
+      "checkedAt": "2026-11-27T23:18:40.182Z",
+      "result": "Found 9 matching roles; 0 new opening(s)"
     }
   ],
-  "searchCursor": 38
+  "searchCursor": 40
 }
